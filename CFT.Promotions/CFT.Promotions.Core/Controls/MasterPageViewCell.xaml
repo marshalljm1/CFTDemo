@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CFT.Promotions.Core.Controls.MasterPageViewCell">
+    <StackLayout Orientation="Horizontal">
+        <Image Source="{Binding IconSource}"/>
+        <Button Text="{Binding Title}" 
+                Command="{Binding NavigateCommand}"
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"/>
+    </StackLayout>
+</ViewCell>
