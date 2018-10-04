@@ -1,4 +1,6 @@
-﻿using CFT.Promotions.Core.Utility;
+﻿using Autofac;
+using CFT.Promotions.Core.Utility;
+using CFT.Promotions.Core.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -8,7 +10,7 @@ namespace CFT.Promotions.Core
     public partial class App : Application
     {
         //TODO: Replace with *.azurewebsites.net url after deploying backend to Azure
-        public static string FruitionBackendUrl = "http://localhost:5000";
+        public static string BackendUrl = "http://mgnsecdev.com:63969";
 
         public static MasterDetailPage MasterDetailPage;
 
@@ -17,6 +19,8 @@ namespace CFT.Promotions.Core
             InitializeComponent();
 
             BootStrapper.Run();
+
+            MainPage = BootStrapper.Container.Resolve<SignUpView>();
         }
 
         protected override void OnStart()

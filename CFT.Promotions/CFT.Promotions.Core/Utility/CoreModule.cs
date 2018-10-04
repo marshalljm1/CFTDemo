@@ -4,6 +4,7 @@ using Autofac.Extras.AggregateService;
 using CFT.Promotions.Core.Interfaces;
 using CFT.Promotions.Core.Models;
 using CFT.Promotions.Core.Services;
+using Plugin.Toasts;
 using Module = Autofac.Module;
 
 namespace CFT.Promotions.Core.Utility
@@ -18,15 +19,14 @@ namespace CFT.Promotions.Core.Utility
             builder.RegisterAssemblyTypes(assembly).Where(t => t.Namespace.EndsWith("Models"));
             builder.RegisterAssemblyTypes(assembly).Where(t => t.Namespace.Contains("View"));
             builder.RegisterAssemblyTypes(assembly).Where(t => t.Namespace.EndsWith("ViewModel"));
+            builder.RegisterAssemblyTypes(assembly).Where(t => t.Namespace.Contains("Validation"));
 
             //Services
             builder.RegisterType<NavigationService>().As<INavigationService>().SingleInstance();
+            builder.RegisterType<ToastNotification>().As<IToastNotificator>();
+            builder.RegisterType<UnitOfWork>().As<IUnitOfWork>();
             builder.RegisterAggregateService<ICommonServices>();
-#if DEBUG
-            builder.RegisterType<MockDataStore>().As<IDataStore<BaseItem>>().SingleInstance();
-#else
-            builder.RegisterType<FruitionDataStore>().As<IDataStore<Item>>().SingleInstance();
-#endif
+            builder.RegisterGeneric(typeof(DataStore<>)).As(typeof(IDataStore<>));
         }
     }
 }

@@ -12,15 +12,20 @@
   <ItemGroup>
     <PackageReference Include="Autofac" Version="4.8.1" />
     <PackageReference Include="Autofac.Extras.AggregateService" Version="4.1.0" />
+    <PackageReference Include="PayPal.Forms" Version="2.18.3" />
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
+    <PackageReference Include="Toasts.Forms.Plugin" Version="3.3.2" />
     <PackageReference Include="Xam.Plugins.Settings" Version="3.1.1" />
-    <PackageReference Include="Xamarin.Forms" Version="3.1.0.697729" />  
+    <PackageReference Include="Xamarin.Forms" Version="3.2.0.871581" />  
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Reference Include="Mono.Android">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v8.1\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="Toasts.Forms.Plugin.Droid">
+      <HintPath>..\..\..\..\..\.nuget\packages\toasts.forms.plugin\3.3.2\lib\MonoAndroid10\Toasts.Forms.Plugin.Droid.dll</HintPath>
     </Reference>
   </ItemGroup>
 

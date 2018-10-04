@@ -4,7 +4,7 @@ using Android.Content;
 using Android.OS;
 using Xamarin.Forms.Platform.Android;
 
-namespace CFT.Promotions.Droid
+namespace CFT.Promotions.Android
 {
     [Activity(Theme = "@style/MainTheme.Splash", MainLauncher = true, NoHistory = true)]
     public class Splash : FormsAppCompatActivity

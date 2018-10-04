@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviors="clr-namespace:CFT.Promotions.Core.Behaviors;assembly=CFT.Promotions.Core"
+             xmlns:converters="clr-namespace:CFT.Promotions.Core.Converters;assembly=CFT.Promotions.Core"
+             x:Class="CFT.Promotions.Core.Views.SignUpView"
+             x:Name="SignUpPage"
+             BackgroundImage="background_portrait.jpg">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:FirstValidationErrorConverter x:Key="FirstValidationErrorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Margin="50,50,50,50"
+                 Orientation="Vertical">
+
+        <Label Text="{Binding Promo}"
+               Scale="1.25"
+               HorizontalOptions="Center"
+               Margin="0,20,0,30"
+               FontFamily="{StaticResource MontserratRegular}"/>
+
+        <StackLayout x:Name="MainStack">
+
+            <StackLayout 
+                Orientation="Vertical"
+                Margin="{DynamicResource Left20Top40}"
+                HorizontalOptions="FillAndExpand"
+                BackgroundColor="#55000000">
+
+
+                <StackLayout x:Name="NameStack"
+                             Orientation="Horizontal" 
+                             Margin="{DynamicResource Left20Top40}"
+                             HorizontalOptions="FillAndExpand">
+
+                    <StackLayout Orientation="Vertical"
+                                 HorizontalOptions="FillAndExpand">
+                        <Entry Placeholder="First Name" 
+                               Text="{Binding FirstName.Value, Mode=TwoWay}"
+                               TextColor="White"
+                               PlaceholderColor="White"
+                               HorizontalOptions="FillAndExpand"
+                               Style="{StaticResource EntryStyle}">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding ValidateFirstNameCommand}"/>
+                            </Entry.Behaviors>
+                            <Entry.Triggers>
+                                <DataTrigger 
+                                    TargetType="Entry"
+                                    Binding="{Binding FirstName.IsValid}"
+                                    Value="false">
+                                    <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                                </DataTrigger>
+                            </Entry.Triggers>
+
+                        </Entry>
+                        
+                        <Label 
+                            Text="{Binding FirstName.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                            Style="{StaticResource ValidationErrorLabelStyle}" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Vertical"
+                                 HorizontalOptions="FillAndExpand">
+                        <Entry Placeholder="Last Name" 
+                               Text="{Binding LastName.Value, Mode=TwoWay}"
+                               TextColor="White"
+                               PlaceholderColor="White"
+                               HorizontalOptions="FillAndExpand"
+                               Style="{StaticResource EntryStyle}">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding ValidateLastNameCommand}"/>
+                            </Entry.Behaviors>
+                            <Entry.Triggers>
+                                <DataTrigger 
+                                    TargetType="Entry"
+                                    Binding="{Binding LastName.IsValid}"
+                                    Value="false">
+                                    <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                                </DataTrigger>
+                            </Entry.Triggers>
+                        </Entry>
+                        <Label 
+                            Text="{Binding LastName.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                            Style="{StaticResource ValidationErrorLabelStyle}" />
+                    </StackLayout>
+
+                </StackLayout>
+                
+                
+
+                <StackLayout Orientation="Vertical"
+                             HorizontalOptions="FillAndExpand"
+                             Margin="{DynamicResource Left20Top40}">
+                    <Entry Placeholder="Email Address" 
+                           Text="{Binding Email.Value, Mode=TwoWay}"
+                           TextColor="White"
+                           PlaceholderColor="White"
+                           HorizontalOptions="FillAndExpand"
+                           Style="{StaticResource EntryStyle}">
+                        <Entry.Behaviors>
+                            <behaviors:EventToCommandBehavior 
+                                EventName="TextChanged"
+                                Command="{Binding ValidateEmailCommand}"/>
+                        </Entry.Behaviors>
+                        <Entry.Triggers>
+                            <DataTrigger 
+                                TargetType="Entry"
+                                Binding="{Binding Email.IsValid}"
+                                Value="false">
+                                <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                            </DataTrigger>
+                        </Entry.Triggers>
+                    </Entry>
+                    <Label 
+                        Text="{Binding Email.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                        Style="{StaticResource ValidationErrorLabelStyle}" />
+                </StackLayout>
+
+            </StackLayout>
+            
+            <ListView ItemsSource ="{Binding Trips}"
+                      IsPullToRefreshEnabled="True"
+                      RefreshCommand="{Binding RefreshCommand}"
+                      IsRefreshing="{Binding IsRefreshing}"
+                      SelectionMode="None"
+                      HasUnevenRows="True"
+                      BackgroundColor="#55000000"
+                      Margin="{StaticResource Left20Top40}"
+                      HorizontalOptions="FillAndExpand">
+                
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Margin="{StaticResource Left20Top40}">
+                                <StackLayout Orientation="Vertical">
+
+                                    <Label Text="{Binding FormattedCityDescription}" 
+                                           FontSize="Large"
+                                           TextColor="Red"
+                                           FontFamily="{StaticResource MontserratRegular}"/>
+                                    <Label Text="{Binding FormattedDates}" 
+                                           FontSize="Small"
+                                           TextColor="Red"
+                                           FontFamily="{StaticResource MontserratRegular}"/>
+
+                                </StackLayout>
+
+                                <Button Text="Book Now!" 
+                                        HorizontalOptions="EndAndExpand"
+                                        Command="{Binding Source={x:Reference SignUpPage}, Path=BindingContext.PayCommand}" 
+                                        CommandParameter="{Binding .}"/>
+
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+        <Label x:Name="scrollLabel"
+               TextColor="Black"
+               Text="Scroll down for more trips!" 
+               FontFamily="{StaticResource MontserratRegular}"
+               HorizontalOptions="Center"/>
+    </StackLayout>
+
+</ContentPage>

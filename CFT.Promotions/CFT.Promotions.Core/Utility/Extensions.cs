@@ -1,4 +1,5 @@
 ﻿using System.Text.RegularExpressions;
+using CFT.Promotions.Core.Models;
 
 namespace CFT.Promotions.Core.Utility
 {

@@ -21,10 +21,10 @@ namespace CFT.Promotions.Core.Services
         //Public methods
         public Task InitializeAsync()
         {
-#if !DEBUG
+#if DEBUG
             return string.IsNullOrEmpty(Settings.AuthAccessToken) ? NavigateToAsync<LoginViewModel>() : NavigateToAsync<MainViewModel>();
 #else
-            return NavigateToAsync<LoginViewModel>();
+            return NavigateToAsync<SignUpViewModel>();
 #endif
         }
 
