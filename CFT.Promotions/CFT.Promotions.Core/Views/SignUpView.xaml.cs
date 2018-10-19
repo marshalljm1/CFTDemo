@@ -1,14 +1,10 @@
-﻿using CFT.Promotions.Core.Models;
-using CFT.Promotions.Core.Services;
-using CFT.Promotions.Core.ViewModels;
-using CFT.Promotions.Core.Utility;
+﻿using CFT.Promotions.Core.ViewModels;
 using Xamarin.Forms;
-using Xamarin.Forms.Internals;
 using Xamarin.Forms.Xaml;
 
 namespace CFT.Promotions.Core.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class SignUpView : ContentPage
 	{
 	    private double _width;
@@ -47,6 +43,11 @@ namespace CFT.Promotions.Core.Views
 	                scrollLabel.TextColor = Color.Black;
 	            }
 	        }
+	    }
+
+	    protected override void OnAppearing()
+	    {
+            (this.BindingContext as SignUpViewModel).ClearFieldsCommand.Execute(new object());
 	    }
 	}
 }

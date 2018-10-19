@@ -26,2100 +26,2427 @@ namespace CFT.Promotions.Android
 		
 		public static void UpdateIdValues()
 		{
-			global::PayPal.Forms.Android.Resource.Animation.abc_fade_in = global::CFT.Promotions.Android.Resource.Animation.abc_fade_in;
-			global::PayPal.Forms.Android.Resource.Animation.abc_fade_out = global::CFT.Promotions.Android.Resource.Animation.abc_fade_out;
-			global::PayPal.Forms.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::PayPal.Forms.Android.Resource.Animation.abc_popup_enter = global::CFT.Promotions.Android.Resource.Animation.abc_popup_enter;
-			global::PayPal.Forms.Android.Resource.Animation.abc_popup_exit = global::CFT.Promotions.Android.Resource.Animation.abc_popup_exit;
-			global::PayPal.Forms.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::PayPal.Forms.Android.Resource.Animation.abc_slide_in_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_slide_in_bottom;
-			global::PayPal.Forms.Android.Resource.Animation.abc_slide_in_top = global::CFT.Promotions.Android.Resource.Animation.abc_slide_in_top;
-			global::PayPal.Forms.Android.Resource.Animation.abc_slide_out_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_slide_out_bottom;
-			global::PayPal.Forms.Android.Resource.Animation.abc_slide_out_top = global::CFT.Promotions.Android.Resource.Animation.abc_slide_out_top;
-			global::PayPal.Forms.Android.Resource.Animation.design_bottom_sheet_slide_in = global::CFT.Promotions.Android.Resource.Animation.design_bottom_sheet_slide_in;
-			global::PayPal.Forms.Android.Resource.Animation.design_bottom_sheet_slide_out = global::CFT.Promotions.Android.Resource.Animation.design_bottom_sheet_slide_out;
-			global::PayPal.Forms.Android.Resource.Animation.design_snackbar_in = global::CFT.Promotions.Android.Resource.Animation.design_snackbar_in;
-			global::PayPal.Forms.Android.Resource.Animation.design_snackbar_out = global::CFT.Promotions.Android.Resource.Animation.design_snackbar_out;
-			global::PayPal.Forms.Android.Resource.Animator.design_appbar_state_list_animator = global::CFT.Promotions.Android.Resource.Animator.design_appbar_state_list_animator;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarDivider = global::CFT.Promotions.Android.Resource.Attribute.actionBarDivider;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarItemBackground = global::CFT.Promotions.Android.Resource.Attribute.actionBarItemBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarPopupTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarPopupTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarSize = global::CFT.Promotions.Android.Resource.Attribute.actionBarSize;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarSplitStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarSplitStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarTabBarStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarTabStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarTabTextStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabTextStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.actionBarWidgetTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarWidgetTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.actionButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionDropDownStyle = global::CFT.Promotions.Android.Resource.Attribute.actionDropDownStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionLayout = global::CFT.Promotions.Android.Resource.Attribute.actionLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.actionMenuTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.actionMenuTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.actionMenuTextColor = global::CFT.Promotions.Android.Resource.Attribute.actionMenuTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeBackground = global::CFT.Promotions.Android.Resource.Attribute.actionModeBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeCloseButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModeCloseButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeCloseDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCloseDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeCopyDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCopyDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeCutDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCutDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeFindDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeFindDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModePasteDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModePasteDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModePopupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModePopupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeSelectAllDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeSelectAllDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeShareDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeShareDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeSplitBackground = global::CFT.Promotions.Android.Resource.Attribute.actionModeSplitBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModeStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionModeWebSearchDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeWebSearchDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.actionOverflowButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionOverflowButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionOverflowMenuStyle = global::CFT.Promotions.Android.Resource.Attribute.actionOverflowMenuStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.actionProviderClass = global::CFT.Promotions.Android.Resource.Attribute.actionProviderClass;
-			global::PayPal.Forms.Android.Resource.Attribute.actionViewClass = global::CFT.Promotions.Android.Resource.Attribute.actionViewClass;
-			global::PayPal.Forms.Android.Resource.Attribute.activityChooserViewStyle = global::CFT.Promotions.Android.Resource.Attribute.activityChooserViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::CFT.Promotions.Android.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.alertDialogCenterButtons = global::CFT.Promotions.Android.Resource.Attribute.alertDialogCenterButtons;
-			global::PayPal.Forms.Android.Resource.Attribute.alertDialogStyle = global::CFT.Promotions.Android.Resource.Attribute.alertDialogStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.alertDialogTheme = global::CFT.Promotions.Android.Resource.Attribute.alertDialogTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.allowStacking = global::CFT.Promotions.Android.Resource.Attribute.allowStacking;
-			global::PayPal.Forms.Android.Resource.Attribute.alpha = global::CFT.Promotions.Android.Resource.Attribute.alpha;
-			global::PayPal.Forms.Android.Resource.Attribute.arrowHeadLength = global::CFT.Promotions.Android.Resource.Attribute.arrowHeadLength;
-			global::PayPal.Forms.Android.Resource.Attribute.arrowShaftLength = global::CFT.Promotions.Android.Resource.Attribute.arrowShaftLength;
-			global::PayPal.Forms.Android.Resource.Attribute.autoCompleteTextViewStyle = global::CFT.Promotions.Android.Resource.Attribute.autoCompleteTextViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.background = global::CFT.Promotions.Android.Resource.Attribute.background;
-			global::PayPal.Forms.Android.Resource.Attribute.backgroundSplit = global::CFT.Promotions.Android.Resource.Attribute.backgroundSplit;
-			global::PayPal.Forms.Android.Resource.Attribute.backgroundStacked = global::CFT.Promotions.Android.Resource.Attribute.backgroundStacked;
-			global::PayPal.Forms.Android.Resource.Attribute.backgroundTint = global::CFT.Promotions.Android.Resource.Attribute.backgroundTint;
-			global::PayPal.Forms.Android.Resource.Attribute.backgroundTintMode = global::CFT.Promotions.Android.Resource.Attribute.backgroundTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.barLength = global::CFT.Promotions.Android.Resource.Attribute.barLength;
-			global::PayPal.Forms.Android.Resource.Attribute.behavior_autoHide = global::CFT.Promotions.Android.Resource.Attribute.behavior_autoHide;
-			global::PayPal.Forms.Android.Resource.Attribute.behavior_hideable = global::CFT.Promotions.Android.Resource.Attribute.behavior_hideable;
-			global::PayPal.Forms.Android.Resource.Attribute.behavior_overlapTop = global::CFT.Promotions.Android.Resource.Attribute.behavior_overlapTop;
-			global::PayPal.Forms.Android.Resource.Attribute.behavior_peekHeight = global::CFT.Promotions.Android.Resource.Attribute.behavior_peekHeight;
-			global::PayPal.Forms.Android.Resource.Attribute.behavior_skipCollapsed = global::CFT.Promotions.Android.Resource.Attribute.behavior_skipCollapsed;
-			global::PayPal.Forms.Android.Resource.Attribute.borderWidth = global::CFT.Promotions.Android.Resource.Attribute.borderWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.borderlessButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.borderlessButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.bottomSheetDialogTheme = global::CFT.Promotions.Android.Resource.Attribute.bottomSheetDialogTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.bottomSheetStyle = global::CFT.Promotions.Android.Resource.Attribute.bottomSheetStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonBarButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonBarStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonGravity = global::CFT.Promotions.Android.Resource.Attribute.buttonGravity;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonPanelSideLayout = global::CFT.Promotions.Android.Resource.Attribute.buttonPanelSideLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonStyleSmall = global::CFT.Promotions.Android.Resource.Attribute.buttonStyleSmall;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonTint = global::CFT.Promotions.Android.Resource.Attribute.buttonTint;
-			global::PayPal.Forms.Android.Resource.Attribute.buttonTintMode = global::CFT.Promotions.Android.Resource.Attribute.buttonTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.cardBackgroundColor = global::CFT.Promotions.Android.Resource.Attribute.cardBackgroundColor;
-			global::PayPal.Forms.Android.Resource.Attribute.cardCornerRadius = global::CFT.Promotions.Android.Resource.Attribute.cardCornerRadius;
-			global::PayPal.Forms.Android.Resource.Attribute.cardElevation = global::CFT.Promotions.Android.Resource.Attribute.cardElevation;
-			global::PayPal.Forms.Android.Resource.Attribute.cardMaxElevation = global::CFT.Promotions.Android.Resource.Attribute.cardMaxElevation;
-			global::PayPal.Forms.Android.Resource.Attribute.cardPreventCornerOverlap = global::CFT.Promotions.Android.Resource.Attribute.cardPreventCornerOverlap;
-			global::PayPal.Forms.Android.Resource.Attribute.cardUseCompatPadding = global::CFT.Promotions.Android.Resource.Attribute.cardUseCompatPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.checkboxStyle = global::CFT.Promotions.Android.Resource.Attribute.checkboxStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.checkedTextViewStyle = global::CFT.Promotions.Android.Resource.Attribute.checkedTextViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.closeIcon = global::CFT.Promotions.Android.Resource.Attribute.closeIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.closeItemLayout = global::CFT.Promotions.Android.Resource.Attribute.closeItemLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.collapseContentDescription = global::CFT.Promotions.Android.Resource.Attribute.collapseContentDescription;
-			global::PayPal.Forms.Android.Resource.Attribute.collapseIcon = global::CFT.Promotions.Android.Resource.Attribute.collapseIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.collapsedTitleGravity = global::CFT.Promotions.Android.Resource.Attribute.collapsedTitleGravity;
-			global::PayPal.Forms.Android.Resource.Attribute.collapsedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.collapsedTitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.color = global::CFT.Promotions.Android.Resource.Attribute.color;
-			global::PayPal.Forms.Android.Resource.Attribute.colorAccent = global::CFT.Promotions.Android.Resource.Attribute.colorAccent;
-			global::PayPal.Forms.Android.Resource.Attribute.colorBackgroundFloating = global::CFT.Promotions.Android.Resource.Attribute.colorBackgroundFloating;
-			global::PayPal.Forms.Android.Resource.Attribute.colorButtonNormal = global::CFT.Promotions.Android.Resource.Attribute.colorButtonNormal;
-			global::PayPal.Forms.Android.Resource.Attribute.colorControlActivated = global::CFT.Promotions.Android.Resource.Attribute.colorControlActivated;
-			global::PayPal.Forms.Android.Resource.Attribute.colorControlHighlight = global::CFT.Promotions.Android.Resource.Attribute.colorControlHighlight;
-			global::PayPal.Forms.Android.Resource.Attribute.colorControlNormal = global::CFT.Promotions.Android.Resource.Attribute.colorControlNormal;
-			global::PayPal.Forms.Android.Resource.Attribute.colorPrimary = global::CFT.Promotions.Android.Resource.Attribute.colorPrimary;
-			global::PayPal.Forms.Android.Resource.Attribute.colorPrimaryDark = global::CFT.Promotions.Android.Resource.Attribute.colorPrimaryDark;
-			global::PayPal.Forms.Android.Resource.Attribute.colorSwitchThumbNormal = global::CFT.Promotions.Android.Resource.Attribute.colorSwitchThumbNormal;
-			global::PayPal.Forms.Android.Resource.Attribute.commitIcon = global::CFT.Promotions.Android.Resource.Attribute.commitIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetEnd = global::CFT.Promotions.Android.Resource.Attribute.contentInsetEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Attribute.contentInsetEndWithActions;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetLeft = global::CFT.Promotions.Android.Resource.Attribute.contentInsetLeft;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetRight = global::CFT.Promotions.Android.Resource.Attribute.contentInsetRight;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetStart = global::CFT.Promotions.Android.Resource.Attribute.contentInsetStart;
-			global::PayPal.Forms.Android.Resource.Attribute.contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Attribute.contentInsetStartWithNavigation;
-			global::PayPal.Forms.Android.Resource.Attribute.contentPadding = global::CFT.Promotions.Android.Resource.Attribute.contentPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.contentPaddingBottom = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingBottom;
-			global::PayPal.Forms.Android.Resource.Attribute.contentPaddingLeft = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingLeft;
-			global::PayPal.Forms.Android.Resource.Attribute.contentPaddingRight = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingRight;
-			global::PayPal.Forms.Android.Resource.Attribute.contentPaddingTop = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingTop;
-			global::PayPal.Forms.Android.Resource.Attribute.contentScrim = global::CFT.Promotions.Android.Resource.Attribute.contentScrim;
-			global::PayPal.Forms.Android.Resource.Attribute.controlBackground = global::CFT.Promotions.Android.Resource.Attribute.controlBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.counterEnabled = global::CFT.Promotions.Android.Resource.Attribute.counterEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.counterMaxLength = global::CFT.Promotions.Android.Resource.Attribute.counterMaxLength;
-			global::PayPal.Forms.Android.Resource.Attribute.counterOverflowTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.counterOverflowTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.counterTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.counterTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.customNavigationLayout = global::CFT.Promotions.Android.Resource.Attribute.customNavigationLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.defaultQueryHint = global::CFT.Promotions.Android.Resource.Attribute.defaultQueryHint;
-			global::PayPal.Forms.Android.Resource.Attribute.dialogPreferredPadding = global::CFT.Promotions.Android.Resource.Attribute.dialogPreferredPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.dialogTheme = global::CFT.Promotions.Android.Resource.Attribute.dialogTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.displayOptions = global::CFT.Promotions.Android.Resource.Attribute.displayOptions;
-			global::PayPal.Forms.Android.Resource.Attribute.divider = global::CFT.Promotions.Android.Resource.Attribute.divider;
-			global::PayPal.Forms.Android.Resource.Attribute.dividerHorizontal = global::CFT.Promotions.Android.Resource.Attribute.dividerHorizontal;
-			global::PayPal.Forms.Android.Resource.Attribute.dividerPadding = global::CFT.Promotions.Android.Resource.Attribute.dividerPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.dividerVertical = global::CFT.Promotions.Android.Resource.Attribute.dividerVertical;
-			global::PayPal.Forms.Android.Resource.Attribute.drawableSize = global::CFT.Promotions.Android.Resource.Attribute.drawableSize;
-			global::PayPal.Forms.Android.Resource.Attribute.drawerArrowStyle = global::CFT.Promotions.Android.Resource.Attribute.drawerArrowStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.dropDownListViewStyle = global::CFT.Promotions.Android.Resource.Attribute.dropDownListViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::CFT.Promotions.Android.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::PayPal.Forms.Android.Resource.Attribute.editTextBackground = global::CFT.Promotions.Android.Resource.Attribute.editTextBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.editTextColor = global::CFT.Promotions.Android.Resource.Attribute.editTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.editTextStyle = global::CFT.Promotions.Android.Resource.Attribute.editTextStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.elevation = global::CFT.Promotions.Android.Resource.Attribute.elevation;
-			global::PayPal.Forms.Android.Resource.Attribute.errorEnabled = global::CFT.Promotions.Android.Resource.Attribute.errorEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.errorTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.errorTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CFT.Promotions.Android.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.expanded = global::CFT.Promotions.Android.Resource.Attribute.expanded;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleGravity = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleGravity;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleMargin = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMargin;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleMarginBottom = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginBottom;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleMarginEnd = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleMarginStart = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginStart;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleMarginTop = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginTop;
-			global::PayPal.Forms.Android.Resource.Attribute.expandedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.externalRouteEnabledDrawable = global::CFT.Promotions.Android.Resource.Attribute.externalRouteEnabledDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.fabSize = global::CFT.Promotions.Android.Resource.Attribute.fabSize;
-			global::PayPal.Forms.Android.Resource.Attribute.foregroundInsidePadding = global::CFT.Promotions.Android.Resource.Attribute.foregroundInsidePadding;
-			global::PayPal.Forms.Android.Resource.Attribute.gapBetweenBars = global::CFT.Promotions.Android.Resource.Attribute.gapBetweenBars;
-			global::PayPal.Forms.Android.Resource.Attribute.goIcon = global::CFT.Promotions.Android.Resource.Attribute.goIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.headerLayout = global::CFT.Promotions.Android.Resource.Attribute.headerLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.height = global::CFT.Promotions.Android.Resource.Attribute.height;
-			global::PayPal.Forms.Android.Resource.Attribute.hideOnContentScroll = global::CFT.Promotions.Android.Resource.Attribute.hideOnContentScroll;
-			global::PayPal.Forms.Android.Resource.Attribute.hintAnimationEnabled = global::CFT.Promotions.Android.Resource.Attribute.hintAnimationEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.hintEnabled = global::CFT.Promotions.Android.Resource.Attribute.hintEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.hintTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.hintTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Attribute.homeAsUpIndicator;
-			global::PayPal.Forms.Android.Resource.Attribute.homeLayout = global::CFT.Promotions.Android.Resource.Attribute.homeLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.icon = global::CFT.Promotions.Android.Resource.Attribute.icon;
-			global::PayPal.Forms.Android.Resource.Attribute.iconifiedByDefault = global::CFT.Promotions.Android.Resource.Attribute.iconifiedByDefault;
-			global::PayPal.Forms.Android.Resource.Attribute.imageButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.imageButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.indeterminateProgressStyle = global::CFT.Promotions.Android.Resource.Attribute.indeterminateProgressStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.initialActivityCount = global::CFT.Promotions.Android.Resource.Attribute.initialActivityCount;
-			global::PayPal.Forms.Android.Resource.Attribute.insetForeground = global::CFT.Promotions.Android.Resource.Attribute.insetForeground;
-			global::PayPal.Forms.Android.Resource.Attribute.isLightTheme = global::CFT.Promotions.Android.Resource.Attribute.isLightTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.itemBackground = global::CFT.Promotions.Android.Resource.Attribute.itemBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.itemIconTint = global::CFT.Promotions.Android.Resource.Attribute.itemIconTint;
-			global::PayPal.Forms.Android.Resource.Attribute.itemPadding = global::CFT.Promotions.Android.Resource.Attribute.itemPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.itemTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.itemTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.itemTextColor = global::CFT.Promotions.Android.Resource.Attribute.itemTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.keylines = global::CFT.Promotions.Android.Resource.Attribute.keylines;
-			global::PayPal.Forms.Android.Resource.Attribute.layout = global::CFT.Promotions.Android.Resource.Attribute.layout;
-			global::PayPal.Forms.Android.Resource.Attribute.layoutManager = global::CFT.Promotions.Android.Resource.Attribute.layoutManager;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_anchor = global::CFT.Promotions.Android.Resource.Attribute.layout_anchor;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_anchorGravity = global::CFT.Promotions.Android.Resource.Attribute.layout_anchorGravity;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_behavior = global::CFT.Promotions.Android.Resource.Attribute.layout_behavior;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_collapseMode = global::CFT.Promotions.Android.Resource.Attribute.layout_collapseMode;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::CFT.Promotions.Android.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_dodgeInsetEdges = global::CFT.Promotions.Android.Resource.Attribute.layout_dodgeInsetEdges;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_insetEdge = global::CFT.Promotions.Android.Resource.Attribute.layout_insetEdge;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_keyline = global::CFT.Promotions.Android.Resource.Attribute.layout_keyline;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_scrollFlags = global::CFT.Promotions.Android.Resource.Attribute.layout_scrollFlags;
-			global::PayPal.Forms.Android.Resource.Attribute.layout_scrollInterpolator = global::CFT.Promotions.Android.Resource.Attribute.layout_scrollInterpolator;
-			global::PayPal.Forms.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::CFT.Promotions.Android.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::PayPal.Forms.Android.Resource.Attribute.listDividerAlertDialog = global::CFT.Promotions.Android.Resource.Attribute.listDividerAlertDialog;
-			global::PayPal.Forms.Android.Resource.Attribute.listItemLayout = global::CFT.Promotions.Android.Resource.Attribute.listItemLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.listLayout = global::CFT.Promotions.Android.Resource.Attribute.listLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.listMenuViewStyle = global::CFT.Promotions.Android.Resource.Attribute.listMenuViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.listPopupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.listPopupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.listPreferredItemHeight = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeight;
-			global::PayPal.Forms.Android.Resource.Attribute.listPreferredItemHeightLarge = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeightLarge;
-			global::PayPal.Forms.Android.Resource.Attribute.listPreferredItemHeightSmall = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeightSmall;
-			global::PayPal.Forms.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::PayPal.Forms.Android.Resource.Attribute.listPreferredItemPaddingRight = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemPaddingRight;
-			global::PayPal.Forms.Android.Resource.Attribute.logo = global::CFT.Promotions.Android.Resource.Attribute.logo;
-			global::PayPal.Forms.Android.Resource.Attribute.logoDescription = global::CFT.Promotions.Android.Resource.Attribute.logoDescription;
-			global::PayPal.Forms.Android.Resource.Attribute.maxActionInlineWidth = global::CFT.Promotions.Android.Resource.Attribute.maxActionInlineWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.maxButtonHeight = global::CFT.Promotions.Android.Resource.Attribute.maxButtonHeight;
-			global::PayPal.Forms.Android.Resource.Attribute.measureWithLargestChild = global::CFT.Promotions.Android.Resource.Attribute.measureWithLargestChild;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteAudioTrackDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteCloseDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteCloseDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteDefaultIconDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRoutePauseDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRoutePauseDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRoutePlayDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRoutePlayDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteStopDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteStopDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteTheme = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteTvIconDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.menu = global::CFT.Promotions.Android.Resource.Attribute.menu;
-			global::PayPal.Forms.Android.Resource.Attribute.multiChoiceItemLayout = global::CFT.Promotions.Android.Resource.Attribute.multiChoiceItemLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.navigationContentDescription = global::CFT.Promotions.Android.Resource.Attribute.navigationContentDescription;
-			global::PayPal.Forms.Android.Resource.Attribute.navigationIcon = global::CFT.Promotions.Android.Resource.Attribute.navigationIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.navigationMode = global::CFT.Promotions.Android.Resource.Attribute.navigationMode;
-			global::PayPal.Forms.Android.Resource.Attribute.overlapAnchor = global::CFT.Promotions.Android.Resource.Attribute.overlapAnchor;
-			global::PayPal.Forms.Android.Resource.Attribute.paddingBottomNoButtons = global::CFT.Promotions.Android.Resource.Attribute.paddingBottomNoButtons;
-			global::PayPal.Forms.Android.Resource.Attribute.paddingEnd = global::CFT.Promotions.Android.Resource.Attribute.paddingEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.paddingStart = global::CFT.Promotions.Android.Resource.Attribute.paddingStart;
-			global::PayPal.Forms.Android.Resource.Attribute.paddingTopNoTitle = global::CFT.Promotions.Android.Resource.Attribute.paddingTopNoTitle;
-			global::PayPal.Forms.Android.Resource.Attribute.panelBackground = global::CFT.Promotions.Android.Resource.Attribute.panelBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.panelMenuListTheme = global::CFT.Promotions.Android.Resource.Attribute.panelMenuListTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.panelMenuListWidth = global::CFT.Promotions.Android.Resource.Attribute.panelMenuListWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.passwordToggleContentDescription = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleContentDescription;
-			global::PayPal.Forms.Android.Resource.Attribute.passwordToggleDrawable = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleDrawable;
-			global::PayPal.Forms.Android.Resource.Attribute.passwordToggleEnabled = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.passwordToggleTint = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleTint;
-			global::PayPal.Forms.Android.Resource.Attribute.passwordToggleTintMode = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.popupMenuStyle = global::CFT.Promotions.Android.Resource.Attribute.popupMenuStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.popupTheme = global::CFT.Promotions.Android.Resource.Attribute.popupTheme;
-			global::PayPal.Forms.Android.Resource.Attribute.popupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.popupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.preserveIconSpacing = global::CFT.Promotions.Android.Resource.Attribute.preserveIconSpacing;
-			global::PayPal.Forms.Android.Resource.Attribute.pressedTranslationZ = global::CFT.Promotions.Android.Resource.Attribute.pressedTranslationZ;
-			global::PayPal.Forms.Android.Resource.Attribute.progressBarPadding = global::CFT.Promotions.Android.Resource.Attribute.progressBarPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.progressBarStyle = global::CFT.Promotions.Android.Resource.Attribute.progressBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.queryBackground = global::CFT.Promotions.Android.Resource.Attribute.queryBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.queryHint = global::CFT.Promotions.Android.Resource.Attribute.queryHint;
-			global::PayPal.Forms.Android.Resource.Attribute.radioButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.radioButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.ratingBarStyle = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.ratingBarStyleIndicator = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyleIndicator;
-			global::PayPal.Forms.Android.Resource.Attribute.ratingBarStyleSmall = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyleSmall;
-			global::PayPal.Forms.Android.Resource.Attribute.reverseLayout = global::CFT.Promotions.Android.Resource.Attribute.reverseLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.rippleColor = global::CFT.Promotions.Android.Resource.Attribute.rippleColor;
-			global::PayPal.Forms.Android.Resource.Attribute.scrimAnimationDuration = global::CFT.Promotions.Android.Resource.Attribute.scrimAnimationDuration;
-			global::PayPal.Forms.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::CFT.Promotions.Android.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::PayPal.Forms.Android.Resource.Attribute.searchHintIcon = global::CFT.Promotions.Android.Resource.Attribute.searchHintIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.searchIcon = global::CFT.Promotions.Android.Resource.Attribute.searchIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.searchViewStyle = global::CFT.Promotions.Android.Resource.Attribute.searchViewStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.seekBarStyle = global::CFT.Promotions.Android.Resource.Attribute.seekBarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.selectableItemBackground = global::CFT.Promotions.Android.Resource.Attribute.selectableItemBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::CFT.Promotions.Android.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::PayPal.Forms.Android.Resource.Attribute.showAsAction = global::CFT.Promotions.Android.Resource.Attribute.showAsAction;
-			global::PayPal.Forms.Android.Resource.Attribute.showDividers = global::CFT.Promotions.Android.Resource.Attribute.showDividers;
-			global::PayPal.Forms.Android.Resource.Attribute.showText = global::CFT.Promotions.Android.Resource.Attribute.showText;
-			global::PayPal.Forms.Android.Resource.Attribute.showTitle = global::CFT.Promotions.Android.Resource.Attribute.showTitle;
-			global::PayPal.Forms.Android.Resource.Attribute.singleChoiceItemLayout = global::CFT.Promotions.Android.Resource.Attribute.singleChoiceItemLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.spanCount = global::CFT.Promotions.Android.Resource.Attribute.spanCount;
-			global::PayPal.Forms.Android.Resource.Attribute.spinBars = global::CFT.Promotions.Android.Resource.Attribute.spinBars;
-			global::PayPal.Forms.Android.Resource.Attribute.spinnerDropDownItemStyle = global::CFT.Promotions.Android.Resource.Attribute.spinnerDropDownItemStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.spinnerStyle = global::CFT.Promotions.Android.Resource.Attribute.spinnerStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.splitTrack = global::CFT.Promotions.Android.Resource.Attribute.splitTrack;
-			global::PayPal.Forms.Android.Resource.Attribute.srcCompat = global::CFT.Promotions.Android.Resource.Attribute.srcCompat;
-			global::PayPal.Forms.Android.Resource.Attribute.stackFromEnd = global::CFT.Promotions.Android.Resource.Attribute.stackFromEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.state_above_anchor = global::CFT.Promotions.Android.Resource.Attribute.state_above_anchor;
-			global::PayPal.Forms.Android.Resource.Attribute.state_collapsed = global::CFT.Promotions.Android.Resource.Attribute.state_collapsed;
-			global::PayPal.Forms.Android.Resource.Attribute.state_collapsible = global::CFT.Promotions.Android.Resource.Attribute.state_collapsible;
-			global::PayPal.Forms.Android.Resource.Attribute.statusBarBackground = global::CFT.Promotions.Android.Resource.Attribute.statusBarBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.statusBarScrim = global::CFT.Promotions.Android.Resource.Attribute.statusBarScrim;
-			global::PayPal.Forms.Android.Resource.Attribute.subMenuArrow = global::CFT.Promotions.Android.Resource.Attribute.subMenuArrow;
-			global::PayPal.Forms.Android.Resource.Attribute.submitBackground = global::CFT.Promotions.Android.Resource.Attribute.submitBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.subtitle = global::CFT.Promotions.Android.Resource.Attribute.subtitle;
-			global::PayPal.Forms.Android.Resource.Attribute.subtitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.subtitleTextColor = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.subtitleTextStyle = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.suggestionRowLayout = global::CFT.Promotions.Android.Resource.Attribute.suggestionRowLayout;
-			global::PayPal.Forms.Android.Resource.Attribute.switchMinWidth = global::CFT.Promotions.Android.Resource.Attribute.switchMinWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.switchPadding = global::CFT.Promotions.Android.Resource.Attribute.switchPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.switchStyle = global::CFT.Promotions.Android.Resource.Attribute.switchStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.switchTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.switchTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.tabBackground = global::CFT.Promotions.Android.Resource.Attribute.tabBackground;
-			global::PayPal.Forms.Android.Resource.Attribute.tabContentStart = global::CFT.Promotions.Android.Resource.Attribute.tabContentStart;
-			global::PayPal.Forms.Android.Resource.Attribute.tabGravity = global::CFT.Promotions.Android.Resource.Attribute.tabGravity;
-			global::PayPal.Forms.Android.Resource.Attribute.tabIndicatorColor = global::CFT.Promotions.Android.Resource.Attribute.tabIndicatorColor;
-			global::PayPal.Forms.Android.Resource.Attribute.tabIndicatorHeight = global::CFT.Promotions.Android.Resource.Attribute.tabIndicatorHeight;
-			global::PayPal.Forms.Android.Resource.Attribute.tabMaxWidth = global::CFT.Promotions.Android.Resource.Attribute.tabMaxWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.tabMinWidth = global::CFT.Promotions.Android.Resource.Attribute.tabMinWidth;
-			global::PayPal.Forms.Android.Resource.Attribute.tabMode = global::CFT.Promotions.Android.Resource.Attribute.tabMode;
-			global::PayPal.Forms.Android.Resource.Attribute.tabPadding = global::CFT.Promotions.Android.Resource.Attribute.tabPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.tabPaddingBottom = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingBottom;
-			global::PayPal.Forms.Android.Resource.Attribute.tabPaddingEnd = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.tabPaddingStart = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingStart;
-			global::PayPal.Forms.Android.Resource.Attribute.tabPaddingTop = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingTop;
-			global::PayPal.Forms.Android.Resource.Attribute.tabSelectedTextColor = global::CFT.Promotions.Android.Resource.Attribute.tabSelectedTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.tabTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.tabTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.tabTextColor = global::CFT.Promotions.Android.Resource.Attribute.tabTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.textAllCaps = global::CFT.Promotions.Android.Resource.Attribute.textAllCaps;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceListItem = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItem;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceListItemSecondary = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItemSecondary;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceListItemSmall = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItemSmall;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::CFT.Promotions.Android.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::PayPal.Forms.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::PayPal.Forms.Android.Resource.Attribute.textColorAlertDialogListItem = global::CFT.Promotions.Android.Resource.Attribute.textColorAlertDialogListItem;
-			global::PayPal.Forms.Android.Resource.Attribute.textColorError = global::CFT.Promotions.Android.Resource.Attribute.textColorError;
-			global::PayPal.Forms.Android.Resource.Attribute.textColorSearchUrl = global::CFT.Promotions.Android.Resource.Attribute.textColorSearchUrl;
-			global::PayPal.Forms.Android.Resource.Attribute.theme = global::CFT.Promotions.Android.Resource.Attribute.theme;
-			global::PayPal.Forms.Android.Resource.Attribute.thickness = global::CFT.Promotions.Android.Resource.Attribute.thickness;
-			global::PayPal.Forms.Android.Resource.Attribute.thumbTextPadding = global::CFT.Promotions.Android.Resource.Attribute.thumbTextPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.thumbTint = global::CFT.Promotions.Android.Resource.Attribute.thumbTint;
-			global::PayPal.Forms.Android.Resource.Attribute.thumbTintMode = global::CFT.Promotions.Android.Resource.Attribute.thumbTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.tickMark = global::CFT.Promotions.Android.Resource.Attribute.tickMark;
-			global::PayPal.Forms.Android.Resource.Attribute.tickMarkTint = global::CFT.Promotions.Android.Resource.Attribute.tickMarkTint;
-			global::PayPal.Forms.Android.Resource.Attribute.tickMarkTintMode = global::CFT.Promotions.Android.Resource.Attribute.tickMarkTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.tint = global::CFT.Promotions.Android.Resource.Attribute.tint;
-			global::PayPal.Forms.Android.Resource.Attribute.tintMode = global::CFT.Promotions.Android.Resource.Attribute.tintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.title = global::CFT.Promotions.Android.Resource.Attribute.title;
-			global::PayPal.Forms.Android.Resource.Attribute.titleEnabled = global::CFT.Promotions.Android.Resource.Attribute.titleEnabled;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMargin = global::CFT.Promotions.Android.Resource.Attribute.titleMargin;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMarginBottom = global::CFT.Promotions.Android.Resource.Attribute.titleMarginBottom;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMarginEnd = global::CFT.Promotions.Android.Resource.Attribute.titleMarginEnd;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMarginStart = global::CFT.Promotions.Android.Resource.Attribute.titleMarginStart;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMarginTop = global::CFT.Promotions.Android.Resource.Attribute.titleMarginTop;
-			global::PayPal.Forms.Android.Resource.Attribute.titleMargins = global::CFT.Promotions.Android.Resource.Attribute.titleMargins;
-			global::PayPal.Forms.Android.Resource.Attribute.titleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.titleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Attribute.titleTextColor = global::CFT.Promotions.Android.Resource.Attribute.titleTextColor;
-			global::PayPal.Forms.Android.Resource.Attribute.titleTextStyle = global::CFT.Promotions.Android.Resource.Attribute.titleTextStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.toolbarId = global::CFT.Promotions.Android.Resource.Attribute.toolbarId;
-			global::PayPal.Forms.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.toolbarStyle = global::CFT.Promotions.Android.Resource.Attribute.toolbarStyle;
-			global::PayPal.Forms.Android.Resource.Attribute.track = global::CFT.Promotions.Android.Resource.Attribute.track;
-			global::PayPal.Forms.Android.Resource.Attribute.trackTint = global::CFT.Promotions.Android.Resource.Attribute.trackTint;
-			global::PayPal.Forms.Android.Resource.Attribute.trackTintMode = global::CFT.Promotions.Android.Resource.Attribute.trackTintMode;
-			global::PayPal.Forms.Android.Resource.Attribute.useCompatPadding = global::CFT.Promotions.Android.Resource.Attribute.useCompatPadding;
-			global::PayPal.Forms.Android.Resource.Attribute.voiceIcon = global::CFT.Promotions.Android.Resource.Attribute.voiceIcon;
-			global::PayPal.Forms.Android.Resource.Attribute.windowActionBar = global::CFT.Promotions.Android.Resource.Attribute.windowActionBar;
-			global::PayPal.Forms.Android.Resource.Attribute.windowActionBarOverlay = global::CFT.Promotions.Android.Resource.Attribute.windowActionBarOverlay;
-			global::PayPal.Forms.Android.Resource.Attribute.windowActionModeOverlay = global::CFT.Promotions.Android.Resource.Attribute.windowActionModeOverlay;
-			global::PayPal.Forms.Android.Resource.Attribute.windowFixedHeightMajor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedHeightMajor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowFixedHeightMinor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedHeightMinor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowFixedWidthMajor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedWidthMajor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowFixedWidthMinor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedWidthMinor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowMinWidthMajor = global::CFT.Promotions.Android.Resource.Attribute.windowMinWidthMajor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowMinWidthMinor = global::CFT.Promotions.Android.Resource.Attribute.windowMinWidthMinor;
-			global::PayPal.Forms.Android.Resource.Attribute.windowNoTitle = global::CFT.Promotions.Android.Resource.Attribute.windowNoTitle;
-			global::PayPal.Forms.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::CFT.Promotions.Android.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::PayPal.Forms.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::CFT.Promotions.Android.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::PayPal.Forms.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CFT.Promotions.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::PayPal.Forms.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::CFT.Promotions.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::PayPal.Forms.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::CFT.Promotions.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::PayPal.Forms.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::CFT.Promotions.Android.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::PayPal.Forms.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::CFT.Promotions.Android.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::PayPal.Forms.Android.Resource.Color.abc_btn_colored_text_material = global::CFT.Promotions.Android.Resource.Color.abc_btn_colored_text_material;
-			global::PayPal.Forms.Android.Resource.Color.abc_color_highlight_material = global::CFT.Promotions.Android.Resource.Color.abc_color_highlight_material;
-			global::PayPal.Forms.Android.Resource.Color.abc_hint_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_hint_foreground_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.abc_hint_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.abc_hint_foreground_material_light;
-			global::PayPal.Forms.Android.Resource.Color.abc_input_method_navigation_guard = global::CFT.Promotions.Android.Resource.Color.abc_input_method_navigation_guard;
-			global::PayPal.Forms.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::PayPal.Forms.Android.Resource.Color.abc_primary_text_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.abc_primary_text_material_light = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_material_light;
-			global::PayPal.Forms.Android.Resource.Color.abc_search_url_text = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text;
-			global::PayPal.Forms.Android.Resource.Color.abc_search_url_text_normal = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_normal;
-			global::PayPal.Forms.Android.Resource.Color.abc_search_url_text_pressed = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_pressed;
-			global::PayPal.Forms.Android.Resource.Color.abc_search_url_text_selected = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_selected;
-			global::PayPal.Forms.Android.Resource.Color.abc_secondary_text_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_secondary_text_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.abc_secondary_text_material_light = global::CFT.Promotions.Android.Resource.Color.abc_secondary_text_material_light;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_btn_checkable = global::CFT.Promotions.Android.Resource.Color.abc_tint_btn_checkable;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_default = global::CFT.Promotions.Android.Resource.Color.abc_tint_default;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_edittext = global::CFT.Promotions.Android.Resource.Color.abc_tint_edittext;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_seek_thumb = global::CFT.Promotions.Android.Resource.Color.abc_tint_seek_thumb;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_spinner = global::CFT.Promotions.Android.Resource.Color.abc_tint_spinner;
-			global::PayPal.Forms.Android.Resource.Color.abc_tint_switch_track = global::CFT.Promotions.Android.Resource.Color.abc_tint_switch_track;
-			global::PayPal.Forms.Android.Resource.Color.accent_material_dark = global::CFT.Promotions.Android.Resource.Color.accent_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.accent_material_light = global::CFT.Promotions.Android.Resource.Color.accent_material_light;
-			global::PayPal.Forms.Android.Resource.Color.background_floating_material_dark = global::CFT.Promotions.Android.Resource.Color.background_floating_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.background_floating_material_light = global::CFT.Promotions.Android.Resource.Color.background_floating_material_light;
-			global::PayPal.Forms.Android.Resource.Color.background_material_dark = global::CFT.Promotions.Android.Resource.Color.background_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.background_material_light = global::CFT.Promotions.Android.Resource.Color.background_material_light;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_disabled_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_disabled_material_light;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_inverse_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_inverse_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_inverse_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_inverse_material_light;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.bright_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_material_light;
-			global::PayPal.Forms.Android.Resource.Color.button_material_dark = global::CFT.Promotions.Android.Resource.Color.button_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.button_material_light = global::CFT.Promotions.Android.Resource.Color.button_material_light;
-			global::PayPal.Forms.Android.Resource.Color.cardview_dark_background = global::CFT.Promotions.Android.Resource.Color.cardview_dark_background;
-			global::PayPal.Forms.Android.Resource.Color.cardview_light_background = global::CFT.Promotions.Android.Resource.Color.cardview_light_background;
-			global::PayPal.Forms.Android.Resource.Color.cardview_shadow_end_color = global::CFT.Promotions.Android.Resource.Color.cardview_shadow_end_color;
-			global::PayPal.Forms.Android.Resource.Color.cardview_shadow_start_color = global::CFT.Promotions.Android.Resource.Color.cardview_shadow_start_color;
-			global::PayPal.Forms.Android.Resource.Color.design_bottom_navigation_shadow_color = global::CFT.Promotions.Android.Resource.Color.design_bottom_navigation_shadow_color;
-			global::PayPal.Forms.Android.Resource.Color.design_error = global::CFT.Promotions.Android.Resource.Color.design_error;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_shadow_end_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_end_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_shadow_mid_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_mid_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_shadow_start_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_start_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_stroke_end_inner_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_end_inner_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_stroke_end_outer_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_end_outer_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_stroke_top_inner_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_top_inner_color;
-			global::PayPal.Forms.Android.Resource.Color.design_fab_stroke_top_outer_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_top_outer_color;
-			global::PayPal.Forms.Android.Resource.Color.design_snackbar_background_color = global::CFT.Promotions.Android.Resource.Color.design_snackbar_background_color;
-			global::PayPal.Forms.Android.Resource.Color.design_tint_password_toggle = global::CFT.Promotions.Android.Resource.Color.design_tint_password_toggle;
-			global::PayPal.Forms.Android.Resource.Color.dim_foreground_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.dim_foreground_disabled_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.dim_foreground_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.dim_foreground_disabled_material_light;
-			global::PayPal.Forms.Android.Resource.Color.dim_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.dim_foreground_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.dim_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.dim_foreground_material_light;
-			global::PayPal.Forms.Android.Resource.Color.foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.foreground_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.foreground_material_light = global::CFT.Promotions.Android.Resource.Color.foreground_material_light;
-			global::PayPal.Forms.Android.Resource.Color.highlighted_text_material_dark = global::CFT.Promotions.Android.Resource.Color.highlighted_text_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.highlighted_text_material_light = global::CFT.Promotions.Android.Resource.Color.highlighted_text_material_light;
-			global::PayPal.Forms.Android.Resource.Color.material_blue_grey_800 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_800;
-			global::PayPal.Forms.Android.Resource.Color.material_blue_grey_900 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_900;
-			global::PayPal.Forms.Android.Resource.Color.material_blue_grey_950 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_950;
-			global::PayPal.Forms.Android.Resource.Color.material_deep_teal_200 = global::CFT.Promotions.Android.Resource.Color.material_deep_teal_200;
-			global::PayPal.Forms.Android.Resource.Color.material_deep_teal_500 = global::CFT.Promotions.Android.Resource.Color.material_deep_teal_500;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_100 = global::CFT.Promotions.Android.Resource.Color.material_grey_100;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_300 = global::CFT.Promotions.Android.Resource.Color.material_grey_300;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_50 = global::CFT.Promotions.Android.Resource.Color.material_grey_50;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_600 = global::CFT.Promotions.Android.Resource.Color.material_grey_600;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_800 = global::CFT.Promotions.Android.Resource.Color.material_grey_800;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_850 = global::CFT.Promotions.Android.Resource.Color.material_grey_850;
-			global::PayPal.Forms.Android.Resource.Color.material_grey_900 = global::CFT.Promotions.Android.Resource.Color.material_grey_900;
-			global::PayPal.Forms.Android.Resource.Color.notification_action_color_filter = global::CFT.Promotions.Android.Resource.Color.notification_action_color_filter;
-			global::PayPal.Forms.Android.Resource.Color.notification_icon_bg_color = global::CFT.Promotions.Android.Resource.Color.notification_icon_bg_color;
-			global::PayPal.Forms.Android.Resource.Color.notification_material_background_media_default_color = global::CFT.Promotions.Android.Resource.Color.notification_material_background_media_default_color;
-			global::PayPal.Forms.Android.Resource.Color.primary_dark_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_dark_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.primary_dark_material_light = global::CFT.Promotions.Android.Resource.Color.primary_dark_material_light;
-			global::PayPal.Forms.Android.Resource.Color.primary_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.primary_material_light = global::CFT.Promotions.Android.Resource.Color.primary_material_light;
-			global::PayPal.Forms.Android.Resource.Color.primary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_text_default_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.primary_text_default_material_light = global::CFT.Promotions.Android.Resource.Color.primary_text_default_material_light;
-			global::PayPal.Forms.Android.Resource.Color.primary_text_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_text_disabled_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.primary_text_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.primary_text_disabled_material_light;
-			global::PayPal.Forms.Android.Resource.Color.ripple_material_dark = global::CFT.Promotions.Android.Resource.Color.ripple_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.ripple_material_light = global::CFT.Promotions.Android.Resource.Color.ripple_material_light;
-			global::PayPal.Forms.Android.Resource.Color.secondary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.secondary_text_default_material_light = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_light;
-			global::PayPal.Forms.Android.Resource.Color.secondary_text_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.secondary_text_disabled_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.secondary_text_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.secondary_text_disabled_material_light;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_disabled_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_disabled_material_light;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_material_light;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_normal_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_normal_material_dark;
-			global::PayPal.Forms.Android.Resource.Color.switch_thumb_normal_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_normal_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_default_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_height_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_elevation_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_elevation_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_button_min_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_height_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_button_min_width_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_width_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CFT.Promotions.Android.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_button_inset_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_inset_vertical_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_button_padding_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_padding_vertical_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::CFT.Promotions.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_config_prefDialogWidth = global::CFT.Promotions.Android.Resource.Dimension.abc_config_prefDialogWidth;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_control_corner_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_corner_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_control_inset_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_inset_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_control_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_padding_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_min_width_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_min_width_major;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_min_width_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_min_width_minor;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_padding_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_padding_top_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_padding_top_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dialog_title_divider_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_title_divider_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_floating_window_z = global::CFT.Promotions.Android.Resource.Dimension.abc_floating_window_z;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_panel_menu_list_width = global::CFT.Promotions.Android.Resource.Dimension.abc_panel_menu_list_width;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_progress_bar_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_progress_bar_height_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_search_view_preferred_height = global::CFT.Promotions.Android.Resource.Dimension.abc_search_view_preferred_height;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_search_view_preferred_width = global::CFT.Promotions.Android.Resource.Dimension.abc_search_view_preferred_width;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_switch_padding = global::CFT.Promotions.Android.Resource.Dimension.abc_switch_padding;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_body_1_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_body_1_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_body_2_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_body_2_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_button_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_button_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_caption_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_caption_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_display_1_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_1_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_display_2_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_2_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_display_3_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_3_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_display_4_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_4_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_headline_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_headline_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_large_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_large_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_medium_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_medium_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_menu_header_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_menu_header_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_menu_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_menu_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_small_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_small_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_subhead_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_subhead_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_title_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_title_material;
-			global::PayPal.Forms.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::PayPal.Forms.Android.Resource.Dimension.cardview_compat_inset_shadow = global::CFT.Promotions.Android.Resource.Dimension.cardview_compat_inset_shadow;
-			global::PayPal.Forms.Android.Resource.Dimension.cardview_default_elevation = global::CFT.Promotions.Android.Resource.Dimension.cardview_default_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.cardview_default_radius = global::CFT.Promotions.Android.Resource.Dimension.cardview_default_radius;
-			global::PayPal.Forms.Android.Resource.Dimension.design_appbar_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_appbar_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_height = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_height;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_margin = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_margin;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_navigation_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_text_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_border_width = global::CFT.Promotions.Android.Resource.Dimension.design_fab_border_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_fab_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_image_size = global::CFT.Promotions.Android.Resource.Dimension.design_fab_image_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_size_mini = global::CFT.Promotions.Android.Resource.Dimension.design_fab_size_mini;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_size_normal = global::CFT.Promotions.Android.Resource.Dimension.design_fab_size_normal;
-			global::PayPal.Forms.Android.Resource.Dimension.design_fab_translation_z_pressed = global::CFT.Promotions.Android.Resource.Dimension.design_fab_translation_z_pressed;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_icon_padding = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_icon_padding;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_icon_size = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_icon_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_padding_bottom = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_padding_bottom;
-			global::PayPal.Forms.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_elevation;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_min_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_padding_vertical = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_vertical;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::PayPal.Forms.Android.Resource.Dimension.design_snackbar_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_text_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_tab_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_tab_max_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_tab_scrollable_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_tab_scrollable_min_width;
-			global::PayPal.Forms.Android.Resource.Dimension.design_tab_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_tab_text_size;
-			global::PayPal.Forms.Android.Resource.Dimension.design_tab_text_size_2line = global::CFT.Promotions.Android.Resource.Dimension.design_tab_text_size_2line;
-			global::PayPal.Forms.Android.Resource.Dimension.disabled_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.disabled_alpha_material_dark;
-			global::PayPal.Forms.Android.Resource.Dimension.disabled_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.disabled_alpha_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.highlight_alpha_material_colored = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_colored;
-			global::PayPal.Forms.Android.Resource.Dimension.highlight_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_dark;
-			global::PayPal.Forms.Android.Resource.Dimension.highlight_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.hint_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.hint_alpha_material_dark;
-			global::PayPal.Forms.Android.Resource.Dimension.hint_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.hint_alpha_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::PayPal.Forms.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::PayPal.Forms.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::PayPal.Forms.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::PayPal.Forms.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_item_height;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_max_height;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::CFT.Promotions.Android.Resource.Dimension.mr_dialog_fixed_width_major;
-			global::PayPal.Forms.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::CFT.Promotions.Android.Resource.Dimension.mr_dialog_fixed_width_minor;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_action_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_icon_size;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_action_text_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_text_size;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_big_circle_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_big_circle_margin;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_content_margin_start = global::CFT.Promotions.Android.Resource.Dimension.notification_content_margin_start;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_large_icon_height = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_height;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_large_icon_width = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_width;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_main_column_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_main_column_padding_top;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_media_narrow_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_media_narrow_margin;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_right_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_right_icon_size;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_right_side_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_right_side_padding_top;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_small_icon_background_padding = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_background_padding;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_small_icon_size_as_large = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_size_as_large;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_subtext_size = global::CFT.Promotions.Android.Resource.Dimension.notification_subtext_size;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_top_pad = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad;
-			global::PayPal.Forms.Android.Resource.Dimension.notification_top_pad_large_text = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad_large_text;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_action_bar_item_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_action_bar_item_background_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_borderless_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_borderless_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_check_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_colored_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_colored_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_radio_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_cab_background_internal_bg = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_internal_bg;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_cab_background_top_material = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_top_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_control_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_control_background_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_dialog_material_background = global::CFT.Promotions.Android.Resource.Drawable.abc_dialog_material_background;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_edit_text_material = global::CFT.Promotions.Android.Resource.Drawable.abc_edit_text_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_ab_back_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_ab_back_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_clear_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_clear_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_go_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_go_search_api_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_search_api_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_black_16dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_16dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_black_36dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_36dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_black_48dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_48dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_item_background_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_item_background_holo_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_item_background_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_item_background_holo_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_focused_holo = global::CFT.Promotions.Android.Resource.Drawable.abc_list_focused_holo;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_longpressed_holo = global::CFT.Promotions.Android.Resource.Drawable.abc_list_longpressed_holo;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_pressed_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_pressed_holo_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_holo_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_list_selector_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_holo_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CFT.Promotions.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::CFT.Promotions.Android.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ratingbar_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_ratingbar_small_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_small_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_seekbar_thumb_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_thumb_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_seekbar_track_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_track_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_switch_thumb_material = global::CFT.Promotions.Android.Resource.Drawable.abc_switch_thumb_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_tab_indicator_material = global::CFT.Promotions.Android.Resource.Drawable.abc_tab_indicator_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_cursor_material = global::CFT.Promotions.Android.Resource.Drawable.abc_text_cursor_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_textfield_search_material = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_material;
-			global::PayPal.Forms.Android.Resource.Drawable.abc_vector_test = global::CFT.Promotions.Android.Resource.Drawable.abc_vector_test;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_hide_password = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_hide_password_1 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_1;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_hide_password_2 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_2;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_hide_password_3 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_3;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_show_password = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_show_password_1 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_1;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_show_password_2 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_2;
-			global::PayPal.Forms.Android.Resource.Drawable.avd_show_password_3 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_3;
-			global::PayPal.Forms.Android.Resource.Drawable.design_bottom_navigation_item_background = global::CFT.Promotions.Android.Resource.Drawable.design_bottom_navigation_item_background;
-			global::PayPal.Forms.Android.Resource.Drawable.design_fab_background = global::CFT.Promotions.Android.Resource.Drawable.design_fab_background;
-			global::PayPal.Forms.Android.Resource.Drawable.design_ic_visibility = global::CFT.Promotions.Android.Resource.Drawable.design_ic_visibility;
-			global::PayPal.Forms.Android.Resource.Drawable.design_ic_visibility_off = global::CFT.Promotions.Android.Resource.Drawable.design_ic_visibility_off;
-			global::PayPal.Forms.Android.Resource.Drawable.design_password_eye = global::CFT.Promotions.Android.Resource.Drawable.design_password_eye;
-			global::PayPal.Forms.Android.Resource.Drawable.design_snackbar_background = global::CFT.Promotions.Android.Resource.Drawable.design_snackbar_background;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_audiotrack_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_audiotrack_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_audiotrack_light = global::CFT.Promotions.Android.Resource.Drawable.ic_audiotrack_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_dialog_close_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_dialog_close_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_dialog_close_light = global::CFT.Promotions.Android.Resource.Drawable.ic_dialog_close_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_00 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_00;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_01 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_01;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_02 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_02;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_03 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_03;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_04 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_04;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_05 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_05;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_06 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_06;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_07 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_07;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_08 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_08;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_09 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_09;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_10 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_10;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_11 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_11;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_12 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_12;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_13 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_13;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_14 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_14;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_collapse_15 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_15;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_00 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_00;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_01 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_01;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_02 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_02;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_03 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_03;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_04 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_04;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_05 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_05;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_06 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_06;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_07 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_07;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_08 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_08;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_09 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_09;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_10 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_10;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_11 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_11;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_12 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_12;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_13 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_13;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_14 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_14;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_group_expand_15 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_15;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_pause_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_pause_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_pause_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_pause_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_play_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_play_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_play_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_play_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_stop_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_stop_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_media_stop_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_stop_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_00_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_00_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_00_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_00_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_01_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_01_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_01_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_01_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_02_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_02_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_02_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_02_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_03_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_03_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_03_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_03_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_04_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_04_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_04_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_04_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_05_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_05_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_05_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_05_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_06_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_06_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_06_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_06_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_07_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_07_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_07_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_07_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_08_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_08_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_08_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_08_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_09_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_09_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_09_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_09_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_10_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_10_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_10_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_10_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_11_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_11_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_11_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_11_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_12_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_12_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_12_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_12_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_13_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_13_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_13_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_13_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_14_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_14_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_14_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_14_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_15_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_15_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_15_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_15_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_16_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_16_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_16_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_16_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_17_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_17_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_17_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_17_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_18_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_18_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_18_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_18_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_19_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_19_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_19_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_19_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_20_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_20_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_20_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_20_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_21_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_21_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_21_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_21_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_22_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_22_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connected_22_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_22_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_00_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_00_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_00_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_00_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_01_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_01_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_01_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_01_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_02_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_02_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_02_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_02_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_03_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_03_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_03_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_03_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_04_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_04_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_04_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_04_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_05_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_05_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_05_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_05_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_06_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_06_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_06_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_06_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_07_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_07_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_07_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_07_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_08_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_08_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_08_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_08_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_09_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_09_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_09_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_09_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_10_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_10_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_10_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_10_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_11_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_11_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_11_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_11_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_12_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_12_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_12_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_12_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_13_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_13_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_13_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_13_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_14_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_14_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_14_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_14_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_15_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_15_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_15_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_15_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_16_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_16_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_16_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_16_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_17_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_17_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_17_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_17_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_18_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_18_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_18_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_18_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_19_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_19_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_19_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_19_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_20_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_20_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_20_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_20_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_21_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_21_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_21_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_21_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_22_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_22_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_connecting_22_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_22_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_disabled_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disabled_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_disabled_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disabled_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_disconnected_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disconnected_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_disconnected_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disconnected_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_mr_button_grey = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_grey;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_speaker_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_speaker_group_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_group_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_speaker_group_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_group_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_speaker_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_light;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_tv_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_tv_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.ic_vol_type_tv_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_tv_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_connected_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connected_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_connected_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connected_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_connecting_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connecting_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_connecting_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connecting_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_button_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_dialog_close_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_close_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_dialog_close_light = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_close_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_dialog_material_background_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_material_background_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_dialog_material_background_light = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_material_background_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_group_collapse = global::CFT.Promotions.Android.Resource.Drawable.mr_group_collapse;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_group_expand = global::CFT.Promotions.Android.Resource.Drawable.mr_group_expand;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_pause_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_pause_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_pause_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_pause_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_play_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_play_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_play_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_play_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_stop_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_stop_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_media_stop_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_stop_light;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_vol_type_audiotrack_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_vol_type_audiotrack_dark;
-			global::PayPal.Forms.Android.Resource.Drawable.mr_vol_type_audiotrack_light = global::CFT.Promotions.Android.Resource.Drawable.mr_vol_type_audiotrack_light;
-			global::PayPal.Forms.Android.Resource.Drawable.navigation_empty_icon = global::CFT.Promotions.Android.Resource.Drawable.navigation_empty_icon;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_action_background = global::CFT.Promotions.Android.Resource.Drawable.notification_action_background;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_bg;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg_low = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg_low_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_normal;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg_low_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_pressed;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_bg_normal_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal_pressed;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_icon_background = global::CFT.Promotions.Android.Resource.Drawable.notification_icon_background;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_template_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_bg;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_template_icon_low_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_low_bg;
-			global::PayPal.Forms.Android.Resource.Drawable.notification_tile_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_tile_bg;
-			global::PayPal.Forms.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::PayPal.Forms.Android.Resource.Id.action0 = global::CFT.Promotions.Android.Resource.Id.action0;
-			global::PayPal.Forms.Android.Resource.Id.action_bar = global::CFT.Promotions.Android.Resource.Id.action_bar;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_activity_content = global::CFT.Promotions.Android.Resource.Id.action_bar_activity_content;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_container = global::CFT.Promotions.Android.Resource.Id.action_bar_container;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_root = global::CFT.Promotions.Android.Resource.Id.action_bar_root;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_spinner = global::CFT.Promotions.Android.Resource.Id.action_bar_spinner;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_subtitle = global::CFT.Promotions.Android.Resource.Id.action_bar_subtitle;
-			global::PayPal.Forms.Android.Resource.Id.action_bar_title = global::CFT.Promotions.Android.Resource.Id.action_bar_title;
-			global::PayPal.Forms.Android.Resource.Id.action_container = global::CFT.Promotions.Android.Resource.Id.action_container;
-			global::PayPal.Forms.Android.Resource.Id.action_context_bar = global::CFT.Promotions.Android.Resource.Id.action_context_bar;
-			global::PayPal.Forms.Android.Resource.Id.action_divider = global::CFT.Promotions.Android.Resource.Id.action_divider;
-			global::PayPal.Forms.Android.Resource.Id.action_image = global::CFT.Promotions.Android.Resource.Id.action_image;
-			global::PayPal.Forms.Android.Resource.Id.action_menu_divider = global::CFT.Promotions.Android.Resource.Id.action_menu_divider;
-			global::PayPal.Forms.Android.Resource.Id.action_menu_presenter = global::CFT.Promotions.Android.Resource.Id.action_menu_presenter;
-			global::PayPal.Forms.Android.Resource.Id.action_mode_bar = global::CFT.Promotions.Android.Resource.Id.action_mode_bar;
-			global::PayPal.Forms.Android.Resource.Id.action_mode_bar_stub = global::CFT.Promotions.Android.Resource.Id.action_mode_bar_stub;
-			global::PayPal.Forms.Android.Resource.Id.action_mode_close_button = global::CFT.Promotions.Android.Resource.Id.action_mode_close_button;
-			global::PayPal.Forms.Android.Resource.Id.action_text = global::CFT.Promotions.Android.Resource.Id.action_text;
-			global::PayPal.Forms.Android.Resource.Id.actions = global::CFT.Promotions.Android.Resource.Id.actions;
-			global::PayPal.Forms.Android.Resource.Id.activity_chooser_view_content = global::CFT.Promotions.Android.Resource.Id.activity_chooser_view_content;
-			global::PayPal.Forms.Android.Resource.Id.add = global::CFT.Promotions.Android.Resource.Id.add;
-			global::PayPal.Forms.Android.Resource.Id.alertTitle = global::CFT.Promotions.Android.Resource.Id.alertTitle;
-			global::PayPal.Forms.Android.Resource.Id.all = global::CFT.Promotions.Android.Resource.Id.all;
-			global::PayPal.Forms.Android.Resource.Id.always = global::CFT.Promotions.Android.Resource.Id.always;
-			global::PayPal.Forms.Android.Resource.Id.auto = global::CFT.Promotions.Android.Resource.Id.auto;
-			global::PayPal.Forms.Android.Resource.Id.beginning = global::CFT.Promotions.Android.Resource.Id.beginning;
-			global::PayPal.Forms.Android.Resource.Id.bottom = global::CFT.Promotions.Android.Resource.Id.bottom;
-			global::PayPal.Forms.Android.Resource.Id.buttonPanel = global::CFT.Promotions.Android.Resource.Id.buttonPanel;
-			global::PayPal.Forms.Android.Resource.Id.cancel_action = global::CFT.Promotions.Android.Resource.Id.cancel_action;
-			global::PayPal.Forms.Android.Resource.Id.center = global::CFT.Promotions.Android.Resource.Id.center;
-			global::PayPal.Forms.Android.Resource.Id.center_horizontal = global::CFT.Promotions.Android.Resource.Id.center_horizontal;
-			global::PayPal.Forms.Android.Resource.Id.center_vertical = global::CFT.Promotions.Android.Resource.Id.center_vertical;
-			global::PayPal.Forms.Android.Resource.Id.checkbox = global::CFT.Promotions.Android.Resource.Id.checkbox;
-			global::PayPal.Forms.Android.Resource.Id.chronometer = global::CFT.Promotions.Android.Resource.Id.chronometer;
-			global::PayPal.Forms.Android.Resource.Id.clip_horizontal = global::CFT.Promotions.Android.Resource.Id.clip_horizontal;
-			global::PayPal.Forms.Android.Resource.Id.clip_vertical = global::CFT.Promotions.Android.Resource.Id.clip_vertical;
-			global::PayPal.Forms.Android.Resource.Id.collapseActionView = global::CFT.Promotions.Android.Resource.Id.collapseActionView;
-			global::PayPal.Forms.Android.Resource.Id.container = global::CFT.Promotions.Android.Resource.Id.container;
-			global::PayPal.Forms.Android.Resource.Id.contentPanel = global::CFT.Promotions.Android.Resource.Id.contentPanel;
-			global::PayPal.Forms.Android.Resource.Id.coordinator = global::CFT.Promotions.Android.Resource.Id.coordinator;
-			global::PayPal.Forms.Android.Resource.Id.custom = global::CFT.Promotions.Android.Resource.Id.custom;
-			global::PayPal.Forms.Android.Resource.Id.customPanel = global::CFT.Promotions.Android.Resource.Id.customPanel;
-			global::PayPal.Forms.Android.Resource.Id.decor_content_parent = global::CFT.Promotions.Android.Resource.Id.decor_content_parent;
-			global::PayPal.Forms.Android.Resource.Id.default_activity_button = global::CFT.Promotions.Android.Resource.Id.default_activity_button;
-			global::PayPal.Forms.Android.Resource.Id.design_bottom_sheet = global::CFT.Promotions.Android.Resource.Id.design_bottom_sheet;
-			global::PayPal.Forms.Android.Resource.Id.design_menu_item_action_area = global::CFT.Promotions.Android.Resource.Id.design_menu_item_action_area;
-			global::PayPal.Forms.Android.Resource.Id.design_menu_item_action_area_stub = global::CFT.Promotions.Android.Resource.Id.design_menu_item_action_area_stub;
-			global::PayPal.Forms.Android.Resource.Id.design_menu_item_text = global::CFT.Promotions.Android.Resource.Id.design_menu_item_text;
-			global::PayPal.Forms.Android.Resource.Id.design_navigation_view = global::CFT.Promotions.Android.Resource.Id.design_navigation_view;
-			global::PayPal.Forms.Android.Resource.Id.disableHome = global::CFT.Promotions.Android.Resource.Id.disableHome;
-			global::PayPal.Forms.Android.Resource.Id.edit_query = global::CFT.Promotions.Android.Resource.Id.edit_query;
-			global::PayPal.Forms.Android.Resource.Id.end = global::CFT.Promotions.Android.Resource.Id.end;
-			global::PayPal.Forms.Android.Resource.Id.end_padder = global::CFT.Promotions.Android.Resource.Id.end_padder;
-			global::PayPal.Forms.Android.Resource.Id.enterAlways = global::CFT.Promotions.Android.Resource.Id.enterAlways;
-			global::PayPal.Forms.Android.Resource.Id.enterAlwaysCollapsed = global::CFT.Promotions.Android.Resource.Id.enterAlwaysCollapsed;
-			global::PayPal.Forms.Android.Resource.Id.exitUntilCollapsed = global::CFT.Promotions.Android.Resource.Id.exitUntilCollapsed;
-			global::PayPal.Forms.Android.Resource.Id.expand_activities_button = global::CFT.Promotions.Android.Resource.Id.expand_activities_button;
-			global::PayPal.Forms.Android.Resource.Id.expanded_menu = global::CFT.Promotions.Android.Resource.Id.expanded_menu;
-			global::PayPal.Forms.Android.Resource.Id.fill = global::CFT.Promotions.Android.Resource.Id.fill;
-			global::PayPal.Forms.Android.Resource.Id.fill_horizontal = global::CFT.Promotions.Android.Resource.Id.fill_horizontal;
-			global::PayPal.Forms.Android.Resource.Id.fill_vertical = global::CFT.Promotions.Android.Resource.Id.fill_vertical;
-			global::PayPal.Forms.Android.Resource.Id.@fixed = global::CFT.Promotions.Android.Resource.Id.@fixed;
-			global::PayPal.Forms.Android.Resource.Id.home = global::CFT.Promotions.Android.Resource.Id.home;
-			global::PayPal.Forms.Android.Resource.Id.homeAsUp = global::CFT.Promotions.Android.Resource.Id.homeAsUp;
-			global::PayPal.Forms.Android.Resource.Id.icon = global::CFT.Promotions.Android.Resource.Id.icon;
-			global::PayPal.Forms.Android.Resource.Id.icon_group = global::CFT.Promotions.Android.Resource.Id.icon_group;
-			global::PayPal.Forms.Android.Resource.Id.ifRoom = global::CFT.Promotions.Android.Resource.Id.ifRoom;
-			global::PayPal.Forms.Android.Resource.Id.image = global::CFT.Promotions.Android.Resource.Id.image;
-			global::PayPal.Forms.Android.Resource.Id.info = global::CFT.Promotions.Android.Resource.Id.info;
-			global::PayPal.Forms.Android.Resource.Id.item_touch_helper_previous_elevation = global::CFT.Promotions.Android.Resource.Id.item_touch_helper_previous_elevation;
-			global::PayPal.Forms.Android.Resource.Id.largeLabel = global::CFT.Promotions.Android.Resource.Id.largeLabel;
-			global::PayPal.Forms.Android.Resource.Id.left = global::CFT.Promotions.Android.Resource.Id.left;
-			global::PayPal.Forms.Android.Resource.Id.line1 = global::CFT.Promotions.Android.Resource.Id.line1;
-			global::PayPal.Forms.Android.Resource.Id.line3 = global::CFT.Promotions.Android.Resource.Id.line3;
-			global::PayPal.Forms.Android.Resource.Id.listMode = global::CFT.Promotions.Android.Resource.Id.listMode;
-			global::PayPal.Forms.Android.Resource.Id.list_item = global::CFT.Promotions.Android.Resource.Id.list_item;
-			global::PayPal.Forms.Android.Resource.Id.masked = global::CFT.Promotions.Android.Resource.Id.masked;
-			global::PayPal.Forms.Android.Resource.Id.media_actions = global::CFT.Promotions.Android.Resource.Id.media_actions;
-			global::PayPal.Forms.Android.Resource.Id.middle = global::CFT.Promotions.Android.Resource.Id.middle;
-			global::PayPal.Forms.Android.Resource.Id.mini = global::CFT.Promotions.Android.Resource.Id.mini;
-			global::PayPal.Forms.Android.Resource.Id.mr_art = global::CFT.Promotions.Android.Resource.Id.mr_art;
-			global::PayPal.Forms.Android.Resource.Id.mr_chooser_list = global::CFT.Promotions.Android.Resource.Id.mr_chooser_list;
-			global::PayPal.Forms.Android.Resource.Id.mr_chooser_route_desc = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_desc;
-			global::PayPal.Forms.Android.Resource.Id.mr_chooser_route_icon = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_icon;
-			global::PayPal.Forms.Android.Resource.Id.mr_chooser_route_name = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_name;
-			global::PayPal.Forms.Android.Resource.Id.mr_chooser_title = global::CFT.Promotions.Android.Resource.Id.mr_chooser_title;
-			global::PayPal.Forms.Android.Resource.Id.mr_close = global::CFT.Promotions.Android.Resource.Id.mr_close;
-			global::PayPal.Forms.Android.Resource.Id.mr_control_divider = global::CFT.Promotions.Android.Resource.Id.mr_control_divider;
-			global::PayPal.Forms.Android.Resource.Id.mr_control_playback_ctrl = global::CFT.Promotions.Android.Resource.Id.mr_control_playback_ctrl;
-			global::PayPal.Forms.Android.Resource.Id.mr_control_subtitle = global::CFT.Promotions.Android.Resource.Id.mr_control_subtitle;
-			global::PayPal.Forms.Android.Resource.Id.mr_control_title = global::CFT.Promotions.Android.Resource.Id.mr_control_title;
-			global::PayPal.Forms.Android.Resource.Id.mr_control_title_container = global::CFT.Promotions.Android.Resource.Id.mr_control_title_container;
-			global::PayPal.Forms.Android.Resource.Id.mr_custom_control = global::CFT.Promotions.Android.Resource.Id.mr_custom_control;
-			global::PayPal.Forms.Android.Resource.Id.mr_default_control = global::CFT.Promotions.Android.Resource.Id.mr_default_control;
-			global::PayPal.Forms.Android.Resource.Id.mr_dialog_area = global::CFT.Promotions.Android.Resource.Id.mr_dialog_area;
-			global::PayPal.Forms.Android.Resource.Id.mr_expandable_area = global::CFT.Promotions.Android.Resource.Id.mr_expandable_area;
-			global::PayPal.Forms.Android.Resource.Id.mr_group_expand_collapse = global::CFT.Promotions.Android.Resource.Id.mr_group_expand_collapse;
-			global::PayPal.Forms.Android.Resource.Id.mr_media_main_control = global::CFT.Promotions.Android.Resource.Id.mr_media_main_control;
-			global::PayPal.Forms.Android.Resource.Id.mr_name = global::CFT.Promotions.Android.Resource.Id.mr_name;
-			global::PayPal.Forms.Android.Resource.Id.mr_playback_control = global::CFT.Promotions.Android.Resource.Id.mr_playback_control;
-			global::PayPal.Forms.Android.Resource.Id.mr_title_bar = global::CFT.Promotions.Android.Resource.Id.mr_title_bar;
-			global::PayPal.Forms.Android.Resource.Id.mr_volume_control = global::CFT.Promotions.Android.Resource.Id.mr_volume_control;
-			global::PayPal.Forms.Android.Resource.Id.mr_volume_group_list = global::CFT.Promotions.Android.Resource.Id.mr_volume_group_list;
-			global::PayPal.Forms.Android.Resource.Id.mr_volume_item_icon = global::CFT.Promotions.Android.Resource.Id.mr_volume_item_icon;
-			global::PayPal.Forms.Android.Resource.Id.mr_volume_slider = global::CFT.Promotions.Android.Resource.Id.mr_volume_slider;
-			global::PayPal.Forms.Android.Resource.Id.multiply = global::CFT.Promotions.Android.Resource.Id.multiply;
-			global::PayPal.Forms.Android.Resource.Id.navigation_header_container = global::CFT.Promotions.Android.Resource.Id.navigation_header_container;
-			global::PayPal.Forms.Android.Resource.Id.never = global::CFT.Promotions.Android.Resource.Id.never;
-			global::PayPal.Forms.Android.Resource.Id.none = global::CFT.Promotions.Android.Resource.Id.none;
-			global::PayPal.Forms.Android.Resource.Id.normal = global::CFT.Promotions.Android.Resource.Id.normal;
-			global::PayPal.Forms.Android.Resource.Id.notification_background = global::CFT.Promotions.Android.Resource.Id.notification_background;
-			global::PayPal.Forms.Android.Resource.Id.notification_main_column = global::CFT.Promotions.Android.Resource.Id.notification_main_column;
-			global::PayPal.Forms.Android.Resource.Id.notification_main_column_container = global::CFT.Promotions.Android.Resource.Id.notification_main_column_container;
-			global::PayPal.Forms.Android.Resource.Id.parallax = global::CFT.Promotions.Android.Resource.Id.parallax;
-			global::PayPal.Forms.Android.Resource.Id.parentPanel = global::CFT.Promotions.Android.Resource.Id.parentPanel;
-			global::PayPal.Forms.Android.Resource.Id.pin = global::CFT.Promotions.Android.Resource.Id.pin;
-			global::PayPal.Forms.Android.Resource.Id.progress_circular = global::CFT.Promotions.Android.Resource.Id.progress_circular;
-			global::PayPal.Forms.Android.Resource.Id.progress_horizontal = global::CFT.Promotions.Android.Resource.Id.progress_horizontal;
-			global::PayPal.Forms.Android.Resource.Id.radio = global::CFT.Promotions.Android.Resource.Id.radio;
-			global::PayPal.Forms.Android.Resource.Id.right = global::CFT.Promotions.Android.Resource.Id.right;
-			global::PayPal.Forms.Android.Resource.Id.right_icon = global::CFT.Promotions.Android.Resource.Id.right_icon;
-			global::PayPal.Forms.Android.Resource.Id.right_side = global::CFT.Promotions.Android.Resource.Id.right_side;
-			global::PayPal.Forms.Android.Resource.Id.screen = global::CFT.Promotions.Android.Resource.Id.screen;
-			global::PayPal.Forms.Android.Resource.Id.scroll = global::CFT.Promotions.Android.Resource.Id.scroll;
-			global::PayPal.Forms.Android.Resource.Id.scrollIndicatorDown = global::CFT.Promotions.Android.Resource.Id.scrollIndicatorDown;
-			global::PayPal.Forms.Android.Resource.Id.scrollIndicatorUp = global::CFT.Promotions.Android.Resource.Id.scrollIndicatorUp;
-			global::PayPal.Forms.Android.Resource.Id.scrollView = global::CFT.Promotions.Android.Resource.Id.scrollView;
-			global::PayPal.Forms.Android.Resource.Id.scrollable = global::CFT.Promotions.Android.Resource.Id.scrollable;
-			global::PayPal.Forms.Android.Resource.Id.search_badge = global::CFT.Promotions.Android.Resource.Id.search_badge;
-			global::PayPal.Forms.Android.Resource.Id.search_bar = global::CFT.Promotions.Android.Resource.Id.search_bar;
-			global::PayPal.Forms.Android.Resource.Id.search_button = global::CFT.Promotions.Android.Resource.Id.search_button;
-			global::PayPal.Forms.Android.Resource.Id.search_close_btn = global::CFT.Promotions.Android.Resource.Id.search_close_btn;
-			global::PayPal.Forms.Android.Resource.Id.search_edit_frame = global::CFT.Promotions.Android.Resource.Id.search_edit_frame;
-			global::PayPal.Forms.Android.Resource.Id.search_go_btn = global::CFT.Promotions.Android.Resource.Id.search_go_btn;
-			global::PayPal.Forms.Android.Resource.Id.search_mag_icon = global::CFT.Promotions.Android.Resource.Id.search_mag_icon;
-			global::PayPal.Forms.Android.Resource.Id.search_plate = global::CFT.Promotions.Android.Resource.Id.search_plate;
-			global::PayPal.Forms.Android.Resource.Id.search_src_text = global::CFT.Promotions.Android.Resource.Id.search_src_text;
-			global::PayPal.Forms.Android.Resource.Id.search_voice_btn = global::CFT.Promotions.Android.Resource.Id.search_voice_btn;
-			global::PayPal.Forms.Android.Resource.Id.select_dialog_listview = global::CFT.Promotions.Android.Resource.Id.select_dialog_listview;
-			global::PayPal.Forms.Android.Resource.Id.shortcut = global::CFT.Promotions.Android.Resource.Id.shortcut;
-			global::PayPal.Forms.Android.Resource.Id.showCustom = global::CFT.Promotions.Android.Resource.Id.showCustom;
-			global::PayPal.Forms.Android.Resource.Id.showHome = global::CFT.Promotions.Android.Resource.Id.showHome;
-			global::PayPal.Forms.Android.Resource.Id.showTitle = global::CFT.Promotions.Android.Resource.Id.showTitle;
-			global::PayPal.Forms.Android.Resource.Id.smallLabel = global::CFT.Promotions.Android.Resource.Id.smallLabel;
-			global::PayPal.Forms.Android.Resource.Id.snackbar_action = global::CFT.Promotions.Android.Resource.Id.snackbar_action;
-			global::PayPal.Forms.Android.Resource.Id.snackbar_text = global::CFT.Promotions.Android.Resource.Id.snackbar_text;
-			global::PayPal.Forms.Android.Resource.Id.snap = global::CFT.Promotions.Android.Resource.Id.snap;
-			global::PayPal.Forms.Android.Resource.Id.spacer = global::CFT.Promotions.Android.Resource.Id.spacer;
-			global::PayPal.Forms.Android.Resource.Id.split_action_bar = global::CFT.Promotions.Android.Resource.Id.split_action_bar;
-			global::PayPal.Forms.Android.Resource.Id.src_atop = global::CFT.Promotions.Android.Resource.Id.src_atop;
-			global::PayPal.Forms.Android.Resource.Id.src_in = global::CFT.Promotions.Android.Resource.Id.src_in;
-			global::PayPal.Forms.Android.Resource.Id.src_over = global::CFT.Promotions.Android.Resource.Id.src_over;
-			global::PayPal.Forms.Android.Resource.Id.start = global::CFT.Promotions.Android.Resource.Id.start;
-			global::PayPal.Forms.Android.Resource.Id.status_bar_latest_event_content = global::CFT.Promotions.Android.Resource.Id.status_bar_latest_event_content;
-			global::PayPal.Forms.Android.Resource.Id.submenuarrow = global::CFT.Promotions.Android.Resource.Id.submenuarrow;
-			global::PayPal.Forms.Android.Resource.Id.submit_area = global::CFT.Promotions.Android.Resource.Id.submit_area;
-			global::PayPal.Forms.Android.Resource.Id.tabMode = global::CFT.Promotions.Android.Resource.Id.tabMode;
-			global::PayPal.Forms.Android.Resource.Id.text = global::CFT.Promotions.Android.Resource.Id.text;
-			global::PayPal.Forms.Android.Resource.Id.text2 = global::CFT.Promotions.Android.Resource.Id.text2;
-			global::PayPal.Forms.Android.Resource.Id.textSpacerNoButtons = global::CFT.Promotions.Android.Resource.Id.textSpacerNoButtons;
-			global::PayPal.Forms.Android.Resource.Id.textSpacerNoTitle = global::CFT.Promotions.Android.Resource.Id.textSpacerNoTitle;
-			global::PayPal.Forms.Android.Resource.Id.text_input_password_toggle = global::CFT.Promotions.Android.Resource.Id.text_input_password_toggle;
-			global::PayPal.Forms.Android.Resource.Id.textinput_counter = global::CFT.Promotions.Android.Resource.Id.textinput_counter;
-			global::PayPal.Forms.Android.Resource.Id.textinput_error = global::CFT.Promotions.Android.Resource.Id.textinput_error;
-			global::PayPal.Forms.Android.Resource.Id.time = global::CFT.Promotions.Android.Resource.Id.time;
-			global::PayPal.Forms.Android.Resource.Id.title = global::CFT.Promotions.Android.Resource.Id.title;
-			global::PayPal.Forms.Android.Resource.Id.titleDividerNoCustom = global::CFT.Promotions.Android.Resource.Id.titleDividerNoCustom;
-			global::PayPal.Forms.Android.Resource.Id.title_template = global::CFT.Promotions.Android.Resource.Id.title_template;
-			global::PayPal.Forms.Android.Resource.Id.top = global::CFT.Promotions.Android.Resource.Id.top;
-			global::PayPal.Forms.Android.Resource.Id.topPanel = global::CFT.Promotions.Android.Resource.Id.topPanel;
-			global::PayPal.Forms.Android.Resource.Id.touch_outside = global::CFT.Promotions.Android.Resource.Id.touch_outside;
-			global::PayPal.Forms.Android.Resource.Id.transition_current_scene = global::CFT.Promotions.Android.Resource.Id.transition_current_scene;
-			global::PayPal.Forms.Android.Resource.Id.transition_scene_layoutid_cache = global::CFT.Promotions.Android.Resource.Id.transition_scene_layoutid_cache;
-			global::PayPal.Forms.Android.Resource.Id.up = global::CFT.Promotions.Android.Resource.Id.up;
-			global::PayPal.Forms.Android.Resource.Id.useLogo = global::CFT.Promotions.Android.Resource.Id.useLogo;
-			global::PayPal.Forms.Android.Resource.Id.view_offset_helper = global::CFT.Promotions.Android.Resource.Id.view_offset_helper;
-			global::PayPal.Forms.Android.Resource.Id.visible = global::CFT.Promotions.Android.Resource.Id.visible;
-			global::PayPal.Forms.Android.Resource.Id.volume_item_container = global::CFT.Promotions.Android.Resource.Id.volume_item_container;
-			global::PayPal.Forms.Android.Resource.Id.withText = global::CFT.Promotions.Android.Resource.Id.withText;
-			global::PayPal.Forms.Android.Resource.Id.wrap_content = global::CFT.Promotions.Android.Resource.Id.wrap_content;
-			global::PayPal.Forms.Android.Resource.Integer.abc_config_activityDefaultDur = global::CFT.Promotions.Android.Resource.Integer.abc_config_activityDefaultDur;
-			global::PayPal.Forms.Android.Resource.Integer.abc_config_activityShortDur = global::CFT.Promotions.Android.Resource.Integer.abc_config_activityShortDur;
-			global::PayPal.Forms.Android.Resource.Integer.app_bar_elevation_anim_duration = global::CFT.Promotions.Android.Resource.Integer.app_bar_elevation_anim_duration;
-			global::PayPal.Forms.Android.Resource.Integer.bottom_sheet_slide_duration = global::CFT.Promotions.Android.Resource.Integer.bottom_sheet_slide_duration;
-			global::PayPal.Forms.Android.Resource.Integer.cancel_button_image_alpha = global::CFT.Promotions.Android.Resource.Integer.cancel_button_image_alpha;
-			global::PayPal.Forms.Android.Resource.Integer.design_snackbar_text_max_lines = global::CFT.Promotions.Android.Resource.Integer.design_snackbar_text_max_lines;
-			global::PayPal.Forms.Android.Resource.Integer.hide_password_duration = global::CFT.Promotions.Android.Resource.Integer.hide_password_duration;
-			global::PayPal.Forms.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
-			global::PayPal.Forms.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
-			global::PayPal.Forms.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
-			global::PayPal.Forms.Android.Resource.Integer.show_password_duration = global::CFT.Promotions.Android.Resource.Integer.show_password_duration;
-			global::PayPal.Forms.Android.Resource.Integer.status_bar_notification_info_maxnum = global::CFT.Promotions.Android.Resource.Integer.status_bar_notification_info_maxnum;
-			global::PayPal.Forms.Android.Resource.Interpolator.mr_fast_out_slow_in = global::CFT.Promotions.Android.Resource.Interpolator.mr_fast_out_slow_in;
-			global::PayPal.Forms.Android.Resource.Interpolator.mr_linear_out_slow_in = global::CFT.Promotions.Android.Resource.Interpolator.mr_linear_out_slow_in;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_bar_title_item = global::CFT.Promotions.Android.Resource.Layout.abc_action_bar_title_item;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_bar_up_container = global::CFT.Promotions.Android.Resource.Layout.abc_action_bar_up_container;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_action_menu_item_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_menu_layout = global::CFT.Promotions.Android.Resource.Layout.abc_action_menu_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_mode_bar = global::CFT.Promotions.Android.Resource.Layout.abc_action_mode_bar;
-			global::PayPal.Forms.Android.Resource.Layout.abc_action_mode_close_item_material = global::CFT.Promotions.Android.Resource.Layout.abc_action_mode_close_item_material;
-			global::PayPal.Forms.Android.Resource.Layout.abc_activity_chooser_view = global::CFT.Promotions.Android.Resource.Layout.abc_activity_chooser_view;
-			global::PayPal.Forms.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::CFT.Promotions.Android.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::PayPal.Forms.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::PayPal.Forms.Android.Resource.Layout.abc_alert_dialog_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_material;
-			global::PayPal.Forms.Android.Resource.Layout.abc_alert_dialog_title_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_title_material;
-			global::PayPal.Forms.Android.Resource.Layout.abc_dialog_title_material = global::CFT.Promotions.Android.Resource.Layout.abc_dialog_title_material;
-			global::PayPal.Forms.Android.Resource.Layout.abc_expanded_menu_layout = global::CFT.Promotions.Android.Resource.Layout.abc_expanded_menu_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_list_menu_item_checkbox = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_checkbox;
-			global::PayPal.Forms.Android.Resource.Layout.abc_list_menu_item_icon = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_icon;
-			global::PayPal.Forms.Android.Resource.Layout.abc_list_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_list_menu_item_radio = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_radio;
-			global::PayPal.Forms.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_popup_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_popup_menu_item_layout;
-			global::PayPal.Forms.Android.Resource.Layout.abc_screen_content_include = global::CFT.Promotions.Android.Resource.Layout.abc_screen_content_include;
-			global::PayPal.Forms.Android.Resource.Layout.abc_screen_simple = global::CFT.Promotions.Android.Resource.Layout.abc_screen_simple;
-			global::PayPal.Forms.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CFT.Promotions.Android.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::PayPal.Forms.Android.Resource.Layout.abc_screen_toolbar = global::CFT.Promotions.Android.Resource.Layout.abc_screen_toolbar;
-			global::PayPal.Forms.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CFT.Promotions.Android.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::PayPal.Forms.Android.Resource.Layout.abc_search_view = global::CFT.Promotions.Android.Resource.Layout.abc_search_view;
-			global::PayPal.Forms.Android.Resource.Layout.abc_select_dialog_material = global::CFT.Promotions.Android.Resource.Layout.abc_select_dialog_material;
-			global::PayPal.Forms.Android.Resource.Layout.design_bottom_navigation_item = global::CFT.Promotions.Android.Resource.Layout.design_bottom_navigation_item;
-			global::PayPal.Forms.Android.Resource.Layout.design_bottom_sheet_dialog = global::CFT.Promotions.Android.Resource.Layout.design_bottom_sheet_dialog;
-			global::PayPal.Forms.Android.Resource.Layout.design_layout_snackbar = global::CFT.Promotions.Android.Resource.Layout.design_layout_snackbar;
-			global::PayPal.Forms.Android.Resource.Layout.design_layout_snackbar_include = global::CFT.Promotions.Android.Resource.Layout.design_layout_snackbar_include;
-			global::PayPal.Forms.Android.Resource.Layout.design_layout_tab_icon = global::CFT.Promotions.Android.Resource.Layout.design_layout_tab_icon;
-			global::PayPal.Forms.Android.Resource.Layout.design_layout_tab_text = global::CFT.Promotions.Android.Resource.Layout.design_layout_tab_text;
-			global::PayPal.Forms.Android.Resource.Layout.design_menu_item_action_area = global::CFT.Promotions.Android.Resource.Layout.design_menu_item_action_area;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_item = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_item_header = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_header;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_item_separator = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_separator;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_item_subheader = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_subheader;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_menu = global::CFT.Promotions.Android.Resource.Layout.design_navigation_menu;
-			global::PayPal.Forms.Android.Resource.Layout.design_navigation_menu_item = global::CFT.Promotions.Android.Resource.Layout.design_navigation_menu_item;
-			global::PayPal.Forms.Android.Resource.Layout.design_text_input_password_icon = global::CFT.Promotions.Android.Resource.Layout.design_text_input_password_icon;
-			global::PayPal.Forms.Android.Resource.Layout.mr_chooser_dialog = global::CFT.Promotions.Android.Resource.Layout.mr_chooser_dialog;
-			global::PayPal.Forms.Android.Resource.Layout.mr_chooser_list_item = global::CFT.Promotions.Android.Resource.Layout.mr_chooser_list_item;
-			global::PayPal.Forms.Android.Resource.Layout.mr_controller_material_dialog_b = global::CFT.Promotions.Android.Resource.Layout.mr_controller_material_dialog_b;
-			global::PayPal.Forms.Android.Resource.Layout.mr_controller_volume_item = global::CFT.Promotions.Android.Resource.Layout.mr_controller_volume_item;
-			global::PayPal.Forms.Android.Resource.Layout.mr_playback_control = global::CFT.Promotions.Android.Resource.Layout.mr_playback_control;
-			global::PayPal.Forms.Android.Resource.Layout.mr_volume_control = global::CFT.Promotions.Android.Resource.Layout.mr_volume_control;
-			global::PayPal.Forms.Android.Resource.Layout.notification_action = global::CFT.Promotions.Android.Resource.Layout.notification_action;
-			global::PayPal.Forms.Android.Resource.Layout.notification_action_tombstone = global::CFT.Promotions.Android.Resource.Layout.notification_action_tombstone;
-			global::PayPal.Forms.Android.Resource.Layout.notification_media_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_action;
-			global::PayPal.Forms.Android.Resource.Layout.notification_media_cancel_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_cancel_action;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_big_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_big_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_custom;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_big_media_narrow = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_custom_big = global::CFT.Promotions.Android.Resource.Layout.notification_template_custom_big;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_icon_group = global::CFT.Promotions.Android.Resource.Layout.notification_template_icon_group;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_lines_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_lines_media;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_media;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_media_custom;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_part_chronometer = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_chronometer;
-			global::PayPal.Forms.Android.Resource.Layout.notification_template_part_time = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_time;
-			global::PayPal.Forms.Android.Resource.Layout.select_dialog_item_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_item_material;
-			global::PayPal.Forms.Android.Resource.Layout.select_dialog_multichoice_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_multichoice_material;
-			global::PayPal.Forms.Android.Resource.Layout.select_dialog_singlechoice_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_singlechoice_material;
-			global::PayPal.Forms.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::CFT.Promotions.Android.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::PayPal.Forms.Android.Resource.String.abc_action_bar_home_description = global::CFT.Promotions.Android.Resource.String.abc_action_bar_home_description;
-			global::PayPal.Forms.Android.Resource.String.abc_action_bar_up_description = global::CFT.Promotions.Android.Resource.String.abc_action_bar_up_description;
-			global::PayPal.Forms.Android.Resource.String.abc_action_menu_overflow_description = global::CFT.Promotions.Android.Resource.String.abc_action_menu_overflow_description;
-			global::PayPal.Forms.Android.Resource.String.abc_action_mode_done = global::CFT.Promotions.Android.Resource.String.abc_action_mode_done;
-			global::PayPal.Forms.Android.Resource.String.abc_activity_chooser_view_see_all = global::CFT.Promotions.Android.Resource.String.abc_activity_chooser_view_see_all;
-			global::PayPal.Forms.Android.Resource.String.abc_activitychooserview_choose_application = global::CFT.Promotions.Android.Resource.String.abc_activitychooserview_choose_application;
-			global::PayPal.Forms.Android.Resource.String.abc_capital_off = global::CFT.Promotions.Android.Resource.String.abc_capital_off;
-			global::PayPal.Forms.Android.Resource.String.abc_capital_on = global::CFT.Promotions.Android.Resource.String.abc_capital_on;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_body_1_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_body_1_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_body_2_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_body_2_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_button_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_button_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_caption_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_caption_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_display_1_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_1_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_display_2_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_2_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_display_3_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_3_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_display_4_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_4_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_headline_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_headline_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_menu_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_menu_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_subhead_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_subhead_material;
-			global::PayPal.Forms.Android.Resource.String.abc_font_family_title_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_title_material;
-			global::PayPal.Forms.Android.Resource.String.abc_search_hint = global::CFT.Promotions.Android.Resource.String.abc_search_hint;
-			global::PayPal.Forms.Android.Resource.String.abc_searchview_description_clear = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_clear;
-			global::PayPal.Forms.Android.Resource.String.abc_searchview_description_query = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_query;
-			global::PayPal.Forms.Android.Resource.String.abc_searchview_description_search = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_search;
-			global::PayPal.Forms.Android.Resource.String.abc_searchview_description_submit = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_submit;
-			global::PayPal.Forms.Android.Resource.String.abc_searchview_description_voice = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_voice;
-			global::PayPal.Forms.Android.Resource.String.abc_shareactionprovider_share_with = global::CFT.Promotions.Android.Resource.String.abc_shareactionprovider_share_with;
-			global::PayPal.Forms.Android.Resource.String.abc_shareactionprovider_share_with_application = global::CFT.Promotions.Android.Resource.String.abc_shareactionprovider_share_with_application;
-			global::PayPal.Forms.Android.Resource.String.abc_toolbar_collapse_description = global::CFT.Promotions.Android.Resource.String.abc_toolbar_collapse_description;
-			global::PayPal.Forms.Android.Resource.String.appbar_scrolling_view_behavior = global::CFT.Promotions.Android.Resource.String.appbar_scrolling_view_behavior;
-			global::PayPal.Forms.Android.Resource.String.bottom_sheet_behavior = global::CFT.Promotions.Android.Resource.String.bottom_sheet_behavior;
-			global::PayPal.Forms.Android.Resource.String.character_counter_pattern = global::CFT.Promotions.Android.Resource.String.character_counter_pattern;
-			global::PayPal.Forms.Android.Resource.String.library_name = global::CFT.Promotions.Android.Resource.String.library_name;
-			global::PayPal.Forms.Android.Resource.String.mr_button_content_description = global::CFT.Promotions.Android.Resource.String.mr_button_content_description;
-			global::PayPal.Forms.Android.Resource.String.mr_cast_button_connected = global::CFT.Promotions.Android.Resource.String.mr_cast_button_connected;
-			global::PayPal.Forms.Android.Resource.String.mr_cast_button_connecting = global::CFT.Promotions.Android.Resource.String.mr_cast_button_connecting;
-			global::PayPal.Forms.Android.Resource.String.mr_cast_button_disconnected = global::CFT.Promotions.Android.Resource.String.mr_cast_button_disconnected;
-			global::PayPal.Forms.Android.Resource.String.mr_chooser_searching = global::CFT.Promotions.Android.Resource.String.mr_chooser_searching;
-			global::PayPal.Forms.Android.Resource.String.mr_chooser_title = global::CFT.Promotions.Android.Resource.String.mr_chooser_title;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_album_art = global::CFT.Promotions.Android.Resource.String.mr_controller_album_art;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_casting_screen = global::CFT.Promotions.Android.Resource.String.mr_controller_casting_screen;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_close_description = global::CFT.Promotions.Android.Resource.String.mr_controller_close_description;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_collapse_group = global::CFT.Promotions.Android.Resource.String.mr_controller_collapse_group;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_disconnect = global::CFT.Promotions.Android.Resource.String.mr_controller_disconnect;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_expand_group = global::CFT.Promotions.Android.Resource.String.mr_controller_expand_group;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_no_info_available = global::CFT.Promotions.Android.Resource.String.mr_controller_no_info_available;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_no_media_selected = global::CFT.Promotions.Android.Resource.String.mr_controller_no_media_selected;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_pause = global::CFT.Promotions.Android.Resource.String.mr_controller_pause;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_play = global::CFT.Promotions.Android.Resource.String.mr_controller_play;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_stop = global::CFT.Promotions.Android.Resource.String.mr_controller_stop;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_stop_casting = global::CFT.Promotions.Android.Resource.String.mr_controller_stop_casting;
-			global::PayPal.Forms.Android.Resource.String.mr_controller_volume_slider = global::CFT.Promotions.Android.Resource.String.mr_controller_volume_slider;
-			global::PayPal.Forms.Android.Resource.String.mr_system_route_name = global::CFT.Promotions.Android.Resource.String.mr_system_route_name;
-			global::PayPal.Forms.Android.Resource.String.mr_user_route_category_name = global::CFT.Promotions.Android.Resource.String.mr_user_route_category_name;
-			global::PayPal.Forms.Android.Resource.String.password_toggle_content_description = global::CFT.Promotions.Android.Resource.String.password_toggle_content_description;
-			global::PayPal.Forms.Android.Resource.String.path_password_eye = global::CFT.Promotions.Android.Resource.String.path_password_eye;
-			global::PayPal.Forms.Android.Resource.String.path_password_eye_mask_strike_through = global::CFT.Promotions.Android.Resource.String.path_password_eye_mask_strike_through;
-			global::PayPal.Forms.Android.Resource.String.path_password_eye_mask_visible = global::CFT.Promotions.Android.Resource.String.path_password_eye_mask_visible;
-			global::PayPal.Forms.Android.Resource.String.path_password_strike_through = global::CFT.Promotions.Android.Resource.String.path_password_strike_through;
-			global::PayPal.Forms.Android.Resource.String.search_menu_title = global::CFT.Promotions.Android.Resource.String.search_menu_title;
-			global::PayPal.Forms.Android.Resource.String.status_bar_notification_info_overflow = global::CFT.Promotions.Android.Resource.String.status_bar_notification_info_overflow;
-			global::PayPal.Forms.Android.Resource.Style.AlertDialog_AppCompat = global::CFT.Promotions.Android.Resource.Style.AlertDialog_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.AlertDialog_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.AlertDialog_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Animation_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Animation_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::CFT.Promotions.Android.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::PayPal.Forms.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_AlertDialog_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_AlertDialog_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CFT.Promotions.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::PayPal.Forms.Android.Resource.Style.Base_CardView = global::CFT.Promotions.Android.Resource.Style.Base_CardView;
-			global::PayPal.Forms.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::PayPal.Forms.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::PayPal.Forms.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::PayPal.Forms.Android.Resource.Style.Base_V21_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V22_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V22_Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_V23_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V23_Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::PayPal.Forms.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::PayPal.Forms.Android.Resource.Style.Base_Widget_Design_TabLayout = global::CFT.Promotions.Android.Resource.Style.Base_Widget_Design_TabLayout;
-			global::PayPal.Forms.Android.Resource.Style.CardView = global::CFT.Promotions.Android.Resource.Style.CardView;
-			global::PayPal.Forms.Android.Resource.Style.CardView_Dark = global::CFT.Promotions.Android.Resource.Style.CardView_Dark;
-			global::PayPal.Forms.Android.Resource.Style.CardView_Light = global::CFT.Promotions.Android.Resource.Style.CardView_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::PayPal.Forms.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V11_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V11_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V11_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V11_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V14_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V14_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V14_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V14_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V21_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V21_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V21_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V21_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V25_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V25_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Platform_V25_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V25_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::PayPal.Forms.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::PayPal.Forms.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::PayPal.Forms.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Button;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Large;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Small;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Counter = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Counter;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Error = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Error;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Hint = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Hint;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Design_Tab = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Tab;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_MediaRouter_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_Title;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::PayPal.Forms.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design = global::CFT.Promotions.Android.Resource.Style.Theme_Design;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design_Light = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_Design_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_Design_NoActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Theme_MediaRouter = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter;
-			global::PayPal.Forms.Android.Resource.Style.Theme_MediaRouter_Light = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_Light;
-			global::PayPal.Forms.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
-			global::PayPal.Forms.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark;
-			global::PayPal.Forms.Android.Resource.Style.ThemeOverlay_MediaRouter_Light = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_MediaRouter_Light;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActionMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionMode;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Button_Small = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Small;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_EditText;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ImageButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ImageButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ListView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_RatingBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_SearchView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SearchView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_SeekBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SeekBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Toolbar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_AppBarLayout;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_BottomNavigationView = global::CFT.Promotions.Android.Resource.Style.Widget_Design_BottomNavigationView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::CFT.Promotions.Android.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::CFT.Promotions.Android.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_FloatingActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_Design_FloatingActionButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_NavigationView = global::CFT.Promotions.Android.Resource.Style.Widget_Design_NavigationView;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_Snackbar = global::CFT.Promotions.Android.Resource.Style.Widget_Design_Snackbar;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_TabLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_TabLayout;
-			global::PayPal.Forms.Android.Resource.Style.Widget_Design_TextInputLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_TextInputLayout;
-			global::PayPal.Forms.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::CFT.Promotions.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
-			global::PayPal.Forms.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::CFT.Promotions.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar = global::CFT.Promotions.Android.Resource.Styleable.ActionBar;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_background = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_background;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_backgroundSplit = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_backgroundSplit;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_backgroundStacked = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_backgroundStacked;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetRight = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetRight;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetStart = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetStart;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_displayOptions = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_displayOptions;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_divider = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_divider;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_elevation = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_height = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_height;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_homeLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_homeLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_icon = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_icon;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_itemPadding = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_itemPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_logo = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_logo;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_navigationMode = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_navigationMode;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_popupTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_progressBarPadding = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_progressBarPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_progressBarStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_progressBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_subtitle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_subtitle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_title = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_title;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBar_titleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_titleTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBarLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBarLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMenuItemView = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuItemView;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMenuView = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuView;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode = global::CFT.Promotions.Android.Resource.Styleable.ActionMode;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_background = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_background;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_backgroundSplit = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_backgroundSplit;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_closeItemLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_closeItemLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_height = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_height;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActionMode_titleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_titleTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.ActivityChooserView = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView;
-			global::PayPal.Forms.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_android_layout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_android_layout;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_listItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_listItemLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_listLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_listLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_showTitle = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_showTitle;
-			global::PayPal.Forms.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_android_background = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_android_background;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_elevation = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_expanded = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_expanded;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayoutStates = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::PayPal.Forms.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatImageView = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatImageView_android_src = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_android_src;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatImageView_tint = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_tint;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatImageView_tintMode = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_tintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatSeekBar = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextView = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::PayPal.Forms.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView_elevation = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomNavigationView_menu = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_menu;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::PayPal.Forms.Android.Resource.Styleable.ButtonBarLayout = global::CFT.Promotions.Android.Resource.Styleable.ButtonBarLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::CFT.Promotions.Android.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView = global::CFT.Promotions.Android.Resource.Styleable.CardView;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.CardView_android_minHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.CardView_android_minWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardBackgroundColor = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardBackgroundColor;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardCornerRadius = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardCornerRadius;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardElevation = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardElevation;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardMaxElevation = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardMaxElevation;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_contentPadding = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_contentPaddingBottom = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingBottom;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_contentPaddingLeft = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingLeft;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_contentPaddingRight = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingRight;
-			global::PayPal.Forms.Android.Resource.Styleable.CardView_contentPaddingTop = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingTop;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::PayPal.Forms.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::PayPal.Forms.Android.Resource.Styleable.ColorStateListItem = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem;
-			global::PayPal.Forms.Android.Resource.Styleable.ColorStateListItem_alpha = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_alpha;
-			global::PayPal.Forms.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::PayPal.Forms.Android.Resource.Styleable.ColorStateListItem_android_color = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_android_color;
-			global::PayPal.Forms.Android.Resource.Styleable.CompoundButton = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton;
-			global::PayPal.Forms.Android.Resource.Styleable.CompoundButton_android_button = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_android_button;
-			global::PayPal.Forms.Android.Resource.Styleable.CompoundButton_buttonTint = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_buttonTint;
-			global::PayPal.Forms.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_keylines = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_keylines;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::PayPal.Forms.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::PayPal.Forms.Android.Resource.Styleable.DesignTheme = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.DesignTheme_textColorError = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_textColorError;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_color = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_color;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::PayPal.Forms.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_elevation = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_fabSize = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_fabSize;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::PayPal.Forms.Android.Resource.Styleable.ForegroundLinearLayout = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::PayPal.Forms.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_divider = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_divider;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::PayPal.Forms.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::PayPal.Forms.Android.Resource.Styleable.ListPopupWindow = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow;
-			global::PayPal.Forms.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::PayPal.Forms.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::PayPal.Forms.Android.Resource.Styleable.MediaRouteButton = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton;
-			global::PayPal.Forms.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_android_minHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_android_minWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_enabled = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_enabled;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_id = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_id;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuGroup_android_visible = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_visible;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem = global::CFT.Promotions.Android.Resource.Styleable.MenuItem;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_actionLayout = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_actionProviderClass = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionProviderClass;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_actionViewClass = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionViewClass;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_checkable = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_checkable;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_checked = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_checked;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_enabled = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_enabled;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_icon = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_icon;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_id = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_id;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_menuCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_menuCategory;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_onClick = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_onClick;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_title = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_title;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_android_visible = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_visible;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuItem_showAsAction = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_showAsAction;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView = global::CFT.Promotions.Android.Resource.Styleable.MenuView;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_headerBackground = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_headerBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_verticalDivider = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_verticalDivider;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::CFT.Promotions.Android.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::PayPal.Forms.Android.Resource.Styleable.MenuView_subMenuArrow = global::CFT.Promotions.Android.Resource.Styleable.MenuView_subMenuArrow;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView = global::CFT.Promotions.Android.Resource.Styleable.NavigationView;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_android_background = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_background;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_maxWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_elevation = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_headerLayout = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_headerLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_itemIconTint = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemIconTint;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_itemTextColor = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.NavigationView_menu = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_menu;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindow = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindowBackgroundState = global::CFT.Promotions.Android.Resource.Styleable.PopupWindowBackgroundState;
-			global::PayPal.Forms.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CFT.Promotions.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::PayPal.Forms.Android.Resource.Styleable.RecycleListView = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView;
-			global::PayPal.Forms.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::PayPal.Forms.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_android_orientation = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_android_orientation;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_layoutManager = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_layoutManager;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_reverseLayout = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_reverseLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_spanCount = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_spanCount;
-			global::PayPal.Forms.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::CFT.Promotions.Android.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::CFT.Promotions.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::PayPal.Forms.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::PayPal.Forms.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::CFT.Promotions.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView = global::CFT.Promotions.Android.Resource.Styleable.SearchView;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_android_focusable = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_focusable;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_android_imeOptions = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_imeOptions;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_android_inputType = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_inputType;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_maxWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_closeIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_closeIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_commitIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_commitIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_defaultQueryHint = global::CFT.Promotions.Android.Resource.Styleable.SearchView_defaultQueryHint;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_goIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_goIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::CFT.Promotions.Android.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_layout = global::CFT.Promotions.Android.Resource.Styleable.SearchView_layout;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_queryBackground = global::CFT.Promotions.Android.Resource.Styleable.SearchView_queryBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_queryHint = global::CFT.Promotions.Android.Resource.Styleable.SearchView_queryHint;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_searchHintIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_searchHintIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_searchIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_searchIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_submitBackground = global::CFT.Promotions.Android.Resource.Styleable.SearchView_submitBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::CFT.Promotions.Android.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.SearchView_voiceIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_voiceIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.SnackbarLayout = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.SnackbarLayout_elevation = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_elevation;
-			global::PayPal.Forms.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner = global::CFT.Promotions.Android.Resource.Styleable.Spinner;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner_android_entries = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_entries;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner_android_popupBackground = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_popupBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner_android_prompt = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_prompt;
-			global::PayPal.Forms.Android.Resource.Styleable.Spinner_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.Spinner_popupTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_android_textOff = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_textOff;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_android_textOn = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_textOn;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_android_thumb = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_thumb;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_showText = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_showText;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_splitTrack = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_splitTrack;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_switchPadding = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_thumbTint = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTint;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_track = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_track;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_trackTint = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_trackTint;
-			global::PayPal.Forms.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.TabItem = global::CFT.Promotions.Android.Resource.Styleable.TabItem;
-			global::PayPal.Forms.Android.Resource.Styleable.TabItem_android_icon = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_icon;
-			global::PayPal.Forms.Android.Resource.Styleable.TabItem_android_layout = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_layout;
-			global::PayPal.Forms.Android.Resource.Styleable.TabItem_android_text = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_text;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout = global::CFT.Promotions.Android.Resource.Styleable.TabLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabBackground = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabBackground;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabContentStart = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabContentStart;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabGravity = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabMinWidth = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMinWidth;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabMode = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMode;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabPadding = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPadding;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TabLayout_tabTextColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_textColor = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textColor;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_textSize = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textSize;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_textStyle = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textStyle;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_android_typeface = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_typeface;
-			global::PayPal.Forms.Android.Resource.Styleable.TextAppearance_textAllCaps = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_textAllCaps;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_android_hint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_android_hint;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::PayPal.Forms.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar = global::CFT.Promotions.Android.Resource.Styleable.Toolbar;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_android_gravity = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_android_gravity;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_android_minHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_buttonGravity = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_buttonGravity;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_collapseIcon = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_collapseIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetRight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetRight;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetStart = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetStart;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_logo = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_logo;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_logoDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_logoDescription;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_navigationIcon = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_navigationIcon;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_popupTheme;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_subtitle = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitle;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_title = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_title;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMargin = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMargin;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMarginStart = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginStart;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMarginTop = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginTop;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleMargins = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMargins;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::PayPal.Forms.Android.Resource.Styleable.Toolbar_titleTextColor = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleTextColor;
-			global::PayPal.Forms.Android.Resource.Styleable.View = global::CFT.Promotions.Android.Resource.Styleable.View;
-			global::PayPal.Forms.Android.Resource.Styleable.View_android_focusable = global::CFT.Promotions.Android.Resource.Styleable.View_android_focusable;
-			global::PayPal.Forms.Android.Resource.Styleable.View_android_theme = global::CFT.Promotions.Android.Resource.Styleable.View_android_theme;
-			global::PayPal.Forms.Android.Resource.Styleable.View_paddingEnd = global::CFT.Promotions.Android.Resource.Styleable.View_paddingEnd;
-			global::PayPal.Forms.Android.Resource.Styleable.View_paddingStart = global::CFT.Promotions.Android.Resource.Styleable.View_paddingStart;
-			global::PayPal.Forms.Android.Resource.Styleable.View_theme = global::CFT.Promotions.Android.Resource.Styleable.View_theme;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewBackgroundHelper = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewStubCompat = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewStubCompat_android_id = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_id;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::PayPal.Forms.Android.Resource.Styleable.ViewStubCompat_android_layout = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_layout;
+			global::DeviceDnaAndroid.Resource.Attribute.font = global::CFT.Promotions.Android.Resource.Attribute.font;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderAuthority = global::CFT.Promotions.Android.Resource.Attribute.fontProviderAuthority;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderCerts = global::CFT.Promotions.Android.Resource.Attribute.fontProviderCerts;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderFetchStrategy = global::CFT.Promotions.Android.Resource.Attribute.fontProviderFetchStrategy;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderFetchTimeout = global::CFT.Promotions.Android.Resource.Attribute.fontProviderFetchTimeout;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderPackage = global::CFT.Promotions.Android.Resource.Attribute.fontProviderPackage;
+			global::DeviceDnaAndroid.Resource.Attribute.fontProviderQuery = global::CFT.Promotions.Android.Resource.Attribute.fontProviderQuery;
+			global::DeviceDnaAndroid.Resource.Attribute.fontStyle = global::CFT.Promotions.Android.Resource.Attribute.fontStyle;
+			global::DeviceDnaAndroid.Resource.Attribute.fontWeight = global::CFT.Promotions.Android.Resource.Attribute.fontWeight;
+			global::DeviceDnaAndroid.Resource.Boolean.abc_action_bar_embed_tabs = global::CFT.Promotions.Android.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::DeviceDnaAndroid.Resource.Color.notification_action_color_filter = global::CFT.Promotions.Android.Resource.Color.notification_action_color_filter;
+			global::DeviceDnaAndroid.Resource.Color.notification_icon_bg_color = global::CFT.Promotions.Android.Resource.Color.notification_icon_bg_color;
+			global::DeviceDnaAndroid.Resource.Color.notification_material_background_media_default_color = global::CFT.Promotions.Android.Resource.Color.notification_material_background_media_default_color;
+			global::DeviceDnaAndroid.Resource.Color.primary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_text_default_material_dark;
+			global::DeviceDnaAndroid.Resource.Color.ripple_material_light = global::CFT.Promotions.Android.Resource.Color.ripple_material_light;
+			global::DeviceDnaAndroid.Resource.Color.secondary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_dark;
+			global::DeviceDnaAndroid.Resource.Color.secondary_text_default_material_light = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_light;
+			global::DeviceDnaAndroid.Resource.Dimension.compat_button_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::DeviceDnaAndroid.Resource.Dimension.compat_button_inset_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_inset_vertical_material;
+			global::DeviceDnaAndroid.Resource.Dimension.compat_button_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::DeviceDnaAndroid.Resource.Dimension.compat_button_padding_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_padding_vertical_material;
+			global::DeviceDnaAndroid.Resource.Dimension.compat_control_corner_material = global::CFT.Promotions.Android.Resource.Dimension.compat_control_corner_material;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_action_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_icon_size;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_action_text_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_text_size;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_big_circle_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_big_circle_margin;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_content_margin_start = global::CFT.Promotions.Android.Resource.Dimension.notification_content_margin_start;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_large_icon_height = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_height;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_large_icon_width = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_width;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_main_column_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_main_column_padding_top;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_media_narrow_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_media_narrow_margin;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_right_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_right_icon_size;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_right_side_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_right_side_padding_top;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_small_icon_background_padding = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_background_padding;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_small_icon_size_as_large = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_size_as_large;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_subtext_size = global::CFT.Promotions.Android.Resource.Dimension.notification_subtext_size;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_top_pad = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad;
+			global::DeviceDnaAndroid.Resource.Dimension.notification_top_pad_large_text = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad_large_text;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_action_background = global::CFT.Promotions.Android.Resource.Drawable.notification_action_background;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_bg;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg_low = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg_low_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_normal;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg_low_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_pressed;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_bg_normal_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal_pressed;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_icon_background = global::CFT.Promotions.Android.Resource.Drawable.notification_icon_background;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_template_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_bg;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_template_icon_low_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_low_bg;
+			global::DeviceDnaAndroid.Resource.Drawable.notification_tile_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_tile_bg;
+			global::DeviceDnaAndroid.Resource.Drawable.notify_panel_notification_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::DeviceDnaAndroid.Resource.Id.action0 = global::CFT.Promotions.Android.Resource.Id.action0;
+			global::DeviceDnaAndroid.Resource.Id.action_container = global::CFT.Promotions.Android.Resource.Id.action_container;
+			global::DeviceDnaAndroid.Resource.Id.action_divider = global::CFT.Promotions.Android.Resource.Id.action_divider;
+			global::DeviceDnaAndroid.Resource.Id.action_image = global::CFT.Promotions.Android.Resource.Id.action_image;
+			global::DeviceDnaAndroid.Resource.Id.action_text = global::CFT.Promotions.Android.Resource.Id.action_text;
+			global::DeviceDnaAndroid.Resource.Id.actions = global::CFT.Promotions.Android.Resource.Id.actions;
+			global::DeviceDnaAndroid.Resource.Id.async = global::CFT.Promotions.Android.Resource.Id.async;
+			global::DeviceDnaAndroid.Resource.Id.blocking = global::CFT.Promotions.Android.Resource.Id.blocking;
+			global::DeviceDnaAndroid.Resource.Id.cancel_action = global::CFT.Promotions.Android.Resource.Id.cancel_action;
+			global::DeviceDnaAndroid.Resource.Id.chronometer = global::CFT.Promotions.Android.Resource.Id.chronometer;
+			global::DeviceDnaAndroid.Resource.Id.end_padder = global::CFT.Promotions.Android.Resource.Id.end_padder;
+			global::DeviceDnaAndroid.Resource.Id.forever = global::CFT.Promotions.Android.Resource.Id.forever;
+			global::DeviceDnaAndroid.Resource.Id.icon = global::CFT.Promotions.Android.Resource.Id.icon;
+			global::DeviceDnaAndroid.Resource.Id.icon_group = global::CFT.Promotions.Android.Resource.Id.icon_group;
+			global::DeviceDnaAndroid.Resource.Id.info = global::CFT.Promotions.Android.Resource.Id.info;
+			global::DeviceDnaAndroid.Resource.Id.italic = global::CFT.Promotions.Android.Resource.Id.italic;
+			global::DeviceDnaAndroid.Resource.Id.line1 = global::CFT.Promotions.Android.Resource.Id.line1;
+			global::DeviceDnaAndroid.Resource.Id.line3 = global::CFT.Promotions.Android.Resource.Id.line3;
+			global::DeviceDnaAndroid.Resource.Id.media_actions = global::CFT.Promotions.Android.Resource.Id.media_actions;
+			global::DeviceDnaAndroid.Resource.Id.normal = global::CFT.Promotions.Android.Resource.Id.normal;
+			global::DeviceDnaAndroid.Resource.Id.notification_background = global::CFT.Promotions.Android.Resource.Id.notification_background;
+			global::DeviceDnaAndroid.Resource.Id.notification_main_column = global::CFT.Promotions.Android.Resource.Id.notification_main_column;
+			global::DeviceDnaAndroid.Resource.Id.notification_main_column_container = global::CFT.Promotions.Android.Resource.Id.notification_main_column_container;
+			global::DeviceDnaAndroid.Resource.Id.right_icon = global::CFT.Promotions.Android.Resource.Id.right_icon;
+			global::DeviceDnaAndroid.Resource.Id.right_side = global::CFT.Promotions.Android.Resource.Id.right_side;
+			global::DeviceDnaAndroid.Resource.Id.status_bar_latest_event_content = global::CFT.Promotions.Android.Resource.Id.status_bar_latest_event_content;
+			global::DeviceDnaAndroid.Resource.Id.tag_transition_group = global::CFT.Promotions.Android.Resource.Id.tag_transition_group;
+			global::DeviceDnaAndroid.Resource.Id.text = global::CFT.Promotions.Android.Resource.Id.text;
+			global::DeviceDnaAndroid.Resource.Id.text2 = global::CFT.Promotions.Android.Resource.Id.text2;
+			global::DeviceDnaAndroid.Resource.Id.time = global::CFT.Promotions.Android.Resource.Id.time;
+			global::DeviceDnaAndroid.Resource.Id.title = global::CFT.Promotions.Android.Resource.Id.title;
+			global::DeviceDnaAndroid.Resource.Integer.cancel_button_image_alpha = global::CFT.Promotions.Android.Resource.Integer.cancel_button_image_alpha;
+			global::DeviceDnaAndroid.Resource.Integer.status_bar_notification_info_maxnum = global::CFT.Promotions.Android.Resource.Integer.status_bar_notification_info_maxnum;
+			global::DeviceDnaAndroid.Resource.Layout.notification_action = global::CFT.Promotions.Android.Resource.Layout.notification_action;
+			global::DeviceDnaAndroid.Resource.Layout.notification_action_tombstone = global::CFT.Promotions.Android.Resource.Layout.notification_action_tombstone;
+			global::DeviceDnaAndroid.Resource.Layout.notification_media_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_action;
+			global::DeviceDnaAndroid.Resource.Layout.notification_media_cancel_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_cancel_action;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_big_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_big_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_custom;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_big_media_narrow = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_big_media_narrow_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_custom_big = global::CFT.Promotions.Android.Resource.Layout.notification_template_custom_big;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_icon_group = global::CFT.Promotions.Android.Resource.Layout.notification_template_icon_group;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_lines_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_lines_media;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_media;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_media_custom;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_part_chronometer = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_chronometer;
+			global::DeviceDnaAndroid.Resource.Layout.notification_template_part_time = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_time;
+			global::DeviceDnaAndroid.Resource.String.library_name = global::CFT.Promotions.Android.Resource.String.library_name;
+			global::DeviceDnaAndroid.Resource.String.status_bar_notification_info_overflow = global::CFT.Promotions.Android.Resource.String.status_bar_notification_info_overflow;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Info = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Time = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::DeviceDnaAndroid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::DeviceDnaAndroid.Resource.Style.Widget_Compat_NotificationActionContainer = global::CFT.Promotions.Android.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::DeviceDnaAndroid.Resource.Style.Widget_Compat_NotificationActionText = global::CFT.Promotions.Android.Resource.Style.Widget_Compat_NotificationActionText;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily = global::CFT.Promotions.Android.Resource.Styleable.FontFamily;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderAuthority = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderCerts = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderPackage = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamily_fontProviderQuery = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_android_font = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_font;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_font = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_font;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_fontStyle = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::DeviceDnaAndroid.Resource.Styleable.FontFamilyFont_fontWeight = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_fade_in = global::CFT.Promotions.Android.Resource.Animation.abc_fade_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_fade_out = global::CFT.Promotions.Android.Resource.Animation.abc_fade_out;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_grow_fade_in_from_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_popup_enter = global::CFT.Promotions.Android.Resource.Animation.abc_popup_enter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_popup_exit = global::CFT.Promotions.Android.Resource.Animation.abc_popup_exit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_shrink_fade_out_from_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_slide_in_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_slide_in_bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_slide_in_top = global::CFT.Promotions.Android.Resource.Animation.abc_slide_in_top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_slide_out_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_slide_out_bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.abc_slide_out_top = global::CFT.Promotions.Android.Resource.Animation.abc_slide_out_top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.design_bottom_sheet_slide_in = global::CFT.Promotions.Android.Resource.Animation.design_bottom_sheet_slide_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.design_bottom_sheet_slide_out = global::CFT.Promotions.Android.Resource.Animation.design_bottom_sheet_slide_out;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.design_snackbar_in = global::CFT.Promotions.Android.Resource.Animation.design_snackbar_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.design_snackbar_out = global::CFT.Promotions.Android.Resource.Animation.design_snackbar_out;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.tooltip_enter = global::CFT.Promotions.Android.Resource.Animation.tooltip_enter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animation.tooltip_exit = global::CFT.Promotions.Android.Resource.Animation.tooltip_exit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Animator.design_appbar_state_list_animator = global::CFT.Promotions.Android.Resource.Animator.design_appbar_state_list_animator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarDivider = global::CFT.Promotions.Android.Resource.Attribute.actionBarDivider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarItemBackground = global::CFT.Promotions.Android.Resource.Attribute.actionBarItemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarPopupTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarPopupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarSize = global::CFT.Promotions.Android.Resource.Attribute.actionBarSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarSplitStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarSplitStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarTabBarStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarTabStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarTabTextStyle = global::CFT.Promotions.Android.Resource.Attribute.actionBarTabTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionBarWidgetTheme = global::CFT.Promotions.Android.Resource.Attribute.actionBarWidgetTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionDropDownStyle = global::CFT.Promotions.Android.Resource.Attribute.actionDropDownStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionLayout = global::CFT.Promotions.Android.Resource.Attribute.actionLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionMenuTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.actionMenuTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionMenuTextColor = global::CFT.Promotions.Android.Resource.Attribute.actionMenuTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeBackground = global::CFT.Promotions.Android.Resource.Attribute.actionModeBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeCloseButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModeCloseButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeCloseDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCloseDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeCopyDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCopyDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeCutDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeCutDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeFindDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeFindDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModePasteDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModePasteDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModePopupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModePopupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeSelectAllDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeSelectAllDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeShareDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeShareDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeSplitBackground = global::CFT.Promotions.Android.Resource.Attribute.actionModeSplitBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeStyle = global::CFT.Promotions.Android.Resource.Attribute.actionModeStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionModeWebSearchDrawable = global::CFT.Promotions.Android.Resource.Attribute.actionModeWebSearchDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionOverflowButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.actionOverflowButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionOverflowMenuStyle = global::CFT.Promotions.Android.Resource.Attribute.actionOverflowMenuStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionProviderClass = global::CFT.Promotions.Android.Resource.Attribute.actionProviderClass;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.actionViewClass = global::CFT.Promotions.Android.Resource.Attribute.actionViewClass;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.activityChooserViewStyle = global::CFT.Promotions.Android.Resource.Attribute.activityChooserViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alertDialogButtonGroupStyle = global::CFT.Promotions.Android.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alertDialogCenterButtons = global::CFT.Promotions.Android.Resource.Attribute.alertDialogCenterButtons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alertDialogStyle = global::CFT.Promotions.Android.Resource.Attribute.alertDialogStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alertDialogTheme = global::CFT.Promotions.Android.Resource.Attribute.alertDialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.allowStacking = global::CFT.Promotions.Android.Resource.Attribute.allowStacking;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alpha = global::CFT.Promotions.Android.Resource.Attribute.alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.alphabeticModifiers = global::CFT.Promotions.Android.Resource.Attribute.alphabeticModifiers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.arrowHeadLength = global::CFT.Promotions.Android.Resource.Attribute.arrowHeadLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.arrowShaftLength = global::CFT.Promotions.Android.Resource.Attribute.arrowShaftLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoCompleteTextViewStyle = global::CFT.Promotions.Android.Resource.Attribute.autoCompleteTextViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoSizeMaxTextSize = global::CFT.Promotions.Android.Resource.Attribute.autoSizeMaxTextSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoSizeMinTextSize = global::CFT.Promotions.Android.Resource.Attribute.autoSizeMinTextSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoSizePresetSizes = global::CFT.Promotions.Android.Resource.Attribute.autoSizePresetSizes;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoSizeStepGranularity = global::CFT.Promotions.Android.Resource.Attribute.autoSizeStepGranularity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.autoSizeTextType = global::CFT.Promotions.Android.Resource.Attribute.autoSizeTextType;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.background = global::CFT.Promotions.Android.Resource.Attribute.background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.backgroundSplit = global::CFT.Promotions.Android.Resource.Attribute.backgroundSplit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.backgroundStacked = global::CFT.Promotions.Android.Resource.Attribute.backgroundStacked;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.backgroundTint = global::CFT.Promotions.Android.Resource.Attribute.backgroundTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.backgroundTintMode = global::CFT.Promotions.Android.Resource.Attribute.backgroundTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.barLength = global::CFT.Promotions.Android.Resource.Attribute.barLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.behavior_autoHide = global::CFT.Promotions.Android.Resource.Attribute.behavior_autoHide;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.behavior_hideable = global::CFT.Promotions.Android.Resource.Attribute.behavior_hideable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.behavior_overlapTop = global::CFT.Promotions.Android.Resource.Attribute.behavior_overlapTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.behavior_peekHeight = global::CFT.Promotions.Android.Resource.Attribute.behavior_peekHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.behavior_skipCollapsed = global::CFT.Promotions.Android.Resource.Attribute.behavior_skipCollapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.borderWidth = global::CFT.Promotions.Android.Resource.Attribute.borderWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.borderlessButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.borderlessButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.bottomSheetDialogTheme = global::CFT.Promotions.Android.Resource.Attribute.bottomSheetDialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.bottomSheetStyle = global::CFT.Promotions.Android.Resource.Attribute.bottomSheetStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonBarButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonBarNegativeButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonBarNeutralButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonBarPositiveButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonBarStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonGravity = global::CFT.Promotions.Android.Resource.Attribute.buttonGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonPanelSideLayout = global::CFT.Promotions.Android.Resource.Attribute.buttonPanelSideLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonStyle = global::CFT.Promotions.Android.Resource.Attribute.buttonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonStyleSmall = global::CFT.Promotions.Android.Resource.Attribute.buttonStyleSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonTint = global::CFT.Promotions.Android.Resource.Attribute.buttonTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.buttonTintMode = global::CFT.Promotions.Android.Resource.Attribute.buttonTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardBackgroundColor = global::CFT.Promotions.Android.Resource.Attribute.cardBackgroundColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardCornerRadius = global::CFT.Promotions.Android.Resource.Attribute.cardCornerRadius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardElevation = global::CFT.Promotions.Android.Resource.Attribute.cardElevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardMaxElevation = global::CFT.Promotions.Android.Resource.Attribute.cardMaxElevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardPreventCornerOverlap = global::CFT.Promotions.Android.Resource.Attribute.cardPreventCornerOverlap;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.cardUseCompatPadding = global::CFT.Promotions.Android.Resource.Attribute.cardUseCompatPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.checkboxStyle = global::CFT.Promotions.Android.Resource.Attribute.checkboxStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.checkedTextViewStyle = global::CFT.Promotions.Android.Resource.Attribute.checkedTextViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.closeIcon = global::CFT.Promotions.Android.Resource.Attribute.closeIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.closeItemLayout = global::CFT.Promotions.Android.Resource.Attribute.closeItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.collapseContentDescription = global::CFT.Promotions.Android.Resource.Attribute.collapseContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.collapseIcon = global::CFT.Promotions.Android.Resource.Attribute.collapseIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.collapsedTitleGravity = global::CFT.Promotions.Android.Resource.Attribute.collapsedTitleGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.collapsedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.collapsedTitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.color = global::CFT.Promotions.Android.Resource.Attribute.color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorAccent = global::CFT.Promotions.Android.Resource.Attribute.colorAccent;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorBackgroundFloating = global::CFT.Promotions.Android.Resource.Attribute.colorBackgroundFloating;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorButtonNormal = global::CFT.Promotions.Android.Resource.Attribute.colorButtonNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorControlActivated = global::CFT.Promotions.Android.Resource.Attribute.colorControlActivated;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorControlHighlight = global::CFT.Promotions.Android.Resource.Attribute.colorControlHighlight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorControlNormal = global::CFT.Promotions.Android.Resource.Attribute.colorControlNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorError = global::CFT.Promotions.Android.Resource.Attribute.colorError;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorPrimary = global::CFT.Promotions.Android.Resource.Attribute.colorPrimary;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorPrimaryDark = global::CFT.Promotions.Android.Resource.Attribute.colorPrimaryDark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.colorSwitchThumbNormal = global::CFT.Promotions.Android.Resource.Attribute.colorSwitchThumbNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.commitIcon = global::CFT.Promotions.Android.Resource.Attribute.commitIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentDescription = global::CFT.Promotions.Android.Resource.Attribute.contentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetEnd = global::CFT.Promotions.Android.Resource.Attribute.contentInsetEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Attribute.contentInsetEndWithActions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetLeft = global::CFT.Promotions.Android.Resource.Attribute.contentInsetLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetRight = global::CFT.Promotions.Android.Resource.Attribute.contentInsetRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetStart = global::CFT.Promotions.Android.Resource.Attribute.contentInsetStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Attribute.contentInsetStartWithNavigation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentPadding = global::CFT.Promotions.Android.Resource.Attribute.contentPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentPaddingBottom = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentPaddingLeft = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentPaddingRight = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentPaddingTop = global::CFT.Promotions.Android.Resource.Attribute.contentPaddingTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.contentScrim = global::CFT.Promotions.Android.Resource.Attribute.contentScrim;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.controlBackground = global::CFT.Promotions.Android.Resource.Attribute.controlBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.counterEnabled = global::CFT.Promotions.Android.Resource.Attribute.counterEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.counterMaxLength = global::CFT.Promotions.Android.Resource.Attribute.counterMaxLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.counterOverflowTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.counterOverflowTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.counterTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.counterTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.customNavigationLayout = global::CFT.Promotions.Android.Resource.Attribute.customNavigationLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.defaultQueryHint = global::CFT.Promotions.Android.Resource.Attribute.defaultQueryHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dialogPreferredPadding = global::CFT.Promotions.Android.Resource.Attribute.dialogPreferredPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dialogTheme = global::CFT.Promotions.Android.Resource.Attribute.dialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.displayOptions = global::CFT.Promotions.Android.Resource.Attribute.displayOptions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.divider = global::CFT.Promotions.Android.Resource.Attribute.divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dividerHorizontal = global::CFT.Promotions.Android.Resource.Attribute.dividerHorizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dividerPadding = global::CFT.Promotions.Android.Resource.Attribute.dividerPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dividerVertical = global::CFT.Promotions.Android.Resource.Attribute.dividerVertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.drawableSize = global::CFT.Promotions.Android.Resource.Attribute.drawableSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.drawerArrowStyle = global::CFT.Promotions.Android.Resource.Attribute.drawerArrowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dropDownListViewStyle = global::CFT.Promotions.Android.Resource.Attribute.dropDownListViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.dropdownListPreferredItemHeight = global::CFT.Promotions.Android.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.editTextBackground = global::CFT.Promotions.Android.Resource.Attribute.editTextBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.editTextColor = global::CFT.Promotions.Android.Resource.Attribute.editTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.editTextStyle = global::CFT.Promotions.Android.Resource.Attribute.editTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.elevation = global::CFT.Promotions.Android.Resource.Attribute.elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.errorEnabled = global::CFT.Promotions.Android.Resource.Attribute.errorEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.errorTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.errorTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandActivityOverflowButtonDrawable = global::CFT.Promotions.Android.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expanded = global::CFT.Promotions.Android.Resource.Attribute.expanded;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleGravity = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleMargin = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMargin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleMarginBottom = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleMarginEnd = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleMarginStart = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleMarginTop = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleMarginTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.expandedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.expandedTitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.externalRouteEnabledDrawable = global::CFT.Promotions.Android.Resource.Attribute.externalRouteEnabledDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fabSize = global::CFT.Promotions.Android.Resource.Attribute.fabSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fastScrollEnabled = global::CFT.Promotions.Android.Resource.Attribute.fastScrollEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::CFT.Promotions.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::CFT.Promotions.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fastScrollVerticalThumbDrawable = global::CFT.Promotions.Android.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fastScrollVerticalTrackDrawable = global::CFT.Promotions.Android.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.font = global::CFT.Promotions.Android.Resource.Attribute.font;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontFamily = global::CFT.Promotions.Android.Resource.Attribute.fontFamily;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderAuthority = global::CFT.Promotions.Android.Resource.Attribute.fontProviderAuthority;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderCerts = global::CFT.Promotions.Android.Resource.Attribute.fontProviderCerts;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderFetchStrategy = global::CFT.Promotions.Android.Resource.Attribute.fontProviderFetchStrategy;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderFetchTimeout = global::CFT.Promotions.Android.Resource.Attribute.fontProviderFetchTimeout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderPackage = global::CFT.Promotions.Android.Resource.Attribute.fontProviderPackage;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontProviderQuery = global::CFT.Promotions.Android.Resource.Attribute.fontProviderQuery;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontStyle = global::CFT.Promotions.Android.Resource.Attribute.fontStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.fontWeight = global::CFT.Promotions.Android.Resource.Attribute.fontWeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.foregroundInsidePadding = global::CFT.Promotions.Android.Resource.Attribute.foregroundInsidePadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.gapBetweenBars = global::CFT.Promotions.Android.Resource.Attribute.gapBetweenBars;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.goIcon = global::CFT.Promotions.Android.Resource.Attribute.goIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.headerLayout = global::CFT.Promotions.Android.Resource.Attribute.headerLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.height = global::CFT.Promotions.Android.Resource.Attribute.height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.hideOnContentScroll = global::CFT.Promotions.Android.Resource.Attribute.hideOnContentScroll;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.hintAnimationEnabled = global::CFT.Promotions.Android.Resource.Attribute.hintAnimationEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.hintEnabled = global::CFT.Promotions.Android.Resource.Attribute.hintEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.hintTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.hintTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Attribute.homeAsUpIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.homeLayout = global::CFT.Promotions.Android.Resource.Attribute.homeLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.icon = global::CFT.Promotions.Android.Resource.Attribute.icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.iconTint = global::CFT.Promotions.Android.Resource.Attribute.iconTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.iconTintMode = global::CFT.Promotions.Android.Resource.Attribute.iconTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.iconifiedByDefault = global::CFT.Promotions.Android.Resource.Attribute.iconifiedByDefault;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.imageButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.imageButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.indeterminateProgressStyle = global::CFT.Promotions.Android.Resource.Attribute.indeterminateProgressStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.initialActivityCount = global::CFT.Promotions.Android.Resource.Attribute.initialActivityCount;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.insetForeground = global::CFT.Promotions.Android.Resource.Attribute.insetForeground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.isLightTheme = global::CFT.Promotions.Android.Resource.Attribute.isLightTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.itemBackground = global::CFT.Promotions.Android.Resource.Attribute.itemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.itemIconTint = global::CFT.Promotions.Android.Resource.Attribute.itemIconTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.itemPadding = global::CFT.Promotions.Android.Resource.Attribute.itemPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.itemTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.itemTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.itemTextColor = global::CFT.Promotions.Android.Resource.Attribute.itemTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.keylines = global::CFT.Promotions.Android.Resource.Attribute.keylines;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout = global::CFT.Promotions.Android.Resource.Attribute.layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layoutManager = global::CFT.Promotions.Android.Resource.Attribute.layoutManager;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_anchor = global::CFT.Promotions.Android.Resource.Attribute.layout_anchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_anchorGravity = global::CFT.Promotions.Android.Resource.Attribute.layout_anchorGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_behavior = global::CFT.Promotions.Android.Resource.Attribute.layout_behavior;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_collapseMode = global::CFT.Promotions.Android.Resource.Attribute.layout_collapseMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_collapseParallaxMultiplier = global::CFT.Promotions.Android.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_dodgeInsetEdges = global::CFT.Promotions.Android.Resource.Attribute.layout_dodgeInsetEdges;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_insetEdge = global::CFT.Promotions.Android.Resource.Attribute.layout_insetEdge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_keyline = global::CFT.Promotions.Android.Resource.Attribute.layout_keyline;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_scrollFlags = global::CFT.Promotions.Android.Resource.Attribute.layout_scrollFlags;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.layout_scrollInterpolator = global::CFT.Promotions.Android.Resource.Attribute.layout_scrollInterpolator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listChoiceBackgroundIndicator = global::CFT.Promotions.Android.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listDividerAlertDialog = global::CFT.Promotions.Android.Resource.Attribute.listDividerAlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listItemLayout = global::CFT.Promotions.Android.Resource.Attribute.listItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listLayout = global::CFT.Promotions.Android.Resource.Attribute.listLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listMenuViewStyle = global::CFT.Promotions.Android.Resource.Attribute.listMenuViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPopupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.listPopupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPreferredItemHeight = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPreferredItemHeightLarge = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeightLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPreferredItemHeightSmall = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemHeightSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPreferredItemPaddingLeft = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.listPreferredItemPaddingRight = global::CFT.Promotions.Android.Resource.Attribute.listPreferredItemPaddingRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.logo = global::CFT.Promotions.Android.Resource.Attribute.logo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.logoDescription = global::CFT.Promotions.Android.Resource.Attribute.logoDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.maxActionInlineWidth = global::CFT.Promotions.Android.Resource.Attribute.maxActionInlineWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.maxButtonHeight = global::CFT.Promotions.Android.Resource.Attribute.maxButtonHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.measureWithLargestChild = global::CFT.Promotions.Android.Resource.Attribute.measureWithLargestChild;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteAudioTrackDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteButtonTint = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteButtonTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteCloseDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteCloseDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteDefaultIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRoutePauseDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRoutePauseDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRoutePlayDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRoutePlayDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteStopDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteStopDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteTheme = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.mediaRouteTvIconDrawable = global::CFT.Promotions.Android.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.menu = global::CFT.Promotions.Android.Resource.Attribute.menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.multiChoiceItemLayout = global::CFT.Promotions.Android.Resource.Attribute.multiChoiceItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.navigationContentDescription = global::CFT.Promotions.Android.Resource.Attribute.navigationContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.navigationIcon = global::CFT.Promotions.Android.Resource.Attribute.navigationIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.navigationMode = global::CFT.Promotions.Android.Resource.Attribute.navigationMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.numericModifiers = global::CFT.Promotions.Android.Resource.Attribute.numericModifiers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.overlapAnchor = global::CFT.Promotions.Android.Resource.Attribute.overlapAnchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.paddingBottomNoButtons = global::CFT.Promotions.Android.Resource.Attribute.paddingBottomNoButtons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.paddingEnd = global::CFT.Promotions.Android.Resource.Attribute.paddingEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.paddingStart = global::CFT.Promotions.Android.Resource.Attribute.paddingStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.paddingTopNoTitle = global::CFT.Promotions.Android.Resource.Attribute.paddingTopNoTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.panelBackground = global::CFT.Promotions.Android.Resource.Attribute.panelBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.panelMenuListTheme = global::CFT.Promotions.Android.Resource.Attribute.panelMenuListTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.panelMenuListWidth = global::CFT.Promotions.Android.Resource.Attribute.panelMenuListWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.passwordToggleContentDescription = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.passwordToggleDrawable = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.passwordToggleEnabled = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.passwordToggleTint = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.passwordToggleTintMode = global::CFT.Promotions.Android.Resource.Attribute.passwordToggleTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.popupMenuStyle = global::CFT.Promotions.Android.Resource.Attribute.popupMenuStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.popupTheme = global::CFT.Promotions.Android.Resource.Attribute.popupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.popupWindowStyle = global::CFT.Promotions.Android.Resource.Attribute.popupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.preserveIconSpacing = global::CFT.Promotions.Android.Resource.Attribute.preserveIconSpacing;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.pressedTranslationZ = global::CFT.Promotions.Android.Resource.Attribute.pressedTranslationZ;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.progressBarPadding = global::CFT.Promotions.Android.Resource.Attribute.progressBarPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.progressBarStyle = global::CFT.Promotions.Android.Resource.Attribute.progressBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.queryBackground = global::CFT.Promotions.Android.Resource.Attribute.queryBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.queryHint = global::CFT.Promotions.Android.Resource.Attribute.queryHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.radioButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.radioButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.ratingBarStyle = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.ratingBarStyleIndicator = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyleIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.ratingBarStyleSmall = global::CFT.Promotions.Android.Resource.Attribute.ratingBarStyleSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.reverseLayout = global::CFT.Promotions.Android.Resource.Attribute.reverseLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.rippleColor = global::CFT.Promotions.Android.Resource.Attribute.rippleColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.scrimAnimationDuration = global::CFT.Promotions.Android.Resource.Attribute.scrimAnimationDuration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.scrimVisibleHeightTrigger = global::CFT.Promotions.Android.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.searchHintIcon = global::CFT.Promotions.Android.Resource.Attribute.searchHintIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.searchIcon = global::CFT.Promotions.Android.Resource.Attribute.searchIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.searchViewStyle = global::CFT.Promotions.Android.Resource.Attribute.searchViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.seekBarStyle = global::CFT.Promotions.Android.Resource.Attribute.seekBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.selectableItemBackground = global::CFT.Promotions.Android.Resource.Attribute.selectableItemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.selectableItemBackgroundBorderless = global::CFT.Promotions.Android.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.showAsAction = global::CFT.Promotions.Android.Resource.Attribute.showAsAction;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.showDividers = global::CFT.Promotions.Android.Resource.Attribute.showDividers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.showText = global::CFT.Promotions.Android.Resource.Attribute.showText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.showTitle = global::CFT.Promotions.Android.Resource.Attribute.showTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.singleChoiceItemLayout = global::CFT.Promotions.Android.Resource.Attribute.singleChoiceItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.spanCount = global::CFT.Promotions.Android.Resource.Attribute.spanCount;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.spinBars = global::CFT.Promotions.Android.Resource.Attribute.spinBars;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.spinnerDropDownItemStyle = global::CFT.Promotions.Android.Resource.Attribute.spinnerDropDownItemStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.spinnerStyle = global::CFT.Promotions.Android.Resource.Attribute.spinnerStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.splitTrack = global::CFT.Promotions.Android.Resource.Attribute.splitTrack;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.srcCompat = global::CFT.Promotions.Android.Resource.Attribute.srcCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.stackFromEnd = global::CFT.Promotions.Android.Resource.Attribute.stackFromEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.state_above_anchor = global::CFT.Promotions.Android.Resource.Attribute.state_above_anchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.state_collapsed = global::CFT.Promotions.Android.Resource.Attribute.state_collapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.state_collapsible = global::CFT.Promotions.Android.Resource.Attribute.state_collapsible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.statusBarBackground = global::CFT.Promotions.Android.Resource.Attribute.statusBarBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.statusBarScrim = global::CFT.Promotions.Android.Resource.Attribute.statusBarScrim;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.subMenuArrow = global::CFT.Promotions.Android.Resource.Attribute.subMenuArrow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.submitBackground = global::CFT.Promotions.Android.Resource.Attribute.submitBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.subtitle = global::CFT.Promotions.Android.Resource.Attribute.subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.subtitleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.subtitleTextColor = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.subtitleTextStyle = global::CFT.Promotions.Android.Resource.Attribute.subtitleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.suggestionRowLayout = global::CFT.Promotions.Android.Resource.Attribute.suggestionRowLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.switchMinWidth = global::CFT.Promotions.Android.Resource.Attribute.switchMinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.switchPadding = global::CFT.Promotions.Android.Resource.Attribute.switchPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.switchStyle = global::CFT.Promotions.Android.Resource.Attribute.switchStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.switchTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.switchTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabBackground = global::CFT.Promotions.Android.Resource.Attribute.tabBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabContentStart = global::CFT.Promotions.Android.Resource.Attribute.tabContentStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabGravity = global::CFT.Promotions.Android.Resource.Attribute.tabGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabIndicatorColor = global::CFT.Promotions.Android.Resource.Attribute.tabIndicatorColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabIndicatorHeight = global::CFT.Promotions.Android.Resource.Attribute.tabIndicatorHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabMaxWidth = global::CFT.Promotions.Android.Resource.Attribute.tabMaxWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabMinWidth = global::CFT.Promotions.Android.Resource.Attribute.tabMinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabMode = global::CFT.Promotions.Android.Resource.Attribute.tabMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabPadding = global::CFT.Promotions.Android.Resource.Attribute.tabPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabPaddingBottom = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabPaddingEnd = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabPaddingStart = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabPaddingTop = global::CFT.Promotions.Android.Resource.Attribute.tabPaddingTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabSelectedTextColor = global::CFT.Promotions.Android.Resource.Attribute.tabSelectedTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.tabTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tabTextColor = global::CFT.Promotions.Android.Resource.Attribute.tabTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAllCaps = global::CFT.Promotions.Android.Resource.Attribute.textAllCaps;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceLargePopupMenu = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceListItem = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceListItemSecondary = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItemSecondary;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceListItemSmall = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceListItemSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearancePopupMenuHeader = global::CFT.Promotions.Android.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceSearchResultSubtitle = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceSearchResultTitle = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textAppearanceSmallPopupMenu = global::CFT.Promotions.Android.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textColorAlertDialogListItem = global::CFT.Promotions.Android.Resource.Attribute.textColorAlertDialogListItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textColorError = global::CFT.Promotions.Android.Resource.Attribute.textColorError;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.textColorSearchUrl = global::CFT.Promotions.Android.Resource.Attribute.textColorSearchUrl;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.theme = global::CFT.Promotions.Android.Resource.Attribute.theme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.thickness = global::CFT.Promotions.Android.Resource.Attribute.thickness;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.thumbTextPadding = global::CFT.Promotions.Android.Resource.Attribute.thumbTextPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.thumbTint = global::CFT.Promotions.Android.Resource.Attribute.thumbTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.thumbTintMode = global::CFT.Promotions.Android.Resource.Attribute.thumbTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tickMark = global::CFT.Promotions.Android.Resource.Attribute.tickMark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tickMarkTint = global::CFT.Promotions.Android.Resource.Attribute.tickMarkTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tickMarkTintMode = global::CFT.Promotions.Android.Resource.Attribute.tickMarkTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tint = global::CFT.Promotions.Android.Resource.Attribute.tint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tintMode = global::CFT.Promotions.Android.Resource.Attribute.tintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.title = global::CFT.Promotions.Android.Resource.Attribute.title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleEnabled = global::CFT.Promotions.Android.Resource.Attribute.titleEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMargin = global::CFT.Promotions.Android.Resource.Attribute.titleMargin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMarginBottom = global::CFT.Promotions.Android.Resource.Attribute.titleMarginBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMarginEnd = global::CFT.Promotions.Android.Resource.Attribute.titleMarginEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMarginStart = global::CFT.Promotions.Android.Resource.Attribute.titleMarginStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMarginTop = global::CFT.Promotions.Android.Resource.Attribute.titleMarginTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleMargins = global::CFT.Promotions.Android.Resource.Attribute.titleMargins;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleTextAppearance = global::CFT.Promotions.Android.Resource.Attribute.titleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleTextColor = global::CFT.Promotions.Android.Resource.Attribute.titleTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.titleTextStyle = global::CFT.Promotions.Android.Resource.Attribute.titleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.toolbarId = global::CFT.Promotions.Android.Resource.Attribute.toolbarId;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.toolbarNavigationButtonStyle = global::CFT.Promotions.Android.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.toolbarStyle = global::CFT.Promotions.Android.Resource.Attribute.toolbarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tooltipForegroundColor = global::CFT.Promotions.Android.Resource.Attribute.tooltipForegroundColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tooltipFrameBackground = global::CFT.Promotions.Android.Resource.Attribute.tooltipFrameBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.tooltipText = global::CFT.Promotions.Android.Resource.Attribute.tooltipText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.track = global::CFT.Promotions.Android.Resource.Attribute.track;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.trackTint = global::CFT.Promotions.Android.Resource.Attribute.trackTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.trackTintMode = global::CFT.Promotions.Android.Resource.Attribute.trackTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.useCompatPadding = global::CFT.Promotions.Android.Resource.Attribute.useCompatPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.voiceIcon = global::CFT.Promotions.Android.Resource.Attribute.voiceIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowActionBar = global::CFT.Promotions.Android.Resource.Attribute.windowActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowActionBarOverlay = global::CFT.Promotions.Android.Resource.Attribute.windowActionBarOverlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowActionModeOverlay = global::CFT.Promotions.Android.Resource.Attribute.windowActionModeOverlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowFixedHeightMajor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedHeightMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowFixedHeightMinor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedHeightMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowFixedWidthMajor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedWidthMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowFixedWidthMinor = global::CFT.Promotions.Android.Resource.Attribute.windowFixedWidthMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowMinWidthMajor = global::CFT.Promotions.Android.Resource.Attribute.windowMinWidthMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowMinWidthMinor = global::CFT.Promotions.Android.Resource.Attribute.windowMinWidthMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Attribute.windowNoTitle = global::CFT.Promotions.Android.Resource.Attribute.windowNoTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Boolean.abc_action_bar_embed_tabs = global::CFT.Promotions.Android.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Boolean.abc_allow_stacked_button_bar = global::CFT.Promotions.Android.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::CFT.Promotions.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::CFT.Promotions.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::CFT.Promotions.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_background_cache_hint_selector_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_background_cache_hint_selector_material_light = global::CFT.Promotions.Android.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_btn_colored_borderless_text_material = global::CFT.Promotions.Android.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_btn_colored_text_material = global::CFT.Promotions.Android.Resource.Color.abc_btn_colored_text_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_color_highlight_material = global::CFT.Promotions.Android.Resource.Color.abc_color_highlight_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_hint_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_hint_foreground_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_hint_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.abc_hint_foreground_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_input_method_navigation_guard = global::CFT.Promotions.Android.Resource.Color.abc_input_method_navigation_guard;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_primary_text_disable_only_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_primary_text_disable_only_material_light = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_primary_text_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_primary_text_material_light = global::CFT.Promotions.Android.Resource.Color.abc_primary_text_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_search_url_text = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_search_url_text_normal = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_normal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_search_url_text_pressed = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_pressed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_search_url_text_selected = global::CFT.Promotions.Android.Resource.Color.abc_search_url_text_selected;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_secondary_text_material_dark = global::CFT.Promotions.Android.Resource.Color.abc_secondary_text_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_secondary_text_material_light = global::CFT.Promotions.Android.Resource.Color.abc_secondary_text_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_btn_checkable = global::CFT.Promotions.Android.Resource.Color.abc_tint_btn_checkable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_default = global::CFT.Promotions.Android.Resource.Color.abc_tint_default;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_edittext = global::CFT.Promotions.Android.Resource.Color.abc_tint_edittext;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_seek_thumb = global::CFT.Promotions.Android.Resource.Color.abc_tint_seek_thumb;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_spinner = global::CFT.Promotions.Android.Resource.Color.abc_tint_spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.abc_tint_switch_track = global::CFT.Promotions.Android.Resource.Color.abc_tint_switch_track;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.accent_material_dark = global::CFT.Promotions.Android.Resource.Color.accent_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.accent_material_light = global::CFT.Promotions.Android.Resource.Color.accent_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.background_floating_material_dark = global::CFT.Promotions.Android.Resource.Color.background_floating_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.background_floating_material_light = global::CFT.Promotions.Android.Resource.Color.background_floating_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.background_material_dark = global::CFT.Promotions.Android.Resource.Color.background_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.background_material_light = global::CFT.Promotions.Android.Resource.Color.background_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_disabled_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_disabled_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_inverse_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_inverse_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_inverse_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_inverse_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.bright_foreground_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.bright_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.bright_foreground_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.button_material_dark = global::CFT.Promotions.Android.Resource.Color.button_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.button_material_light = global::CFT.Promotions.Android.Resource.Color.button_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.cardview_dark_background = global::CFT.Promotions.Android.Resource.Color.cardview_dark_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.cardview_light_background = global::CFT.Promotions.Android.Resource.Color.cardview_light_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.cardview_shadow_end_color = global::CFT.Promotions.Android.Resource.Color.cardview_shadow_end_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.cardview_shadow_start_color = global::CFT.Promotions.Android.Resource.Color.cardview_shadow_start_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_bottom_navigation_shadow_color = global::CFT.Promotions.Android.Resource.Color.design_bottom_navigation_shadow_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_error = global::CFT.Promotions.Android.Resource.Color.design_error;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_shadow_end_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_end_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_shadow_mid_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_mid_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_shadow_start_color = global::CFT.Promotions.Android.Resource.Color.design_fab_shadow_start_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_stroke_end_inner_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_end_inner_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_stroke_end_outer_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_end_outer_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_stroke_top_inner_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_top_inner_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_fab_stroke_top_outer_color = global::CFT.Promotions.Android.Resource.Color.design_fab_stroke_top_outer_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_snackbar_background_color = global::CFT.Promotions.Android.Resource.Color.design_snackbar_background_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.design_tint_password_toggle = global::CFT.Promotions.Android.Resource.Color.design_tint_password_toggle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.dim_foreground_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.dim_foreground_disabled_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.dim_foreground_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.dim_foreground_disabled_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.dim_foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.dim_foreground_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.dim_foreground_material_light = global::CFT.Promotions.Android.Resource.Color.dim_foreground_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.error_color_material = global::CFT.Promotions.Android.Resource.Color.error_color_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.foreground_material_dark = global::CFT.Promotions.Android.Resource.Color.foreground_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.foreground_material_light = global::CFT.Promotions.Android.Resource.Color.foreground_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.highlighted_text_material_dark = global::CFT.Promotions.Android.Resource.Color.highlighted_text_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.highlighted_text_material_light = global::CFT.Promotions.Android.Resource.Color.highlighted_text_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_black_16 = global::CFT.Promotions.Android.Resource.Color.judo_black_16;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_black_38 = global::CFT.Promotions.Android.Resource.Color.judo_black_38;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_black_54 = global::CFT.Promotions.Android.Resource.Color.judo_black_54;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_black_87 = global::CFT.Promotions.Android.Resource.Color.judo_black_87;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_blue = global::CFT.Promotions.Android.Resource.Color.judo_blue;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_dark_blue = global::CFT.Promotions.Android.Resource.Color.judo_dark_blue;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_dark_teal = global::CFT.Promotions.Android.Resource.Color.judo_dark_teal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_red = global::CFT.Promotions.Android.Resource.Color.judo_red;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_teal = global::CFT.Promotions.Android.Resource.Color.judo_teal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_white = global::CFT.Promotions.Android.Resource.Color.judo_white;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.judo_white_90 = global::CFT.Promotions.Android.Resource.Color.judo_white_90;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_blue_grey_800 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_800;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_blue_grey_900 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_900;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_blue_grey_950 = global::CFT.Promotions.Android.Resource.Color.material_blue_grey_950;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_deep_teal_200 = global::CFT.Promotions.Android.Resource.Color.material_deep_teal_200;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_deep_teal_500 = global::CFT.Promotions.Android.Resource.Color.material_deep_teal_500;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_100 = global::CFT.Promotions.Android.Resource.Color.material_grey_100;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_300 = global::CFT.Promotions.Android.Resource.Color.material_grey_300;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_50 = global::CFT.Promotions.Android.Resource.Color.material_grey_50;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_600 = global::CFT.Promotions.Android.Resource.Color.material_grey_600;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_800 = global::CFT.Promotions.Android.Resource.Color.material_grey_800;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_850 = global::CFT.Promotions.Android.Resource.Color.material_grey_850;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.material_grey_900 = global::CFT.Promotions.Android.Resource.Color.material_grey_900;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.notification_action_color_filter = global::CFT.Promotions.Android.Resource.Color.notification_action_color_filter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.notification_icon_bg_color = global::CFT.Promotions.Android.Resource.Color.notification_icon_bg_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.notification_material_background_media_default_color = global::CFT.Promotions.Android.Resource.Color.notification_material_background_media_default_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_dark_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_dark_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_dark_material_light = global::CFT.Promotions.Android.Resource.Color.primary_dark_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_material_light = global::CFT.Promotions.Android.Resource.Color.primary_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_text_default_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_text_default_material_light = global::CFT.Promotions.Android.Resource.Color.primary_text_default_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_text_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.primary_text_disabled_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.primary_text_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.primary_text_disabled_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.ripple_material_dark = global::CFT.Promotions.Android.Resource.Color.ripple_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.ripple_material_light = global::CFT.Promotions.Android.Resource.Color.ripple_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.secondary_text_default_material_dark = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.secondary_text_default_material_light = global::CFT.Promotions.Android.Resource.Color.secondary_text_default_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.secondary_text_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.secondary_text_disabled_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.secondary_text_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.secondary_text_disabled_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_disabled_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_disabled_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_disabled_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_disabled_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_normal_material_dark = global::CFT.Promotions.Android.Resource.Color.switch_thumb_normal_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.switch_thumb_normal_material_light = global::CFT.Promotions.Android.Resource.Color.switch_thumb_normal_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.tooltip_background_dark = global::CFT.Promotions.Android.Resource.Color.tooltip_background_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Color.tooltip_background_light = global::CFT.Promotions.Android.Resource.Color.tooltip_background_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_content_inset_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_default_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_height_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_default_padding_end_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_default_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_elevation_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_elevation_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_progress_bar_size = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_stacked_max_height = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_button_min_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_height_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_button_min_width_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_width_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_action_button_min_width_overflow_material = global::CFT.Promotions.Android.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_alert_dialog_button_bar_height = global::CFT.Promotions.Android.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_button_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_button_inset_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_inset_vertical_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_button_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_button_padding_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.abc_button_padding_vertical_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::CFT.Promotions.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_config_prefDialogWidth = global::CFT.Promotions.Android.Resource.Dimension.abc_config_prefDialogWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_control_corner_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_corner_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_control_inset_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_inset_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_control_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_control_padding_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_fixed_height_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_fixed_height_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_fixed_width_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_fixed_width_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_min_width_major = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_min_width_major;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_min_width_minor = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_min_width_minor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_padding_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_padding_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_padding_top_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_padding_top_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dialog_title_divider_material = global::CFT.Promotions.Android.Resource.Dimension.abc_dialog_title_divider_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_disabled_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_disabled_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dropdownitem_icon_width = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dropdownitem_text_padding_left = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_dropdownitem_text_padding_right = global::CFT.Promotions.Android.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_edit_text_inset_bottom_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_edit_text_inset_top_material = global::CFT.Promotions.Android.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_floating_window_z = global::CFT.Promotions.Android.Resource.Dimension.abc_floating_window_z;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_list_item_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_panel_menu_list_width = global::CFT.Promotions.Android.Resource.Dimension.abc_panel_menu_list_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_progress_bar_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_progress_bar_height_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_search_view_preferred_height = global::CFT.Promotions.Android.Resource.Dimension.abc_search_view_preferred_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_search_view_preferred_width = global::CFT.Promotions.Android.Resource.Dimension.abc_search_view_preferred_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_seekbar_track_background_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_seekbar_track_progress_height_material = global::CFT.Promotions.Android.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_select_dialog_padding_start_material = global::CFT.Promotions.Android.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_switch_padding = global::CFT.Promotions.Android.Resource.Dimension.abc_switch_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_body_1_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_body_1_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_body_2_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_body_2_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_button_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_button_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_caption_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_caption_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_display_1_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_1_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_display_2_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_2_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_display_3_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_3_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_display_4_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_display_4_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_headline_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_headline_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_large_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_large_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_medium_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_medium_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_menu_header_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_menu_header_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_menu_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_menu_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_small_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_small_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_subhead_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_subhead_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_title_material = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_title_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.abc_text_size_title_material_toolbar = global::CFT.Promotions.Android.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.cardview_compat_inset_shadow = global::CFT.Promotions.Android.Resource.Dimension.cardview_compat_inset_shadow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.cardview_default_elevation = global::CFT.Promotions.Android.Resource.Dimension.cardview_default_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.cardview_default_radius = global::CFT.Promotions.Android.Resource.Dimension.cardview_default_radius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.compat_button_inset_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.compat_button_inset_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_inset_vertical_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.compat_button_padding_horizontal_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.compat_button_padding_vertical_material = global::CFT.Promotions.Android.Resource.Dimension.compat_button_padding_vertical_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.compat_control_corner_material = global::CFT.Promotions.Android.Resource.Dimension.compat_control_corner_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_appbar_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_appbar_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_active_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_height = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_item_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_item_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_margin = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_margin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_shadow_height = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_navigation_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_navigation_text_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_sheet_modal_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_bottom_sheet_peek_height_min = global::CFT.Promotions.Android.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_border_width = global::CFT.Promotions.Android.Resource.Dimension.design_fab_border_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_fab_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_image_size = global::CFT.Promotions.Android.Resource.Dimension.design_fab_image_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_size_mini = global::CFT.Promotions.Android.Resource.Dimension.design_fab_size_mini;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_size_normal = global::CFT.Promotions.Android.Resource.Dimension.design_fab_size_normal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_fab_translation_z_pressed = global::CFT.Promotions.Android.Resource.Dimension.design_fab_translation_z_pressed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_icon_padding = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_icon_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_icon_size = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_icon_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_padding_bottom = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_padding_bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_navigation_separator_vertical_padding = global::CFT.Promotions.Android.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_action_inline_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_background_corner_radius = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_elevation = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_min_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_padding_horizontal = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_padding_vertical = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_vertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_snackbar_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_snackbar_text_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_tab_max_width = global::CFT.Promotions.Android.Resource.Dimension.design_tab_max_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_tab_scrollable_min_width = global::CFT.Promotions.Android.Resource.Dimension.design_tab_scrollable_min_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_tab_text_size = global::CFT.Promotions.Android.Resource.Dimension.design_tab_text_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.design_tab_text_size_2line = global::CFT.Promotions.Android.Resource.Dimension.design_tab_text_size_2line;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.disabled_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.disabled_alpha_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.disabled_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.disabled_alpha_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.fastscroll_default_thickness = global::CFT.Promotions.Android.Resource.Dimension.fastscroll_default_thickness;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.fastscroll_margin = global::CFT.Promotions.Android.Resource.Dimension.fastscroll_margin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.fastscroll_minimum_range = global::CFT.Promotions.Android.Resource.Dimension.fastscroll_minimum_range;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.highlight_alpha_material_colored = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.highlight_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.highlight_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.highlight_alpha_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.hint_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.hint_alpha_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.hint_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.hint_alpha_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.hint_pressed_alpha_material_dark = global::CFT.Promotions.Android.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.hint_pressed_alpha_material_light = global::CFT.Promotions.Android.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::CFT.Promotions.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_controller_volume_group_list_item_height = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_controller_volume_group_list_max_height = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::CFT.Promotions.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_dialog_fixed_width_major = global::CFT.Promotions.Android.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.mr_dialog_fixed_width_minor = global::CFT.Promotions.Android.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_action_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_icon_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_action_text_size = global::CFT.Promotions.Android.Resource.Dimension.notification_action_text_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_big_circle_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_big_circle_margin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_content_margin_start = global::CFT.Promotions.Android.Resource.Dimension.notification_content_margin_start;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_large_icon_height = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_large_icon_width = global::CFT.Promotions.Android.Resource.Dimension.notification_large_icon_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_main_column_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_main_column_padding_top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_media_narrow_margin = global::CFT.Promotions.Android.Resource.Dimension.notification_media_narrow_margin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_right_icon_size = global::CFT.Promotions.Android.Resource.Dimension.notification_right_icon_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_right_side_padding_top = global::CFT.Promotions.Android.Resource.Dimension.notification_right_side_padding_top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_small_icon_background_padding = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_background_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_small_icon_size_as_large = global::CFT.Promotions.Android.Resource.Dimension.notification_small_icon_size_as_large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_subtext_size = global::CFT.Promotions.Android.Resource.Dimension.notification_subtext_size;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_top_pad = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.notification_top_pad_large_text = global::CFT.Promotions.Android.Resource.Dimension.notification_top_pad_large_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_corner_radius = global::CFT.Promotions.Android.Resource.Dimension.tooltip_corner_radius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_horizontal_padding = global::CFT.Promotions.Android.Resource.Dimension.tooltip_horizontal_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_margin = global::CFT.Promotions.Android.Resource.Dimension.tooltip_margin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::CFT.Promotions.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_precise_anchor_threshold = global::CFT.Promotions.Android.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_vertical_padding = global::CFT.Promotions.Android.Resource.Dimension.tooltip_vertical_padding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_y_offset_non_touch = global::CFT.Promotions.Android.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Dimension.tooltip_y_offset_touch = global::CFT.Promotions.Android.Resource.Dimension.tooltip_y_offset_touch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_action_bar_item_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_action_bar_item_background_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_borderless_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_borderless_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_check_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_colored_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_colored_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_default_mtrl_shape = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_radio_material = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::CFT.Promotions.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_cab_background_internal_bg = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_internal_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_cab_background_top_material = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_top_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_control_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_control_background_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_dialog_material_background = global::CFT.Promotions.Android.Resource.Drawable.abc_dialog_material_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_edit_text_material = global::CFT.Promotions.Android.Resource.Drawable.abc_edit_text_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_ab_back_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_ab_back_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_clear_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_clear_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_go_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_go_search_api_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_overflow_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_search_api_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_black_16dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_16dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_black_36dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_36dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_black_48dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_black_48dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_half_black_16dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_half_black_36dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_star_half_black_48dp = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ic_voice_search_api_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_item_background_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_item_background_holo_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_item_background_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_item_background_holo_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_divider_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_focused_holo = global::CFT.Promotions.Android.Resource.Drawable.abc_list_focused_holo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_longpressed_holo = global::CFT.Promotions.Android.Resource.Drawable.abc_list_longpressed_holo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_pressed_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_pressed_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_pressed_holo_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_disabled_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_holo_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_holo_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_list_selector_holo_light = global::CFT.Promotions.Android.Resource.Drawable.abc_list_selector_holo_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::CFT.Promotions.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_popup_background_mtrl_mult = global::CFT.Promotions.Android.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ratingbar_indicator_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ratingbar_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_ratingbar_small_material = global::CFT.Promotions.Android.Resource.Drawable.abc_ratingbar_small_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_seekbar_thumb_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_thumb_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_seekbar_tick_mark_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_seekbar_track_material = global::CFT.Promotions.Android.Resource.Drawable.abc_seekbar_track_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_spinner_textfield_background_material = global::CFT.Promotions.Android.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_switch_thumb_material = global::CFT.Promotions.Android.Resource.Drawable.abc_switch_thumb_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_switch_track_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_tab_indicator_material = global::CFT.Promotions.Android.Resource.Drawable.abc_tab_indicator_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_cursor_material = global::CFT.Promotions.Android.Resource.Drawable.abc_text_cursor_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::CFT.Promotions.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_textfield_search_material = global::CFT.Promotions.Android.Resource.Drawable.abc_textfield_search_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.abc_vector_test = global::CFT.Promotions.Android.Resource.Drawable.abc_vector_test;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_hide_password = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_hide_password_1 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_hide_password_2 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_hide_password_3 = global::CFT.Promotions.Android.Resource.Drawable.avd_hide_password_3;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_show_password = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_show_password_1 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_show_password_2 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.avd_show_password_3 = global::CFT.Promotions.Android.Resource.Drawable.avd_show_password_3;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_bottom_navigation_item_background = global::CFT.Promotions.Android.Resource.Drawable.design_bottom_navigation_item_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_fab_background = global::CFT.Promotions.Android.Resource.Drawable.design_fab_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_ic_visibility = global::CFT.Promotions.Android.Resource.Drawable.design_ic_visibility;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_ic_visibility_off = global::CFT.Promotions.Android.Resource.Drawable.design_ic_visibility_off;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_password_eye = global::CFT.Promotions.Android.Resource.Drawable.design_password_eye;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.design_snackbar_background = global::CFT.Promotions.Android.Resource.Drawable.design_snackbar_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_app_icon = global::CFT.Promotions.Android.Resource.Drawable.ic_app_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_audiotrack_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_audiotrack_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_audiotrack_light = global::CFT.Promotions.Android.Resource.Drawable.ic_audiotrack_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_amex = global::CFT.Promotions.Android.Resource.Drawable.ic_card_amex;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_cidv = global::CFT.Promotions.Android.Resource.Drawable.ic_card_cidv;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_cv2 = global::CFT.Promotions.Android.Resource.Drawable.ic_card_cv2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_maestro = global::CFT.Promotions.Android.Resource.Drawable.ic_card_maestro;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_mastercard = global::CFT.Promotions.Android.Resource.Drawable.ic_card_mastercard;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_unknown = global::CFT.Promotions.Android.Resource.Drawable.ic_card_unknown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_card_visa = global::CFT.Promotions.Android.Resource.Drawable.ic_card_visa;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_dialog_close_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_dialog_close_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_dialog_close_light = global::CFT.Promotions.Android.Resource.Drawable.ic_dialog_close_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_00 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_00;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_01 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_01;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_02 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_02;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_03 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_03;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_04 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_04;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_05 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_05;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_06 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_06;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_07 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_07;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_08 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_08;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_09 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_09;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_10 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_10;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_11 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_11;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_12 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_12;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_13 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_13;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_14 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_14;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_collapse_15 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_collapse_15;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_00 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_00;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_01 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_01;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_02 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_02;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_03 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_03;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_04 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_04;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_05 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_05;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_06 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_06;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_07 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_07;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_08 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_08;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_09 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_09;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_10 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_10;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_11 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_11;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_12 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_12;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_13 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_13;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_14 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_14;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_group_expand_15 = global::CFT.Promotions.Android.Resource.Drawable.ic_group_expand_15;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_pause_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_pause_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_pause_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_pause_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_play_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_play_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_play_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_play_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_stop_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_media_stop_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_media_stop_light = global::CFT.Promotions.Android.Resource.Drawable.ic_media_stop_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_00_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_00_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_01_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_01_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_02_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_02_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_03_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_03_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_04_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_04_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_05_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_05_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_06_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_06_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_07_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_07_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_08_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_08_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_09_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_09_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_10_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_10_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_11_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_11_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_12_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_12_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_13_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_13_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_14_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_14_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_15_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_15_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_16_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_16_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_17_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_17_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_18_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_18_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_19_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_19_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_20_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_20_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_21_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_21_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_22_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_22_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_23_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_23_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_23_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_23_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_24_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_24_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_24_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_24_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_25_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_25_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_25_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_25_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_26_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_26_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_26_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_26_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_27_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_27_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_27_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_27_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_28_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_28_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_28_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_28_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_29_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_29_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_29_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_29_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_30_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_30_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connected_30_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connected_30_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_00_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_00_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_01_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_01_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_02_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_02_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_03_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_03_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_04_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_04_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_05_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_05_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_06_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_06_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_07_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_07_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_08_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_08_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_09_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_09_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_10_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_10_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_11_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_11_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_12_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_12_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_13_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_13_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_14_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_14_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_15_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_15_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_16_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_16_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_17_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_17_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_18_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_18_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_19_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_19_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_20_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_20_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_21_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_21_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_22_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_22_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_23_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_23_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_23_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_23_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_24_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_24_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_24_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_24_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_25_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_25_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_25_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_25_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_26_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_26_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_26_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_26_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_27_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_27_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_27_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_27_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_28_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_28_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_28_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_28_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_29_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_29_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_29_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_29_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_30_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_30_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_connecting_30_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_connecting_30_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_disabled_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_disabled_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disabled_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_disconnected_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_disconnected_light = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_mr_button_grey = global::CFT.Promotions.Android.Resource.Drawable.ic_mr_button_grey;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_speaker_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_speaker_group_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_speaker_group_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_speaker_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_speaker_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_tv_dark = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_tv_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.ic_vol_type_tv_light = global::CFT.Promotions.Android.Resource.Drawable.ic_vol_type_tv_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_connected_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connected_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_connected_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connected_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_connecting_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connecting_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_connecting_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_connecting_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_button_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_button_light = global::CFT.Promotions.Android.Resource.Drawable.mr_button_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_dialog_close_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_close_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_dialog_close_light = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_close_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_dialog_material_background_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_material_background_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_dialog_material_background_light = global::CFT.Promotions.Android.Resource.Drawable.mr_dialog_material_background_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_group_collapse = global::CFT.Promotions.Android.Resource.Drawable.mr_group_collapse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_group_expand = global::CFT.Promotions.Android.Resource.Drawable.mr_group_expand;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_pause_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_pause_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_pause_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_pause_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_play_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_play_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_play_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_play_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_stop_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_media_stop_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_media_stop_light = global::CFT.Promotions.Android.Resource.Drawable.mr_media_stop_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_vol_type_audiotrack_dark = global::CFT.Promotions.Android.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.mr_vol_type_audiotrack_light = global::CFT.Promotions.Android.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.navigation_empty_icon = global::CFT.Promotions.Android.Resource.Drawable.navigation_empty_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_action_background = global::CFT.Promotions.Android.Resource.Drawable.notification_action_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg_low = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg_low_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_normal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg_low_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_low_pressed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg_normal = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_bg_normal_pressed = global::CFT.Promotions.Android.Resource.Drawable.notification_bg_normal_pressed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_icon_background = global::CFT.Promotions.Android.Resource.Drawable.notification_icon_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_template_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_template_icon_low_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_template_icon_low_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notification_tile_bg = global::CFT.Promotions.Android.Resource.Drawable.notification_tile_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.notify_panel_notification_icon_bg = global::CFT.Promotions.Android.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.tooltip_frame_dark = global::CFT.Promotions.Android.Resource.Drawable.tooltip_frame_dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Drawable.tooltip_frame_light = global::CFT.Promotions.Android.Resource.Drawable.tooltip_frame_light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.ALT = global::CFT.Promotions.Android.Resource.Id.ALT;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.CTRL = global::CFT.Promotions.Android.Resource.Id.CTRL;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.FUNCTION = global::CFT.Promotions.Android.Resource.Id.FUNCTION;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.META = global::CFT.Promotions.Android.Resource.Id.META;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.SHIFT = global::CFT.Promotions.Android.Resource.Id.SHIFT;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.SYM = global::CFT.Promotions.Android.Resource.Id.SYM;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action0 = global::CFT.Promotions.Android.Resource.Id.action0;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar = global::CFT.Promotions.Android.Resource.Id.action_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_activity_content = global::CFT.Promotions.Android.Resource.Id.action_bar_activity_content;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_container = global::CFT.Promotions.Android.Resource.Id.action_bar_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_root = global::CFT.Promotions.Android.Resource.Id.action_bar_root;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_spinner = global::CFT.Promotions.Android.Resource.Id.action_bar_spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_subtitle = global::CFT.Promotions.Android.Resource.Id.action_bar_subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_bar_title = global::CFT.Promotions.Android.Resource.Id.action_bar_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_container = global::CFT.Promotions.Android.Resource.Id.action_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_context_bar = global::CFT.Promotions.Android.Resource.Id.action_context_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_divider = global::CFT.Promotions.Android.Resource.Id.action_divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_image = global::CFT.Promotions.Android.Resource.Id.action_image;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_menu_divider = global::CFT.Promotions.Android.Resource.Id.action_menu_divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_menu_presenter = global::CFT.Promotions.Android.Resource.Id.action_menu_presenter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_mode_bar = global::CFT.Promotions.Android.Resource.Id.action_mode_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_mode_bar_stub = global::CFT.Promotions.Android.Resource.Id.action_mode_bar_stub;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_mode_close_button = global::CFT.Promotions.Android.Resource.Id.action_mode_close_button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.action_text = global::CFT.Promotions.Android.Resource.Id.action_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.actions = global::CFT.Promotions.Android.Resource.Id.actions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.activity_chooser_view_content = global::CFT.Promotions.Android.Resource.Id.activity_chooser_view_content;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.add = global::CFT.Promotions.Android.Resource.Id.add;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.alertTitle = global::CFT.Promotions.Android.Resource.Id.alertTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.all = global::CFT.Promotions.Android.Resource.Id.all;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.always = global::CFT.Promotions.Android.Resource.Id.always;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.async = global::CFT.Promotions.Android.Resource.Id.async;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.auto = global::CFT.Promotions.Android.Resource.Id.auto;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.beginning = global::CFT.Promotions.Android.Resource.Id.beginning;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.blocking = global::CFT.Promotions.Android.Resource.Id.blocking;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.bottom = global::CFT.Promotions.Android.Resource.Id.bottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.buttonPanel = global::CFT.Promotions.Android.Resource.Id.buttonPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.cancel_action = global::CFT.Promotions.Android.Resource.Id.cancel_action;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.center = global::CFT.Promotions.Android.Resource.Id.center;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.center_horizontal = global::CFT.Promotions.Android.Resource.Id.center_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.center_vertical = global::CFT.Promotions.Android.Resource.Id.center_vertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.checkbox = global::CFT.Promotions.Android.Resource.Id.checkbox;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.chronometer = global::CFT.Promotions.Android.Resource.Id.chronometer;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.clip_horizontal = global::CFT.Promotions.Android.Resource.Id.clip_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.clip_vertical = global::CFT.Promotions.Android.Resource.Id.clip_vertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.collapseActionView = global::CFT.Promotions.Android.Resource.Id.collapseActionView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.container = global::CFT.Promotions.Android.Resource.Id.container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.contentPanel = global::CFT.Promotions.Android.Resource.Id.contentPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.coordinator = global::CFT.Promotions.Android.Resource.Id.coordinator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.custom = global::CFT.Promotions.Android.Resource.Id.custom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.customPanel = global::CFT.Promotions.Android.Resource.Id.customPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.decor_content_parent = global::CFT.Promotions.Android.Resource.Id.decor_content_parent;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.default_activity_button = global::CFT.Promotions.Android.Resource.Id.default_activity_button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.design_bottom_sheet = global::CFT.Promotions.Android.Resource.Id.design_bottom_sheet;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.design_menu_item_action_area = global::CFT.Promotions.Android.Resource.Id.design_menu_item_action_area;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.design_menu_item_action_area_stub = global::CFT.Promotions.Android.Resource.Id.design_menu_item_action_area_stub;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.design_menu_item_text = global::CFT.Promotions.Android.Resource.Id.design_menu_item_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.design_navigation_view = global::CFT.Promotions.Android.Resource.Id.design_navigation_view;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.disableHome = global::CFT.Promotions.Android.Resource.Id.disableHome;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.edit_query = global::CFT.Promotions.Android.Resource.Id.edit_query;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.end = global::CFT.Promotions.Android.Resource.Id.end;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.end_padder = global::CFT.Promotions.Android.Resource.Id.end_padder;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.enterAlways = global::CFT.Promotions.Android.Resource.Id.enterAlways;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.enterAlwaysCollapsed = global::CFT.Promotions.Android.Resource.Id.enterAlwaysCollapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.exitUntilCollapsed = global::CFT.Promotions.Android.Resource.Id.exitUntilCollapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.expand_activities_button = global::CFT.Promotions.Android.Resource.Id.expand_activities_button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.expanded_menu = global::CFT.Promotions.Android.Resource.Id.expanded_menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.fill = global::CFT.Promotions.Android.Resource.Id.fill;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.fill_horizontal = global::CFT.Promotions.Android.Resource.Id.fill_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.fill_vertical = global::CFT.Promotions.Android.Resource.Id.fill_vertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.@fixed = global::CFT.Promotions.Android.Resource.Id.@fixed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.forever = global::CFT.Promotions.Android.Resource.Id.forever;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.ghost_view = global::CFT.Promotions.Android.Resource.Id.ghost_view;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.home = global::CFT.Promotions.Android.Resource.Id.home;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.homeAsUp = global::CFT.Promotions.Android.Resource.Id.homeAsUp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.icon = global::CFT.Promotions.Android.Resource.Id.icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.icon_group = global::CFT.Promotions.Android.Resource.Id.icon_group;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.ifRoom = global::CFT.Promotions.Android.Resource.Id.ifRoom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.image = global::CFT.Promotions.Android.Resource.Id.image;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.info = global::CFT.Promotions.Android.Resource.Id.info;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.italic = global::CFT.Promotions.Android.Resource.Id.italic;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.item_touch_helper_previous_elevation = global::CFT.Promotions.Android.Resource.Id.item_touch_helper_previous_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.largeLabel = global::CFT.Promotions.Android.Resource.Id.largeLabel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.left = global::CFT.Promotions.Android.Resource.Id.left;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.line1 = global::CFT.Promotions.Android.Resource.Id.line1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.line3 = global::CFT.Promotions.Android.Resource.Id.line3;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.listMode = global::CFT.Promotions.Android.Resource.Id.listMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.list_item = global::CFT.Promotions.Android.Resource.Id.list_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.masked = global::CFT.Promotions.Android.Resource.Id.masked;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.media_actions = global::CFT.Promotions.Android.Resource.Id.media_actions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.message = global::CFT.Promotions.Android.Resource.Id.message;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.middle = global::CFT.Promotions.Android.Resource.Id.middle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mini = global::CFT.Promotions.Android.Resource.Id.mini;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_art = global::CFT.Promotions.Android.Resource.Id.mr_art;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_chooser_list = global::CFT.Promotions.Android.Resource.Id.mr_chooser_list;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_chooser_route_desc = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_desc;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_chooser_route_icon = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_chooser_route_name = global::CFT.Promotions.Android.Resource.Id.mr_chooser_route_name;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_chooser_title = global::CFT.Promotions.Android.Resource.Id.mr_chooser_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_close = global::CFT.Promotions.Android.Resource.Id.mr_close;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_control_divider = global::CFT.Promotions.Android.Resource.Id.mr_control_divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_control_playback_ctrl = global::CFT.Promotions.Android.Resource.Id.mr_control_playback_ctrl;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_control_subtitle = global::CFT.Promotions.Android.Resource.Id.mr_control_subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_control_title = global::CFT.Promotions.Android.Resource.Id.mr_control_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_control_title_container = global::CFT.Promotions.Android.Resource.Id.mr_control_title_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_custom_control = global::CFT.Promotions.Android.Resource.Id.mr_custom_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_default_control = global::CFT.Promotions.Android.Resource.Id.mr_default_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_dialog_area = global::CFT.Promotions.Android.Resource.Id.mr_dialog_area;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_expandable_area = global::CFT.Promotions.Android.Resource.Id.mr_expandable_area;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_group_expand_collapse = global::CFT.Promotions.Android.Resource.Id.mr_group_expand_collapse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_media_main_control = global::CFT.Promotions.Android.Resource.Id.mr_media_main_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_name = global::CFT.Promotions.Android.Resource.Id.mr_name;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_playback_control = global::CFT.Promotions.Android.Resource.Id.mr_playback_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_title_bar = global::CFT.Promotions.Android.Resource.Id.mr_title_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_volume_control = global::CFT.Promotions.Android.Resource.Id.mr_volume_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_volume_group_list = global::CFT.Promotions.Android.Resource.Id.mr_volume_group_list;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_volume_item_icon = global::CFT.Promotions.Android.Resource.Id.mr_volume_item_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.mr_volume_slider = global::CFT.Promotions.Android.Resource.Id.mr_volume_slider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.multiply = global::CFT.Promotions.Android.Resource.Id.multiply;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.navigation_header_container = global::CFT.Promotions.Android.Resource.Id.navigation_header_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.never = global::CFT.Promotions.Android.Resource.Id.never;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.none = global::CFT.Promotions.Android.Resource.Id.none;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.normal = global::CFT.Promotions.Android.Resource.Id.normal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.notification_background = global::CFT.Promotions.Android.Resource.Id.notification_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.notification_main_column = global::CFT.Promotions.Android.Resource.Id.notification_main_column;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.notification_main_column_container = global::CFT.Promotions.Android.Resource.Id.notification_main_column_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.parallax = global::CFT.Promotions.Android.Resource.Id.parallax;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.parentPanel = global::CFT.Promotions.Android.Resource.Id.parentPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.parent_matrix = global::CFT.Promotions.Android.Resource.Id.parent_matrix;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.pin = global::CFT.Promotions.Android.Resource.Id.pin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.progress_circular = global::CFT.Promotions.Android.Resource.Id.progress_circular;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.progress_horizontal = global::CFT.Promotions.Android.Resource.Id.progress_horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.progress_overlay = global::CFT.Promotions.Android.Resource.Id.progress_overlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.progress_text = global::CFT.Promotions.Android.Resource.Id.progress_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.radio = global::CFT.Promotions.Android.Resource.Id.radio;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.right = global::CFT.Promotions.Android.Resource.Id.right;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.right_icon = global::CFT.Promotions.Android.Resource.Id.right_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.right_side = global::CFT.Promotions.Android.Resource.Id.right_side;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.save_image_matrix = global::CFT.Promotions.Android.Resource.Id.save_image_matrix;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.save_non_transition_alpha = global::CFT.Promotions.Android.Resource.Id.save_non_transition_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.save_scale_type = global::CFT.Promotions.Android.Resource.Id.save_scale_type;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.screen = global::CFT.Promotions.Android.Resource.Id.screen;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.scroll = global::CFT.Promotions.Android.Resource.Id.scroll;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.scrollIndicatorDown = global::CFT.Promotions.Android.Resource.Id.scrollIndicatorDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.scrollIndicatorUp = global::CFT.Promotions.Android.Resource.Id.scrollIndicatorUp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.scrollView = global::CFT.Promotions.Android.Resource.Id.scrollView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.scrollable = global::CFT.Promotions.Android.Resource.Id.scrollable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_badge = global::CFT.Promotions.Android.Resource.Id.search_badge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_bar = global::CFT.Promotions.Android.Resource.Id.search_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_button = global::CFT.Promotions.Android.Resource.Id.search_button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_close_btn = global::CFT.Promotions.Android.Resource.Id.search_close_btn;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_edit_frame = global::CFT.Promotions.Android.Resource.Id.search_edit_frame;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_go_btn = global::CFT.Promotions.Android.Resource.Id.search_go_btn;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_mag_icon = global::CFT.Promotions.Android.Resource.Id.search_mag_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_plate = global::CFT.Promotions.Android.Resource.Id.search_plate;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_src_text = global::CFT.Promotions.Android.Resource.Id.search_src_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.search_voice_btn = global::CFT.Promotions.Android.Resource.Id.search_voice_btn;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.select_dialog_listview = global::CFT.Promotions.Android.Resource.Id.select_dialog_listview;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.shortcut = global::CFT.Promotions.Android.Resource.Id.shortcut;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.showCustom = global::CFT.Promotions.Android.Resource.Id.showCustom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.showHome = global::CFT.Promotions.Android.Resource.Id.showHome;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.showTitle = global::CFT.Promotions.Android.Resource.Id.showTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.sliding_tabs = global::CFT.Promotions.Android.Resource.Id.sliding_tabs;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.smallLabel = global::CFT.Promotions.Android.Resource.Id.smallLabel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.snackbar_action = global::CFT.Promotions.Android.Resource.Id.snackbar_action;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.snackbar_text = global::CFT.Promotions.Android.Resource.Id.snackbar_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.snap = global::CFT.Promotions.Android.Resource.Id.snap;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.spacer = global::CFT.Promotions.Android.Resource.Id.spacer;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.split_action_bar = global::CFT.Promotions.Android.Resource.Id.split_action_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.src_atop = global::CFT.Promotions.Android.Resource.Id.src_atop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.src_in = global::CFT.Promotions.Android.Resource.Id.src_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.src_over = global::CFT.Promotions.Android.Resource.Id.src_over;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.start = global::CFT.Promotions.Android.Resource.Id.start;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.status_bar_latest_event_content = global::CFT.Promotions.Android.Resource.Id.status_bar_latest_event_content;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.submenuarrow = global::CFT.Promotions.Android.Resource.Id.submenuarrow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.submit_area = global::CFT.Promotions.Android.Resource.Id.submit_area;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.tabMode = global::CFT.Promotions.Android.Resource.Id.tabMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.tag_transition_group = global::CFT.Promotions.Android.Resource.Id.tag_transition_group;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.text = global::CFT.Promotions.Android.Resource.Id.text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.text2 = global::CFT.Promotions.Android.Resource.Id.text2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.textSpacerNoButtons = global::CFT.Promotions.Android.Resource.Id.textSpacerNoButtons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.textSpacerNoTitle = global::CFT.Promotions.Android.Resource.Id.textSpacerNoTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.text_input_password_toggle = global::CFT.Promotions.Android.Resource.Id.text_input_password_toggle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.textinput_counter = global::CFT.Promotions.Android.Resource.Id.textinput_counter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.textinput_error = global::CFT.Promotions.Android.Resource.Id.textinput_error;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.time = global::CFT.Promotions.Android.Resource.Id.time;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.title = global::CFT.Promotions.Android.Resource.Id.title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.titleDividerNoCustom = global::CFT.Promotions.Android.Resource.Id.titleDividerNoCustom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.title_template = global::CFT.Promotions.Android.Resource.Id.title_template;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.toolbar = global::CFT.Promotions.Android.Resource.Id.toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.top = global::CFT.Promotions.Android.Resource.Id.top;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.topPanel = global::CFT.Promotions.Android.Resource.Id.topPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.touch_outside = global::CFT.Promotions.Android.Resource.Id.touch_outside;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.transition_current_scene = global::CFT.Promotions.Android.Resource.Id.transition_current_scene;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.transition_layout_save = global::CFT.Promotions.Android.Resource.Id.transition_layout_save;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.transition_position = global::CFT.Promotions.Android.Resource.Id.transition_position;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.transition_scene_layoutid_cache = global::CFT.Promotions.Android.Resource.Id.transition_scene_layoutid_cache;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.transition_transform = global::CFT.Promotions.Android.Resource.Id.transition_transform;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.uniform = global::CFT.Promotions.Android.Resource.Id.uniform;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.up = global::CFT.Promotions.Android.Resource.Id.up;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.useLogo = global::CFT.Promotions.Android.Resource.Id.useLogo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.view_offset_helper = global::CFT.Promotions.Android.Resource.Id.view_offset_helper;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.visible = global::CFT.Promotions.Android.Resource.Id.visible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.volume_item_container = global::CFT.Promotions.Android.Resource.Id.volume_item_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.withText = global::CFT.Promotions.Android.Resource.Id.withText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Id.wrap_content = global::CFT.Promotions.Android.Resource.Id.wrap_content;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.abc_config_activityDefaultDur = global::CFT.Promotions.Android.Resource.Integer.abc_config_activityDefaultDur;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.abc_config_activityShortDur = global::CFT.Promotions.Android.Resource.Integer.abc_config_activityShortDur;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.app_bar_elevation_anim_duration = global::CFT.Promotions.Android.Resource.Integer.app_bar_elevation_anim_duration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.bottom_sheet_slide_duration = global::CFT.Promotions.Android.Resource.Integer.bottom_sheet_slide_duration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.cancel_button_image_alpha = global::CFT.Promotions.Android.Resource.Integer.cancel_button_image_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.config_tooltipAnimTime = global::CFT.Promotions.Android.Resource.Integer.config_tooltipAnimTime;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.design_snackbar_text_max_lines = global::CFT.Promotions.Android.Resource.Integer.design_snackbar_text_max_lines;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.hide_password_duration = global::CFT.Promotions.Android.Resource.Integer.hide_password_duration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::CFT.Promotions.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.show_password_duration = global::CFT.Promotions.Android.Resource.Integer.show_password_duration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Integer.status_bar_notification_info_maxnum = global::CFT.Promotions.Android.Resource.Integer.status_bar_notification_info_maxnum;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Interpolator.mr_fast_out_slow_in = global::CFT.Promotions.Android.Resource.Interpolator.mr_fast_out_slow_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Interpolator.mr_linear_out_slow_in = global::CFT.Promotions.Android.Resource.Interpolator.mr_linear_out_slow_in;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_bar_title_item = global::CFT.Promotions.Android.Resource.Layout.abc_action_bar_title_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_bar_up_container = global::CFT.Promotions.Android.Resource.Layout.abc_action_bar_up_container;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_action_menu_item_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_menu_layout = global::CFT.Promotions.Android.Resource.Layout.abc_action_menu_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_mode_bar = global::CFT.Promotions.Android.Resource.Layout.abc_action_mode_bar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_action_mode_close_item_material = global::CFT.Promotions.Android.Resource.Layout.abc_action_mode_close_item_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_activity_chooser_view = global::CFT.Promotions.Android.Resource.Layout.abc_activity_chooser_view;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_activity_chooser_view_list_item = global::CFT.Promotions.Android.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_alert_dialog_button_bar_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_alert_dialog_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_alert_dialog_title_material = global::CFT.Promotions.Android.Resource.Layout.abc_alert_dialog_title_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_dialog_title_material = global::CFT.Promotions.Android.Resource.Layout.abc_dialog_title_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_expanded_menu_layout = global::CFT.Promotions.Android.Resource.Layout.abc_expanded_menu_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_list_menu_item_checkbox = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_checkbox;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_list_menu_item_icon = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_list_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_list_menu_item_radio = global::CFT.Promotions.Android.Resource.Layout.abc_list_menu_item_radio;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_popup_menu_header_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_popup_menu_item_layout = global::CFT.Promotions.Android.Resource.Layout.abc_popup_menu_item_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_screen_content_include = global::CFT.Promotions.Android.Resource.Layout.abc_screen_content_include;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_screen_simple = global::CFT.Promotions.Android.Resource.Layout.abc_screen_simple;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_screen_simple_overlay_action_mode = global::CFT.Promotions.Android.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_screen_toolbar = global::CFT.Promotions.Android.Resource.Layout.abc_screen_toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_search_dropdown_item_icons_2line = global::CFT.Promotions.Android.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_search_view = global::CFT.Promotions.Android.Resource.Layout.abc_search_view;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.abc_select_dialog_material = global::CFT.Promotions.Android.Resource.Layout.abc_select_dialog_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.AndroidPay = global::CFT.Promotions.Android.Resource.Layout.AndroidPay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_bottom_navigation_item = global::CFT.Promotions.Android.Resource.Layout.design_bottom_navigation_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_bottom_sheet_dialog = global::CFT.Promotions.Android.Resource.Layout.design_bottom_sheet_dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_layout_snackbar = global::CFT.Promotions.Android.Resource.Layout.design_layout_snackbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_layout_snackbar_include = global::CFT.Promotions.Android.Resource.Layout.design_layout_snackbar_include;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_layout_tab_icon = global::CFT.Promotions.Android.Resource.Layout.design_layout_tab_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_layout_tab_text = global::CFT.Promotions.Android.Resource.Layout.design_layout_tab_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_menu_item_action_area = global::CFT.Promotions.Android.Resource.Layout.design_menu_item_action_area;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_item = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_item_header = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_header;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_item_separator = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_separator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_item_subheader = global::CFT.Promotions.Android.Resource.Layout.design_navigation_item_subheader;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_menu = global::CFT.Promotions.Android.Resource.Layout.design_navigation_menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_navigation_menu_item = global::CFT.Promotions.Android.Resource.Layout.design_navigation_menu_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.design_text_input_password_icon = global::CFT.Promotions.Android.Resource.Layout.design_text_input_password_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.DropdownItem = global::CFT.Promotions.Android.Resource.Layout.DropdownItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_chooser_dialog = global::CFT.Promotions.Android.Resource.Layout.mr_chooser_dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_chooser_list_item = global::CFT.Promotions.Android.Resource.Layout.mr_chooser_list_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_controller_material_dialog_b = global::CFT.Promotions.Android.Resource.Layout.mr_controller_material_dialog_b;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_controller_volume_item = global::CFT.Promotions.Android.Resource.Layout.mr_controller_volume_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_playback_control = global::CFT.Promotions.Android.Resource.Layout.mr_playback_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.mr_volume_control = global::CFT.Promotions.Android.Resource.Layout.mr_volume_control;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_action = global::CFT.Promotions.Android.Resource.Layout.notification_action;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_action_tombstone = global::CFT.Promotions.Android.Resource.Layout.notification_action_tombstone;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_media_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_action;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_media_cancel_action = global::CFT.Promotions.Android.Resource.Layout.notification_media_cancel_action;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_big_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_big_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_custom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_big_media_narrow = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_big_media_narrow_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_custom_big = global::CFT.Promotions.Android.Resource.Layout.notification_template_custom_big;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_icon_group = global::CFT.Promotions.Android.Resource.Layout.notification_template_icon_group;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_lines_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_lines_media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_media = global::CFT.Promotions.Android.Resource.Layout.notification_template_media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_media_custom = global::CFT.Promotions.Android.Resource.Layout.notification_template_media_custom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_part_chronometer = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_chronometer;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.notification_template_part_time = global::CFT.Promotions.Android.Resource.Layout.notification_template_part_time;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.select_dialog_item_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_item_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.select_dialog_multichoice_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_multichoice_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.select_dialog_singlechoice_material = global::CFT.Promotions.Android.Resource.Layout.select_dialog_singlechoice_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.support_simple_spinner_dropdown_item = global::CFT.Promotions.Android.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.Tabbar = global::CFT.Promotions.Android.Resource.Layout.Tabbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.Toolbar = global::CFT.Promotions.Android.Resource.Layout.Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Layout.tooltip = global::CFT.Promotions.Android.Resource.Layout.tooltip;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_action_bar_home_description = global::CFT.Promotions.Android.Resource.String.abc_action_bar_home_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_action_bar_up_description = global::CFT.Promotions.Android.Resource.String.abc_action_bar_up_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_action_menu_overflow_description = global::CFT.Promotions.Android.Resource.String.abc_action_menu_overflow_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_action_mode_done = global::CFT.Promotions.Android.Resource.String.abc_action_mode_done;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_activity_chooser_view_see_all = global::CFT.Promotions.Android.Resource.String.abc_activity_chooser_view_see_all;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_activitychooserview_choose_application = global::CFT.Promotions.Android.Resource.String.abc_activitychooserview_choose_application;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_capital_off = global::CFT.Promotions.Android.Resource.String.abc_capital_off;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_capital_on = global::CFT.Promotions.Android.Resource.String.abc_capital_on;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_body_1_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_body_1_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_body_2_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_body_2_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_button_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_button_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_caption_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_caption_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_display_1_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_1_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_display_2_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_2_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_display_3_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_3_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_display_4_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_display_4_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_headline_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_headline_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_menu_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_menu_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_subhead_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_subhead_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_font_family_title_material = global::CFT.Promotions.Android.Resource.String.abc_font_family_title_material;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_search_hint = global::CFT.Promotions.Android.Resource.String.abc_search_hint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_searchview_description_clear = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_clear;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_searchview_description_query = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_query;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_searchview_description_search = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_search;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_searchview_description_submit = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_submit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_searchview_description_voice = global::CFT.Promotions.Android.Resource.String.abc_searchview_description_voice;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_shareactionprovider_share_with = global::CFT.Promotions.Android.Resource.String.abc_shareactionprovider_share_with;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_shareactionprovider_share_with_application = global::CFT.Promotions.Android.Resource.String.abc_shareactionprovider_share_with_application;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.abc_toolbar_collapse_description = global::CFT.Promotions.Android.Resource.String.abc_toolbar_collapse_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.appbar_scrolling_view_behavior = global::CFT.Promotions.Android.Resource.String.appbar_scrolling_view_behavior;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.bottom_sheet_behavior = global::CFT.Promotions.Android.Resource.String.bottom_sheet_behavior;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.character_counter_pattern = global::CFT.Promotions.Android.Resource.String.character_counter_pattern;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.library_name = global::CFT.Promotions.Android.Resource.String.library_name;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_button_content_description = global::CFT.Promotions.Android.Resource.String.mr_button_content_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_cast_button_connected = global::CFT.Promotions.Android.Resource.String.mr_cast_button_connected;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_cast_button_connecting = global::CFT.Promotions.Android.Resource.String.mr_cast_button_connecting;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_cast_button_disconnected = global::CFT.Promotions.Android.Resource.String.mr_cast_button_disconnected;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_chooser_searching = global::CFT.Promotions.Android.Resource.String.mr_chooser_searching;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_chooser_title = global::CFT.Promotions.Android.Resource.String.mr_chooser_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_album_art = global::CFT.Promotions.Android.Resource.String.mr_controller_album_art;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_casting_screen = global::CFT.Promotions.Android.Resource.String.mr_controller_casting_screen;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_close_description = global::CFT.Promotions.Android.Resource.String.mr_controller_close_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_collapse_group = global::CFT.Promotions.Android.Resource.String.mr_controller_collapse_group;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_disconnect = global::CFT.Promotions.Android.Resource.String.mr_controller_disconnect;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_expand_group = global::CFT.Promotions.Android.Resource.String.mr_controller_expand_group;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_no_info_available = global::CFT.Promotions.Android.Resource.String.mr_controller_no_info_available;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_no_media_selected = global::CFT.Promotions.Android.Resource.String.mr_controller_no_media_selected;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_pause = global::CFT.Promotions.Android.Resource.String.mr_controller_pause;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_play = global::CFT.Promotions.Android.Resource.String.mr_controller_play;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_stop = global::CFT.Promotions.Android.Resource.String.mr_controller_stop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_stop_casting = global::CFT.Promotions.Android.Resource.String.mr_controller_stop_casting;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_controller_volume_slider = global::CFT.Promotions.Android.Resource.String.mr_controller_volume_slider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_system_route_name = global::CFT.Promotions.Android.Resource.String.mr_system_route_name;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.mr_user_route_category_name = global::CFT.Promotions.Android.Resource.String.mr_user_route_category_name;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.password_toggle_content_description = global::CFT.Promotions.Android.Resource.String.password_toggle_content_description;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.path_password_eye = global::CFT.Promotions.Android.Resource.String.path_password_eye;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.path_password_eye_mask_strike_through = global::CFT.Promotions.Android.Resource.String.path_password_eye_mask_strike_through;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.path_password_eye_mask_visible = global::CFT.Promotions.Android.Resource.String.path_password_eye_mask_visible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.path_password_strike_through = global::CFT.Promotions.Android.Resource.String.path_password_strike_through;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.search_menu_title = global::CFT.Promotions.Android.Resource.String.search_menu_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.String.status_bar_notification_info_overflow = global::CFT.Promotions.Android.Resource.String.status_bar_notification_info_overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.AlertDialog_AppCompat = global::CFT.Promotions.Android.Resource.Style.AlertDialog_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.AlertDialog_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.AlertDialog_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Animation_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Animation_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Animation_AppCompat_DropDownUp = global::CFT.Promotions.Android.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Animation_AppCompat_Tooltip = global::CFT.Promotions.Android.Resource.Style.Animation_AppCompat_Tooltip;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Animation_Design_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.AppCompatDialogStyle = global::CFT.Promotions.Android.Resource.Style.AppCompatDialogStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_AlertDialog_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_AlertDialog_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_AlertDialog_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Animation_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::CFT.Promotions.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Animation_AppCompat_Tooltip = global::CFT.Promotions.Android.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_CardView = global::CFT.Promotions.Android.Resource.Style.Base_CardView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_DialogWindowTitle_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::CFT.Promotions.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V22_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V22_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V22_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V23_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V23_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V23_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V26_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V26_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V26_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActionMode = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Button_Small = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ImageButton = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ListView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_RatingBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_SearchView = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_SeekBar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::CFT.Promotions.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Base_Widget_Design_TabLayout = global::CFT.Promotions.Android.Resource.Style.Base_Widget_Design_TabLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.CardView = global::CFT.Promotions.Android.Resource.Style.CardView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.CardView_Dark = global::CFT.Promotions.Android.Resource.Style.CardView_Dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.CardView_Light = global::CFT.Promotions.Android.Resource.Style.CardView_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.JudoTheme = global::CFT.Promotions.Android.Resource.Style.JudoTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.JudoTheme_ActionBar = global::CFT.Promotions.Android.Resource.Style.JudoTheme_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V11_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V11_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V11_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V11_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V14_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V14_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V14_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V14_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V21_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V21_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V21_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V21_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V25_AppCompat = global::CFT.Promotions.Android.Resource.Style.Platform_V25_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_V25_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Platform_V25_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Platform_Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::CFT.Promotions.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Body1 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Body2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Caption = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Display1 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Display2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Display3 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Display4 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Headline = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Medium = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Menu = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Subhead = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Tooltip = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Info = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Time = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Counter = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Counter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Counter_Overflow = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Error = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Error;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Hint = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Hint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Snackbar_Message = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Design_Tab = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Design_Tab;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_MediaRouter_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::CFT.Promotions.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_CompactMenu = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_Dialog = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_AppCompat_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design = global::CFT.Promotions.Android.Resource.Style.Theme_Design;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design_Light = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design_Light_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_Design_NoActionBar = global::CFT.Promotions.Android.Resource.Style.Theme_Design_NoActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_MediaRouter = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_MediaRouter_Light = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Theme_MediaRouter_LightControlPanel = global::CFT.Promotions.Android.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_Dark = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_AppCompat_Light = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.ThemeOverlay_MediaRouter_Light = global::CFT.Promotions.Android.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActionMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActionMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button_Borderless = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button_Colored = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Button_Small = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Button_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ButtonBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_EditText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_EditText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ImageButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ImageButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_SearchView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ListMenuView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ListPopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ListView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ListView_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ListView_Menu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_PopupMenu = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_PopupWindow = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ProgressBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_RatingBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_RatingBar_Small = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_SearchView = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SearchView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_SeekBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SeekBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Spinner = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Toolbar = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::CFT.Promotions.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Compat_NotificationActionContainer = global::CFT.Promotions.Android.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Compat_NotificationActionText = global::CFT.Promotions.Android.Resource.Style.Widget_Compat_NotificationActionText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_AppBarLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_BottomNavigationView = global::CFT.Promotions.Android.Resource.Style.Widget_Design_BottomNavigationView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_BottomSheet_Modal = global::CFT.Promotions.Android.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_CollapsingToolbar = global::CFT.Promotions.Android.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_CoordinatorLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_FloatingActionButton = global::CFT.Promotions.Android.Resource.Style.Widget_Design_FloatingActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_NavigationView = global::CFT.Promotions.Android.Resource.Style.Widget_Design_NavigationView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_Snackbar = global::CFT.Promotions.Android.Resource.Style.Widget_Design_Snackbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_TabLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_TabLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_Design_TextInputLayout = global::CFT.Promotions.Android.Resource.Style.Widget_Design_TextInputLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::CFT.Promotions.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::CFT.Promotions.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar = global::CFT.Promotions.Android.Resource.Styleable.ActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_background = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_backgroundSplit = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_backgroundSplit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_backgroundStacked = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_backgroundStacked;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetEnd = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetLeft = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetRight = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetStart = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_customNavigationLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_displayOptions = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_displayOptions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_divider = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_elevation = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_height = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_hideOnContentScroll = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_homeLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_homeLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_icon = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_itemPadding = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_itemPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_logo = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_logo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_navigationMode = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_navigationMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_popupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_progressBarPadding = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_progressBarPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_progressBarStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_progressBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_subtitle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_subtitleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_title = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBar_titleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionBar_titleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBarLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMenuItemView = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuItemView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMenuItemView_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMenuView = global::CFT.Promotions.Android.Resource.Styleable.ActionMenuView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode = global::CFT.Promotions.Android.Resource.Styleable.ActionMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_background = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_backgroundSplit = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_backgroundSplit;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_closeItemLayout = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_closeItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_height = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_subtitleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActionMode_titleTextStyle = global::CFT.Promotions.Android.Resource.Styleable.ActionMode_titleTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActivityChooserView = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ActivityChooserView_initialActivityCount = global::CFT.Promotions.Android.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_android_layout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_android_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_listItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_listItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_listLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_listLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_showTitle = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_showTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::CFT.Promotions.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_android_background = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_android_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_elevation = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_expanded = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_expanded;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayoutStates = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::CFT.Promotions.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatImageView = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatImageView_android_src = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_android_src;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatImageView_srcCompat = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatImageView_tint = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_tint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatImageView_tintMode = global::CFT.Promotions.Android.Resource.Styleable.AppCompatImageView_tintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatSeekBar = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatSeekBar_android_thumb = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatSeekBar_tickMark = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::CFT.Promotions.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_android_textAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_fontFamily = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTextView_textAllCaps = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarDivider = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarSize = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_checkboxStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorAccent = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorControlActivated = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorControlNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorError = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorError;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorPrimary = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_controlBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dialogTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dividerVertical = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_editTextBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_editTextColor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_editTextStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_panelBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_searchViewStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_seekBarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_spinnerStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_switchStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_toolbarStyle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowActionBar = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.AppCompatTheme_windowNoTitle = global::CFT.Promotions.Android.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView_elevation = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView_itemIconTint = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView_itemTextColor = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomNavigationView_menu = global::CFT.Promotions.Android.Resource.Styleable.BottomNavigationView_menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomSheetBehavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::CFT.Promotions.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ButtonBarLayout = global::CFT.Promotions.Android.Resource.Styleable.ButtonBarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ButtonBarLayout_allowStacking = global::CFT.Promotions.Android.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView = global::CFT.Promotions.Android.Resource.Styleable.CardView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.CardView_android_minHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.CardView_android_minWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardBackgroundColor = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardBackgroundColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardCornerRadius = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardCornerRadius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardElevation = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardElevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardMaxElevation = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardMaxElevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardPreventCornerOverlap = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_cardUseCompatPadding = global::CFT.Promotions.Android.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_contentPadding = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_contentPaddingBottom = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_contentPaddingLeft = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_contentPaddingRight = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CardView_contentPaddingTop = global::CFT.Promotions.Android.Resource.Styleable.CardView_contentPaddingTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_title = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::CFT.Promotions.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ColorStateListItem = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ColorStateListItem_alpha = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ColorStateListItem_android_alpha = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ColorStateListItem_android_color = global::CFT.Promotions.Android.Resource.Styleable.ColorStateListItem_android_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CompoundButton = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CompoundButton_android_button = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_android_button;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CompoundButton_buttonTint = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_buttonTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CompoundButton_buttonTintMode = global::CFT.Promotions.Android.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_keylines = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_keylines;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::CFT.Promotions.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DesignTheme = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DesignTheme_bottomSheetStyle = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DesignTheme_textColorError = global::CFT.Promotions.Android.Resource.Styleable.DesignTheme_textColorError;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_barLength = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_color = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_color;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_drawableSize = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_spinBars = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.DrawerArrowToggle_thickness = global::CFT.Promotions.Android.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_backgroundTint = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_borderWidth = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_elevation = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_fabSize = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_fabSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_rippleColor = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_useCompatPadding = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::CFT.Promotions.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily = global::CFT.Promotions.Android.Resource.Styleable.FontFamily;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderAuthority = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderCerts = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderPackage = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamily_fontProviderQuery = global::CFT.Promotions.Android.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_android_font = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_font;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_android_fontStyle = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_android_fontWeight = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_font = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_font;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_fontStyle = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.FontFamilyFont_fontWeight = global::CFT.Promotions.Android.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ForegroundLinearLayout = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::CFT.Promotions.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_android_gravity = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_android_orientation = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_divider = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_divider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_showDividers = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_Layout = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::CFT.Promotions.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ListPopupWindow = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::CFT.Promotions.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MediaRouteButton = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MediaRouteButton_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MediaRouteButton_android_minWidth = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::CFT.Promotions.Android.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_checkableBehavior = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_enabled = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_enabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_id = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_id;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_menuCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_orderInCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuGroup_android_visible = global::CFT.Promotions.Android.Resource.Styleable.MenuGroup_android_visible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem = global::CFT.Promotions.Android.Resource.Styleable.MenuItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_actionLayout = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_actionProviderClass = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionProviderClass;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_actionViewClass = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_actionViewClass;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_alphabeticModifiers = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_checkable = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_checkable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_checked = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_checked;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_enabled = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_enabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_icon = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_id = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_id;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_menuCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_menuCategory;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_numericShortcut = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_onClick = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_onClick;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_orderInCategory = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_title = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_titleCondensed = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_android_visible = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_android_visible;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_contentDescription = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_contentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_iconTint = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_iconTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_iconTintMode = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_iconTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_numericModifiers = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_numericModifiers;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_showAsAction = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_showAsAction;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuItem_tooltipText = global::CFT.Promotions.Android.Resource.Styleable.MenuItem_tooltipText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView = global::CFT.Promotions.Android.Resource.Styleable.MenuView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_headerBackground = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_headerBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_horizontalDivider = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_itemTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_verticalDivider = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_verticalDivider;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_android_windowAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_preserveIconSpacing = global::CFT.Promotions.Android.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.MenuView_subMenuArrow = global::CFT.Promotions.Android.Resource.Styleable.MenuView_subMenuArrow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView = global::CFT.Promotions.Android.Resource.Styleable.NavigationView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_android_background = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_android_maxWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_elevation = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_headerLayout = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_headerLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_itemBackground = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_itemIconTint = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemIconTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_itemTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_itemTextColor = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_itemTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.NavigationView_menu = global::CFT.Promotions.Android.Resource.Styleable.NavigationView_menu;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindow = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindow_android_popupBackground = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindow_overlapAnchor = global::CFT.Promotions.Android.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindowBackgroundState = global::CFT.Promotions.Android.Resource.Styleable.PopupWindowBackgroundState;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::CFT.Promotions.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecycleListView = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::CFT.Promotions.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_android_descendantFocusability = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_android_orientation = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_android_orientation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_fastScrollEnabled = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_layoutManager = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_layoutManager;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_reverseLayout = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_reverseLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_spanCount = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_spanCount;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.RecyclerView_stackFromEnd = global::CFT.Promotions.Android.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ScrimInsetsFrameLayout = global::CFT.Promotions.Android.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::CFT.Promotions.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ScrollingViewBehavior_Layout = global::CFT.Promotions.Android.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::CFT.Promotions.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView = global::CFT.Promotions.Android.Resource.Styleable.SearchView;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_android_focusable = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_focusable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_android_imeOptions = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_imeOptions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_android_inputType = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_inputType;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.SearchView_android_maxWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_closeIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_closeIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_commitIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_commitIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_defaultQueryHint = global::CFT.Promotions.Android.Resource.Styleable.SearchView_defaultQueryHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_goIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_goIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_iconifiedByDefault = global::CFT.Promotions.Android.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_layout = global::CFT.Promotions.Android.Resource.Styleable.SearchView_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_queryBackground = global::CFT.Promotions.Android.Resource.Styleable.SearchView_queryBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_queryHint = global::CFT.Promotions.Android.Resource.Styleable.SearchView_queryHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_searchHintIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_searchHintIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_searchIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_searchIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_submitBackground = global::CFT.Promotions.Android.Resource.Styleable.SearchView_submitBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_suggestionRowLayout = global::CFT.Promotions.Android.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SearchView_voiceIcon = global::CFT.Promotions.Android.Resource.Styleable.SearchView_voiceIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SnackbarLayout = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SnackbarLayout_android_maxWidth = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SnackbarLayout_elevation = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_elevation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::CFT.Promotions.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner = global::CFT.Promotions.Android.Resource.Styleable.Spinner;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner_android_dropDownWidth = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner_android_entries = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_entries;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner_android_popupBackground = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_popupBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner_android_prompt = global::CFT.Promotions.Android.Resource.Styleable.Spinner_android_prompt;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Spinner_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.Spinner_popupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_android_textOff = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_textOff;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_android_textOn = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_textOn;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_android_thumb = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_android_thumb;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_showText = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_showText;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_splitTrack = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_splitTrack;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_switchMinWidth = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_switchPadding = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_switchTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_thumbTextPadding = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_thumbTint = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_thumbTintMode = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_track = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_track;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_trackTint = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_trackTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.SwitchCompat_trackTintMode = global::CFT.Promotions.Android.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabItem = global::CFT.Promotions.Android.Resource.Styleable.TabItem;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabItem_android_icon = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_icon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabItem_android_layout = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_layout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabItem_android_text = global::CFT.Promotions.Android.Resource.Styleable.TabItem_android_text;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout = global::CFT.Promotions.Android.Resource.Styleable.TabLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabBackground = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabBackground;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabContentStart = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabContentStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabGravity = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabIndicatorColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabIndicatorHeight = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabMaxWidth = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabMinWidth = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMinWidth;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabMode = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabPadding = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPadding;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabPaddingBottom = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabPaddingEnd = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabPaddingStart = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabPaddingTop = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabSelectedTextColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TabLayout_tabTextColor = global::CFT.Promotions.Android.Resource.Styleable.TabLayout_tabTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_fontFamily = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_shadowColor = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_shadowDx = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_shadowDy = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_shadowRadius = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_textColor = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_textColorHint = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_textColorLink = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_textSize = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textSize;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_textStyle = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_textStyle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_android_typeface = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_android_typeface;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_fontFamily = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_fontFamily;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextAppearance_textAllCaps = global::CFT.Promotions.Android.Resource.Styleable.TextAppearance_textAllCaps;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_android_hint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_android_hint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_android_textColorHint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_counterEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_counterMaxLength = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_counterTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_errorEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_errorTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_hintEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_hintTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_passwordToggleTint = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::CFT.Promotions.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar = global::CFT.Promotions.Android.Resource.Styleable.Toolbar;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_android_gravity = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_android_gravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_android_minHeight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_android_minHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_buttonGravity = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_buttonGravity;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_collapseContentDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_collapseIcon = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_collapseIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetEnd = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetLeft = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetRight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetRight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetStart = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_logo = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_logo;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_logoDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_logoDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_maxButtonHeight = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_navigationContentDescription = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_navigationIcon = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_navigationIcon;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_popupTheme = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_popupTheme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_subtitle = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitle;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_subtitleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_subtitleTextColor = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_title = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_title;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMargin = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMargin;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMarginBottom = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMarginEnd = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMarginStart = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMarginTop = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMarginTop;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleMargins = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleMargins;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleTextAppearance = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.Toolbar_titleTextColor = global::CFT.Promotions.Android.Resource.Styleable.Toolbar_titleTextColor;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View = global::CFT.Promotions.Android.Resource.Styleable.View;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View_android_focusable = global::CFT.Promotions.Android.Resource.Styleable.View_android_focusable;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View_android_theme = global::CFT.Promotions.Android.Resource.Styleable.View_android_theme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View_paddingEnd = global::CFT.Promotions.Android.Resource.Styleable.View_paddingEnd;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View_paddingStart = global::CFT.Promotions.Android.Resource.Styleable.View_paddingStart;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.View_theme = global::CFT.Promotions.Android.Resource.Styleable.View_theme;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewBackgroundHelper = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewBackgroundHelper_android_background = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::CFT.Promotions.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewStubCompat = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewStubCompat_android_id = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_id;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewStubCompat_android_inflatedId = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::JudoDotNetXamarinAndroidSDK.Resource.Styleable.ViewStubCompat_android_layout = global::CFT.Promotions.Android.Resource.Styleable.ViewStubCompat_android_layout;
+			global::ModernHttpClient.Resource.String.library_name = global::CFT.Promotions.Android.Resource.String.library_name;
 			global::Plugin.Toasts.Resource.Animation.abc_fade_in = global::CFT.Promotions.Android.Resource.Animation.abc_fade_in;
 			global::Plugin.Toasts.Resource.Animation.abc_fade_out = global::CFT.Promotions.Android.Resource.Animation.abc_fade_out;
 			global::Plugin.Toasts.Resource.Animation.abc_grow_fade_in_from_bottom = global::CFT.Promotions.Android.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -4867,44 +5194,44 @@ namespace CFT.Promotions.Android
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d004f
-			public const int abc_background_cache_hint_selector_material_dark = 2131558479;
+			// aapt resource value: 0x7f0d005a
+			public const int abc_background_cache_hint_selector_material_dark = 2131558490;
 			
-			// aapt resource value: 0x7f0d0050
-			public const int abc_background_cache_hint_selector_material_light = 2131558480;
+			// aapt resource value: 0x7f0d005b
+			public const int abc_background_cache_hint_selector_material_light = 2131558491;
 			
-			// aapt resource value: 0x7f0d0051
-			public const int abc_btn_colored_borderless_text_material = 2131558481;
+			// aapt resource value: 0x7f0d005c
+			public const int abc_btn_colored_borderless_text_material = 2131558492;
 			
-			// aapt resource value: 0x7f0d0052
-			public const int abc_btn_colored_text_material = 2131558482;
+			// aapt resource value: 0x7f0d005d
+			public const int abc_btn_colored_text_material = 2131558493;
 			
-			// aapt resource value: 0x7f0d0053
-			public const int abc_color_highlight_material = 2131558483;
+			// aapt resource value: 0x7f0d005e
+			public const int abc_color_highlight_material = 2131558494;
 			
-			// aapt resource value: 0x7f0d0054
-			public const int abc_hint_foreground_material_dark = 2131558484;
+			// aapt resource value: 0x7f0d005f
+			public const int abc_hint_foreground_material_dark = 2131558495;
 			
-			// aapt resource value: 0x7f0d0055
-			public const int abc_hint_foreground_material_light = 2131558485;
+			// aapt resource value: 0x7f0d0060
+			public const int abc_hint_foreground_material_light = 2131558496;
 			
 			// aapt resource value: 0x7f0d0004
 			public const int abc_input_method_navigation_guard = 2131558404;
 			
-			// aapt resource value: 0x7f0d0056
-			public const int abc_primary_text_disable_only_material_dark = 2131558486;
+			// aapt resource value: 0x7f0d0061
+			public const int abc_primary_text_disable_only_material_dark = 2131558497;
 			
-			// aapt resource value: 0x7f0d0057
-			public const int abc_primary_text_disable_only_material_light = 2131558487;
+			// aapt resource value: 0x7f0d0062
+			public const int abc_primary_text_disable_only_material_light = 2131558498;
 			
-			// aapt resource value: 0x7f0d0058
-			public const int abc_primary_text_material_dark = 2131558488;
+			// aapt resource value: 0x7f0d0063
+			public const int abc_primary_text_material_dark = 2131558499;
 			
-			// aapt resource value: 0x7f0d0059
-			public const int abc_primary_text_material_light = 2131558489;
+			// aapt resource value: 0x7f0d0064
+			public const int abc_primary_text_material_light = 2131558500;
 			
-			// aapt resource value: 0x7f0d005a
-			public const int abc_search_url_text = 2131558490;
+			// aapt resource value: 0x7f0d0065
+			public const int abc_search_url_text = 2131558501;
 			
 			// aapt resource value: 0x7f0d0005
 			public const int abc_search_url_text_normal = 2131558405;
@@ -4915,29 +5242,29 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f0d0007
 			public const int abc_search_url_text_selected = 2131558407;
 			
-			// aapt resource value: 0x7f0d005b
-			public const int abc_secondary_text_material_dark = 2131558491;
+			// aapt resource value: 0x7f0d0066
+			public const int abc_secondary_text_material_dark = 2131558502;
 			
-			// aapt resource value: 0x7f0d005c
-			public const int abc_secondary_text_material_light = 2131558492;
+			// aapt resource value: 0x7f0d0067
+			public const int abc_secondary_text_material_light = 2131558503;
 			
-			// aapt resource value: 0x7f0d005d
-			public const int abc_tint_btn_checkable = 2131558493;
+			// aapt resource value: 0x7f0d0068
+			public const int abc_tint_btn_checkable = 2131558504;
 			
-			// aapt resource value: 0x7f0d005e
-			public const int abc_tint_default = 2131558494;
+			// aapt resource value: 0x7f0d0069
+			public const int abc_tint_default = 2131558505;
 			
-			// aapt resource value: 0x7f0d005f
-			public const int abc_tint_edittext = 2131558495;
+			// aapt resource value: 0x7f0d006a
+			public const int abc_tint_edittext = 2131558506;
 			
-			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_seek_thumb = 2131558496;
+			// aapt resource value: 0x7f0d006b
+			public const int abc_tint_seek_thumb = 2131558507;
 			
-			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_spinner = 2131558497;
+			// aapt resource value: 0x7f0d006c
+			public const int abc_tint_spinner = 2131558508;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int abc_tint_switch_track = 2131558498;
+			// aapt resource value: 0x7f0d006d
+			public const int abc_tint_switch_track = 2131558509;
 			
 			// aapt resource value: 0x7f0d0008
 			public const int accent_material_dark = 2131558408;
@@ -4993,20 +5320,20 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f0d0003
 			public const int cardview_shadow_start_color = 2131558403;
 			
-			// aapt resource value: 0x7f0d004e
-			public const int colorAccent = 2131558478;
+			// aapt resource value: 0x7f0d0059
+			public const int colorAccent = 2131558489;
 			
-			// aapt resource value: 0x7f0d004c
-			public const int colorPrimary = 2131558476;
+			// aapt resource value: 0x7f0d0057
+			public const int colorPrimary = 2131558487;
 			
-			// aapt resource value: 0x7f0d004d
-			public const int colorPrimaryDark = 2131558477;
+			// aapt resource value: 0x7f0d0058
+			public const int colorPrimaryDark = 2131558488;
 			
 			// aapt resource value: 0x7f0d0040
 			public const int design_bottom_navigation_shadow_color = 2131558464;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int design_error = 2131558499;
+			// aapt resource value: 0x7f0d006e
+			public const int design_error = 2131558510;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int design_fab_shadow_end_color = 2131558465;
@@ -5032,8 +5359,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f0d0048
 			public const int design_snackbar_background_color = 2131558472;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int design_tint_password_toggle = 2131558500;
+			// aapt resource value: 0x7f0d006f
+			public const int design_tint_password_toggle = 2131558511;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int dim_foreground_disabled_material_dark = 2131558422;
@@ -5062,8 +5389,41 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f0d001e
 			public const int highlighted_text_material_light = 2131558430;
 			
+			// aapt resource value: 0x7f0d0052
+			public const int judo_black_16 = 2131558482;
+			
+			// aapt resource value: 0x7f0d0053
+			public const int judo_black_38 = 2131558483;
+			
+			// aapt resource value: 0x7f0d0054
+			public const int judo_black_54 = 2131558484;
+			
+			// aapt resource value: 0x7f0d0055
+			public const int judo_black_87 = 2131558485;
+			
+			// aapt resource value: 0x7f0d004f
+			public const int judo_blue = 2131558479;
+			
+			// aapt resource value: 0x7f0d0050
+			public const int judo_dark_blue = 2131558480;
+			
+			// aapt resource value: 0x7f0d004e
+			public const int judo_dark_teal = 2131558478;
+			
 			// aapt resource value: 0x7f0d004b
-			public const int launcher_background = 2131558475;
+			public const int judo_red = 2131558475;
+			
+			// aapt resource value: 0x7f0d004d
+			public const int judo_teal = 2131558477;
+			
+			// aapt resource value: 0x7f0d004c
+			public const int judo_white = 2131558476;
+			
+			// aapt resource value: 0x7f0d0051
+			public const int judo_white_90 = 2131558481;
+			
+			// aapt resource value: 0x7f0d0056
+			public const int launcher_background = 2131558486;
 			
 			// aapt resource value: 0x7f0d001f
 			public const int material_blue_grey_800 = 2131558431;
@@ -5158,11 +5518,11 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f0d003a
 			public const int switch_thumb_disabled_material_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int switch_thumb_material_dark = 2131558501;
+			// aapt resource value: 0x7f0d0070
+			public const int switch_thumb_material_dark = 2131558512;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int switch_thumb_material_light = 2131558502;
+			// aapt resource value: 0x7f0d0071
+			public const int switch_thumb_material_light = 2131558513;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int switch_thumb_normal_material_dark = 2131558459;
@@ -5946,26 +6306,26 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020134
-			public const int avd_hide_password_1 = 2130837812;
+			// aapt resource value: 0x7f02013c
+			public const int avd_hide_password_1 = 2130837820;
 			
-			// aapt resource value: 0x7f020135
-			public const int avd_hide_password_2 = 2130837813;
+			// aapt resource value: 0x7f02013d
+			public const int avd_hide_password_2 = 2130837821;
 			
-			// aapt resource value: 0x7f020136
-			public const int avd_hide_password_3 = 2130837814;
+			// aapt resource value: 0x7f02013e
+			public const int avd_hide_password_3 = 2130837822;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020137
-			public const int avd_show_password_1 = 2130837815;
+			// aapt resource value: 0x7f02013f
+			public const int avd_show_password_1 = 2130837823;
 			
-			// aapt resource value: 0x7f020138
-			public const int avd_show_password_2 = 2130837816;
+			// aapt resource value: 0x7f020140
+			public const int avd_show_password_2 = 2130837824;
 			
-			// aapt resource value: 0x7f020139
-			public const int avd_show_password_3 = 2130837817;
+			// aapt resource value: 0x7f020141
+			public const int avd_show_password_3 = 2130837825;
 			
 			// aapt resource value: 0x7f020055
 			public const int background_landscape = 2130837589;
@@ -5992,649 +6352,673 @@ namespace CFT.Promotions.Android
 			public const int design_snackbar_background = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int ic_audiotrack_dark = 2130837597;
+			public const int ic_app_icon = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_audiotrack_light = 2130837598;
+			public const int ic_audiotrack_dark = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int ic_dialog_close_dark = 2130837599;
+			public const int ic_audiotrack_light = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int ic_dialog_close_light = 2130837600;
+			public const int ic_card_amex = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_group_collapse_00 = 2130837601;
+			public const int ic_card_cidv = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_group_collapse_01 = 2130837602;
+			public const int ic_card_cv2 = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_group_collapse_02 = 2130837603;
+			public const int ic_card_maestro = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int ic_group_collapse_03 = 2130837604;
+			public const int ic_card_mastercard = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int ic_group_collapse_04 = 2130837605;
+			public const int ic_card_unknown = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int ic_group_collapse_05 = 2130837606;
+			public const int ic_card_visa = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int ic_group_collapse_06 = 2130837607;
+			public const int ic_dialog_close_dark = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int ic_group_collapse_07 = 2130837608;
+			public const int ic_dialog_close_light = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int ic_group_collapse_08 = 2130837609;
+			public const int ic_group_collapse_00 = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int ic_group_collapse_09 = 2130837610;
+			public const int ic_group_collapse_01 = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int ic_group_collapse_10 = 2130837611;
+			public const int ic_group_collapse_02 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int ic_group_collapse_11 = 2130837612;
+			public const int ic_group_collapse_03 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int ic_group_collapse_12 = 2130837613;
+			public const int ic_group_collapse_04 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_13 = 2130837614;
+			public const int ic_group_collapse_05 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_14 = 2130837615;
+			public const int ic_group_collapse_06 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_15 = 2130837616;
+			public const int ic_group_collapse_07 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int ic_group_expand_00 = 2130837617;
+			public const int ic_group_collapse_08 = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int ic_group_expand_01 = 2130837618;
+			public const int ic_group_collapse_09 = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int ic_group_expand_02 = 2130837619;
+			public const int ic_group_collapse_10 = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int ic_group_expand_03 = 2130837620;
+			public const int ic_group_collapse_11 = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int ic_group_expand_04 = 2130837621;
+			public const int ic_group_collapse_12 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int ic_group_expand_05 = 2130837622;
+			public const int ic_group_collapse_13 = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int ic_group_expand_06 = 2130837623;
+			public const int ic_group_collapse_14 = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int ic_group_expand_07 = 2130837624;
+			public const int ic_group_collapse_15 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int ic_group_expand_08 = 2130837625;
+			public const int ic_group_expand_00 = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int ic_group_expand_09 = 2130837626;
+			public const int ic_group_expand_01 = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int ic_group_expand_10 = 2130837627;
+			public const int ic_group_expand_02 = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ic_group_expand_11 = 2130837628;
+			public const int ic_group_expand_03 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_group_expand_12 = 2130837629;
+			public const int ic_group_expand_04 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_13 = 2130837630;
+			public const int ic_group_expand_05 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_14 = 2130837631;
+			public const int ic_group_expand_06 = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_15 = 2130837632;
+			public const int ic_group_expand_07 = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int ic_media_pause_dark = 2130837633;
+			public const int ic_group_expand_08 = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ic_media_pause_light = 2130837634;
+			public const int ic_group_expand_09 = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_media_play_dark = 2130837635;
+			public const int ic_group_expand_10 = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_media_play_light = 2130837636;
+			public const int ic_group_expand_11 = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_media_stop_dark = 2130837637;
+			public const int ic_group_expand_12 = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_media_stop_light = 2130837638;
+			public const int ic_group_expand_13 = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int ic_mr_button_connected_00_dark = 2130837639;
+			public const int ic_group_expand_14 = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int ic_mr_button_connected_00_light = 2130837640;
+			public const int ic_group_expand_15 = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int ic_mr_button_connected_01_dark = 2130837641;
+			public const int ic_media_pause_dark = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int ic_mr_button_connected_01_light = 2130837642;
+			public const int ic_media_pause_light = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int ic_mr_button_connected_02_dark = 2130837643;
+			public const int ic_media_play_dark = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int ic_mr_button_connected_02_light = 2130837644;
+			public const int ic_media_play_light = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ic_mr_button_connected_03_dark = 2130837645;
+			public const int ic_media_stop_dark = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int ic_mr_button_connected_03_light = 2130837646;
+			public const int ic_media_stop_light = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int ic_mr_button_connected_04_dark = 2130837647;
+			public const int ic_mr_button_connected_00_dark = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ic_mr_button_connected_04_light = 2130837648;
+			public const int ic_mr_button_connected_00_light = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int ic_mr_button_connected_05_dark = 2130837649;
+			public const int ic_mr_button_connected_01_dark = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int ic_mr_button_connected_05_light = 2130837650;
+			public const int ic_mr_button_connected_01_light = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int ic_mr_button_connected_06_dark = 2130837651;
+			public const int ic_mr_button_connected_02_dark = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_06_light = 2130837652;
+			public const int ic_mr_button_connected_02_light = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_07_dark = 2130837653;
+			public const int ic_mr_button_connected_03_dark = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_07_light = 2130837654;
+			public const int ic_mr_button_connected_03_light = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_08_dark = 2130837655;
+			public const int ic_mr_button_connected_04_dark = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_08_light = 2130837656;
+			public const int ic_mr_button_connected_04_light = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_09_dark = 2130837657;
+			public const int ic_mr_button_connected_05_dark = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_09_light = 2130837658;
+			public const int ic_mr_button_connected_05_light = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_10_dark = 2130837659;
+			public const int ic_mr_button_connected_06_dark = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_10_light = 2130837660;
+			public const int ic_mr_button_connected_06_light = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_11_dark = 2130837661;
+			public const int ic_mr_button_connected_07_dark = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_11_light = 2130837662;
+			public const int ic_mr_button_connected_07_light = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_12_dark = 2130837663;
+			public const int ic_mr_button_connected_08_dark = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_12_light = 2130837664;
+			public const int ic_mr_button_connected_08_light = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_13_dark = 2130837665;
+			public const int ic_mr_button_connected_09_dark = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_13_light = 2130837666;
+			public const int ic_mr_button_connected_09_light = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_14_dark = 2130837667;
+			public const int ic_mr_button_connected_10_dark = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_14_light = 2130837668;
+			public const int ic_mr_button_connected_10_light = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_15_dark = 2130837669;
+			public const int ic_mr_button_connected_11_dark = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_15_light = 2130837670;
+			public const int ic_mr_button_connected_11_light = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_16_dark = 2130837671;
+			public const int ic_mr_button_connected_12_dark = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_16_light = 2130837672;
+			public const int ic_mr_button_connected_12_light = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_17_dark = 2130837673;
+			public const int ic_mr_button_connected_13_dark = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_17_light = 2130837674;
+			public const int ic_mr_button_connected_13_light = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_18_dark = 2130837675;
+			public const int ic_mr_button_connected_14_dark = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_18_light = 2130837676;
+			public const int ic_mr_button_connected_14_light = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_19_dark = 2130837677;
+			public const int ic_mr_button_connected_15_dark = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_19_light = 2130837678;
+			public const int ic_mr_button_connected_15_light = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_20_dark = 2130837679;
+			public const int ic_mr_button_connected_16_dark = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_20_light = 2130837680;
+			public const int ic_mr_button_connected_16_light = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_21_dark = 2130837681;
+			public const int ic_mr_button_connected_17_dark = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_21_light = 2130837682;
+			public const int ic_mr_button_connected_17_light = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_22_dark = 2130837683;
+			public const int ic_mr_button_connected_18_dark = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_22_light = 2130837684;
+			public const int ic_mr_button_connected_18_light = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_23_dark = 2130837685;
+			public const int ic_mr_button_connected_19_dark = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connected_23_light = 2130837686;
+			public const int ic_mr_button_connected_19_light = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connected_24_dark = 2130837687;
+			public const int ic_mr_button_connected_20_dark = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connected_24_light = 2130837688;
+			public const int ic_mr_button_connected_20_light = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connected_25_dark = 2130837689;
+			public const int ic_mr_button_connected_21_dark = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connected_25_light = 2130837690;
+			public const int ic_mr_button_connected_21_light = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connected_26_dark = 2130837691;
+			public const int ic_mr_button_connected_22_dark = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connected_26_light = 2130837692;
+			public const int ic_mr_button_connected_22_light = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connected_27_dark = 2130837693;
+			public const int ic_mr_button_connected_23_dark = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connected_27_light = 2130837694;
+			public const int ic_mr_button_connected_23_light = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connected_28_dark = 2130837695;
+			public const int ic_mr_button_connected_24_dark = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connected_28_light = 2130837696;
+			public const int ic_mr_button_connected_24_light = 2130837696;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connected_29_dark = 2130837697;
+			public const int ic_mr_button_connected_25_dark = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connected_29_light = 2130837698;
+			public const int ic_mr_button_connected_25_light = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connected_30_dark = 2130837699;
+			public const int ic_mr_button_connected_26_dark = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connected_30_light = 2130837700;
+			public const int ic_mr_button_connected_26_light = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connecting_00_dark = 2130837701;
+			public const int ic_mr_button_connected_27_dark = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connecting_00_light = 2130837702;
+			public const int ic_mr_button_connected_27_light = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connecting_01_dark = 2130837703;
+			public const int ic_mr_button_connected_28_dark = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connecting_01_light = 2130837704;
+			public const int ic_mr_button_connected_28_light = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connecting_02_dark = 2130837705;
+			public const int ic_mr_button_connected_29_dark = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connecting_02_light = 2130837706;
+			public const int ic_mr_button_connected_29_light = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connecting_03_dark = 2130837707;
+			public const int ic_mr_button_connected_30_dark = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connecting_03_light = 2130837708;
+			public const int ic_mr_button_connected_30_light = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connecting_04_dark = 2130837709;
+			public const int ic_mr_button_connecting_00_dark = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connecting_04_light = 2130837710;
+			public const int ic_mr_button_connecting_00_light = 2130837710;
 			
 			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connecting_05_dark = 2130837711;
+			public const int ic_mr_button_connecting_01_dark = 2130837711;
 			
 			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connecting_05_light = 2130837712;
+			public const int ic_mr_button_connecting_01_light = 2130837712;
 			
 			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connecting_06_dark = 2130837713;
+			public const int ic_mr_button_connecting_02_dark = 2130837713;
 			
 			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_06_light = 2130837714;
+			public const int ic_mr_button_connecting_02_light = 2130837714;
 			
 			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_07_dark = 2130837715;
+			public const int ic_mr_button_connecting_03_dark = 2130837715;
 			
 			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_07_light = 2130837716;
+			public const int ic_mr_button_connecting_03_light = 2130837716;
 			
 			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_08_dark = 2130837717;
+			public const int ic_mr_button_connecting_04_dark = 2130837717;
 			
 			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_08_light = 2130837718;
+			public const int ic_mr_button_connecting_04_light = 2130837718;
 			
 			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_09_dark = 2130837719;
+			public const int ic_mr_button_connecting_05_dark = 2130837719;
 			
 			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_09_light = 2130837720;
+			public const int ic_mr_button_connecting_05_light = 2130837720;
 			
 			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_10_dark = 2130837721;
+			public const int ic_mr_button_connecting_06_dark = 2130837721;
 			
 			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_10_light = 2130837722;
+			public const int ic_mr_button_connecting_06_light = 2130837722;
 			
 			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_11_dark = 2130837723;
+			public const int ic_mr_button_connecting_07_dark = 2130837723;
 			
 			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_11_light = 2130837724;
+			public const int ic_mr_button_connecting_07_light = 2130837724;
 			
 			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_12_dark = 2130837725;
+			public const int ic_mr_button_connecting_08_dark = 2130837725;
 			
 			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_12_light = 2130837726;
+			public const int ic_mr_button_connecting_08_light = 2130837726;
 			
 			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_13_dark = 2130837727;
+			public const int ic_mr_button_connecting_09_dark = 2130837727;
 			
 			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_13_light = 2130837728;
+			public const int ic_mr_button_connecting_09_light = 2130837728;
 			
 			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_14_dark = 2130837729;
+			public const int ic_mr_button_connecting_10_dark = 2130837729;
 			
 			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_14_light = 2130837730;
+			public const int ic_mr_button_connecting_10_light = 2130837730;
 			
 			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_15_dark = 2130837731;
+			public const int ic_mr_button_connecting_11_dark = 2130837731;
 			
 			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_connecting_15_light = 2130837732;
+			public const int ic_mr_button_connecting_11_light = 2130837732;
 			
 			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_connecting_16_dark = 2130837733;
+			public const int ic_mr_button_connecting_12_dark = 2130837733;
 			
 			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_connecting_16_light = 2130837734;
+			public const int ic_mr_button_connecting_12_light = 2130837734;
 			
 			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_connecting_17_dark = 2130837735;
+			public const int ic_mr_button_connecting_13_dark = 2130837735;
 			
 			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_connecting_17_light = 2130837736;
+			public const int ic_mr_button_connecting_13_light = 2130837736;
 			
 			// aapt resource value: 0x7f0200e9
-			public const int ic_mr_button_connecting_18_dark = 2130837737;
+			public const int ic_mr_button_connecting_14_dark = 2130837737;
 			
 			// aapt resource value: 0x7f0200ea
-			public const int ic_mr_button_connecting_18_light = 2130837738;
+			public const int ic_mr_button_connecting_14_light = 2130837738;
 			
 			// aapt resource value: 0x7f0200eb
-			public const int ic_mr_button_connecting_19_dark = 2130837739;
+			public const int ic_mr_button_connecting_15_dark = 2130837739;
 			
 			// aapt resource value: 0x7f0200ec
-			public const int ic_mr_button_connecting_19_light = 2130837740;
+			public const int ic_mr_button_connecting_15_light = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int ic_mr_button_connecting_20_dark = 2130837741;
+			public const int ic_mr_button_connecting_16_dark = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int ic_mr_button_connecting_20_light = 2130837742;
+			public const int ic_mr_button_connecting_16_light = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int ic_mr_button_connecting_21_dark = 2130837743;
+			public const int ic_mr_button_connecting_17_dark = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int ic_mr_button_connecting_21_light = 2130837744;
+			public const int ic_mr_button_connecting_17_light = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int ic_mr_button_connecting_22_dark = 2130837745;
+			public const int ic_mr_button_connecting_18_dark = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int ic_mr_button_connecting_22_light = 2130837746;
+			public const int ic_mr_button_connecting_18_light = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int ic_mr_button_connecting_23_dark = 2130837747;
+			public const int ic_mr_button_connecting_19_dark = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int ic_mr_button_connecting_23_light = 2130837748;
+			public const int ic_mr_button_connecting_19_light = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int ic_mr_button_connecting_24_dark = 2130837749;
+			public const int ic_mr_button_connecting_20_dark = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int ic_mr_button_connecting_24_light = 2130837750;
+			public const int ic_mr_button_connecting_20_light = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int ic_mr_button_connecting_25_dark = 2130837751;
+			public const int ic_mr_button_connecting_21_dark = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int ic_mr_button_connecting_25_light = 2130837752;
+			public const int ic_mr_button_connecting_21_light = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int ic_mr_button_connecting_26_dark = 2130837753;
+			public const int ic_mr_button_connecting_22_dark = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int ic_mr_button_connecting_26_light = 2130837754;
+			public const int ic_mr_button_connecting_22_light = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int ic_mr_button_connecting_27_dark = 2130837755;
+			public const int ic_mr_button_connecting_23_dark = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int ic_mr_button_connecting_27_light = 2130837756;
+			public const int ic_mr_button_connecting_23_light = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int ic_mr_button_connecting_28_dark = 2130837757;
+			public const int ic_mr_button_connecting_24_dark = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int ic_mr_button_connecting_28_light = 2130837758;
+			public const int ic_mr_button_connecting_24_light = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int ic_mr_button_connecting_29_dark = 2130837759;
+			public const int ic_mr_button_connecting_25_dark = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int ic_mr_button_connecting_29_light = 2130837760;
+			public const int ic_mr_button_connecting_25_light = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int ic_mr_button_connecting_30_dark = 2130837761;
+			public const int ic_mr_button_connecting_26_dark = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int ic_mr_button_connecting_30_light = 2130837762;
+			public const int ic_mr_button_connecting_26_light = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int ic_mr_button_disabled_dark = 2130837763;
+			public const int ic_mr_button_connecting_27_dark = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int ic_mr_button_disabled_light = 2130837764;
+			public const int ic_mr_button_connecting_27_light = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int ic_mr_button_disconnected_dark = 2130837765;
+			public const int ic_mr_button_connecting_28_dark = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int ic_mr_button_disconnected_light = 2130837766;
+			public const int ic_mr_button_connecting_28_light = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int ic_mr_button_grey = 2130837767;
+			public const int ic_mr_button_connecting_29_dark = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int ic_vol_type_speaker_dark = 2130837768;
+			public const int ic_mr_button_connecting_29_light = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int ic_vol_type_speaker_group_dark = 2130837769;
+			public const int ic_mr_button_connecting_30_dark = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int ic_vol_type_speaker_group_light = 2130837770;
+			public const int ic_mr_button_connecting_30_light = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
-			public const int ic_vol_type_speaker_light = 2130837771;
+			public const int ic_mr_button_disabled_dark = 2130837771;
 			
 			// aapt resource value: 0x7f02010c
-			public const int ic_vol_type_tv_dark = 2130837772;
+			public const int ic_mr_button_disabled_light = 2130837772;
 			
 			// aapt resource value: 0x7f02010d
-			public const int ic_vol_type_tv_light = 2130837773;
+			public const int ic_mr_button_disconnected_dark = 2130837773;
 			
 			// aapt resource value: 0x7f02010e
-			public const int logo = 2130837774;
+			public const int ic_mr_button_disconnected_light = 2130837774;
 			
 			// aapt resource value: 0x7f02010f
-			public const int mr_button_connected_dark = 2130837775;
+			public const int ic_mr_button_grey = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int mr_button_connected_light = 2130837776;
+			public const int ic_vol_type_speaker_dark = 2130837776;
 			
 			// aapt resource value: 0x7f020111
-			public const int mr_button_connecting_dark = 2130837777;
+			public const int ic_vol_type_speaker_group_dark = 2130837777;
 			
 			// aapt resource value: 0x7f020112
-			public const int mr_button_connecting_light = 2130837778;
+			public const int ic_vol_type_speaker_group_light = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int mr_button_dark = 2130837779;
+			public const int ic_vol_type_speaker_light = 2130837779;
 			
 			// aapt resource value: 0x7f020114
-			public const int mr_button_light = 2130837780;
+			public const int ic_vol_type_tv_dark = 2130837780;
 			
 			// aapt resource value: 0x7f020115
-			public const int mr_dialog_close_dark = 2130837781;
+			public const int ic_vol_type_tv_light = 2130837781;
 			
 			// aapt resource value: 0x7f020116
-			public const int mr_dialog_close_light = 2130837782;
+			public const int logo = 2130837782;
 			
 			// aapt resource value: 0x7f020117
-			public const int mr_dialog_material_background_dark = 2130837783;
+			public const int mr_button_connected_dark = 2130837783;
 			
 			// aapt resource value: 0x7f020118
-			public const int mr_dialog_material_background_light = 2130837784;
+			public const int mr_button_connected_light = 2130837784;
 			
 			// aapt resource value: 0x7f020119
-			public const int mr_group_collapse = 2130837785;
+			public const int mr_button_connecting_dark = 2130837785;
 			
 			// aapt resource value: 0x7f02011a
-			public const int mr_group_expand = 2130837786;
+			public const int mr_button_connecting_light = 2130837786;
 			
 			// aapt resource value: 0x7f02011b
-			public const int mr_media_pause_dark = 2130837787;
+			public const int mr_button_dark = 2130837787;
 			
 			// aapt resource value: 0x7f02011c
-			public const int mr_media_pause_light = 2130837788;
+			public const int mr_button_light = 2130837788;
 			
 			// aapt resource value: 0x7f02011d
-			public const int mr_media_play_dark = 2130837789;
+			public const int mr_dialog_close_dark = 2130837789;
 			
 			// aapt resource value: 0x7f02011e
-			public const int mr_media_play_light = 2130837790;
+			public const int mr_dialog_close_light = 2130837790;
 			
 			// aapt resource value: 0x7f02011f
-			public const int mr_media_stop_dark = 2130837791;
+			public const int mr_dialog_material_background_dark = 2130837791;
 			
 			// aapt resource value: 0x7f020120
-			public const int mr_media_stop_light = 2130837792;
+			public const int mr_dialog_material_background_light = 2130837792;
 			
 			// aapt resource value: 0x7f020121
-			public const int mr_vol_type_audiotrack_dark = 2130837793;
+			public const int mr_group_collapse = 2130837793;
 			
 			// aapt resource value: 0x7f020122
-			public const int mr_vol_type_audiotrack_light = 2130837794;
+			public const int mr_group_expand = 2130837794;
 			
 			// aapt resource value: 0x7f020123
-			public const int navigation_empty_icon = 2130837795;
+			public const int mr_media_pause_dark = 2130837795;
 			
 			// aapt resource value: 0x7f020124
-			public const int notification_action_background = 2130837796;
+			public const int mr_media_pause_light = 2130837796;
 			
 			// aapt resource value: 0x7f020125
-			public const int notification_bg = 2130837797;
+			public const int mr_media_play_dark = 2130837797;
 			
 			// aapt resource value: 0x7f020126
-			public const int notification_bg_low = 2130837798;
+			public const int mr_media_play_light = 2130837798;
 			
 			// aapt resource value: 0x7f020127
-			public const int notification_bg_low_normal = 2130837799;
+			public const int mr_media_stop_dark = 2130837799;
 			
 			// aapt resource value: 0x7f020128
-			public const int notification_bg_low_pressed = 2130837800;
+			public const int mr_media_stop_light = 2130837800;
 			
 			// aapt resource value: 0x7f020129
-			public const int notification_bg_normal = 2130837801;
+			public const int mr_vol_type_audiotrack_dark = 2130837801;
 			
 			// aapt resource value: 0x7f02012a
-			public const int notification_bg_normal_pressed = 2130837802;
+			public const int mr_vol_type_audiotrack_light = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int notification_icon_background = 2130837803;
-			
-			// aapt resource value: 0x7f020132
-			public const int notification_template_icon_bg = 2130837810;
-			
-			// aapt resource value: 0x7f020133
-			public const int notification_template_icon_low_bg = 2130837811;
+			public const int navigation_empty_icon = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int notification_tile_bg = 2130837804;
+			public const int notification_action_background = 2130837804;
 			
 			// aapt resource value: 0x7f02012d
-			public const int notify_panel_notification_icon_bg = 2130837805;
+			public const int notification_bg = 2130837805;
 			
 			// aapt resource value: 0x7f02012e
-			public const int splash = 2130837806;
+			public const int notification_bg_low = 2130837806;
 			
 			// aapt resource value: 0x7f02012f
-			public const int tooltip_frame_dark = 2130837807;
+			public const int notification_bg_low_normal = 2130837807;
 			
 			// aapt resource value: 0x7f020130
-			public const int tooltip_frame_light = 2130837808;
+			public const int notification_bg_low_pressed = 2130837808;
 			
 			// aapt resource value: 0x7f020131
-			public const int xamarin_logo = 2130837809;
+			public const int notification_bg_normal = 2130837809;
+			
+			// aapt resource value: 0x7f020132
+			public const int notification_bg_normal_pressed = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int notification_icon_background = 2130837811;
+			
+			// aapt resource value: 0x7f02013a
+			public const int notification_template_icon_bg = 2130837818;
+			
+			// aapt resource value: 0x7f02013b
+			public const int notification_template_icon_low_bg = 2130837819;
+			
+			// aapt resource value: 0x7f020134
+			public const int notification_tile_bg = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int notify_panel_notification_icon_bg = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int splash = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int tooltip_frame_dark = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int tooltip_frame_light = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int xamarin_logo = 2130837817;
 			
 			static Drawable()
 			{
@@ -6667,8 +7051,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090037
 			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int action0 = 2131296438;
+			// aapt resource value: 0x7f0900b8
+			public const int action0 = 2131296440;
 			
 			// aapt resource value: 0x7f09007c
 			public const int action_bar = 2131296380;
@@ -6691,17 +7075,17 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09005a
 			public const int action_bar_title = 2131296346;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int action_container = 2131296435;
+			// aapt resource value: 0x7f0900b5
+			public const int action_container = 2131296437;
 			
 			// aapt resource value: 0x7f09007d
 			public const int action_context_bar = 2131296381;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int action_divider = 2131296442;
+			// aapt resource value: 0x7f0900bc
+			public const int action_divider = 2131296444;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int action_image = 2131296436;
+			// aapt resource value: 0x7f0900b6
+			public const int action_image = 2131296438;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -6718,11 +7102,11 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09005c
 			public const int action_mode_close_button = 2131296348;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int action_text = 2131296437;
+			// aapt resource value: 0x7f0900b7
+			public const int action_text = 2131296439;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int actions = 2131296451;
+			// aapt resource value: 0x7f0900c5
+			public const int actions = 2131296453;
 			
 			// aapt resource value: 0x7f09005d
 			public const int activity_chooser_view_content = 2131296349;
@@ -6757,8 +7141,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090063
 			public const int buttonPanel = 2131296355;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int cancel_action = 2131296439;
+			// aapt resource value: 0x7f0900b9
+			public const int cancel_action = 2131296441;
 			
 			// aapt resource value: 0x7f090045
 			public const int center = 2131296325;
@@ -6772,8 +7156,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090073
 			public const int checkbox = 2131296371;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int chronometer = 2131296447;
+			// aapt resource value: 0x7f0900c1
+			public const int chronometer = 2131296449;
 			
 			// aapt resource value: 0x7f09004e
 			public const int clip_horizontal = 2131296334;
@@ -6784,14 +7168,14 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090039
 			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f09008d
-			public const int container = 2131296397;
+			// aapt resource value: 0x7f09008b
+			public const int container = 2131296395;
 			
 			// aapt resource value: 0x7f090066
 			public const int contentPanel = 2131296358;
 			
-			// aapt resource value: 0x7f09008e
-			public const int coordinator = 2131296398;
+			// aapt resource value: 0x7f090090
+			public const int coordinator = 2131296400;
 			
 			// aapt resource value: 0x7f09006d
 			public const int custom = 2131296365;
@@ -6805,20 +7189,20 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090060
 			public const int default_activity_button = 2131296352;
 			
-			// aapt resource value: 0x7f090090
-			public const int design_bottom_sheet = 2131296400;
+			// aapt resource value: 0x7f090092
+			public const int design_bottom_sheet = 2131296402;
+			
+			// aapt resource value: 0x7f090099
+			public const int design_menu_item_action_area = 2131296409;
+			
+			// aapt resource value: 0x7f090098
+			public const int design_menu_item_action_area_stub = 2131296408;
 			
 			// aapt resource value: 0x7f090097
-			public const int design_menu_item_action_area = 2131296407;
+			public const int design_menu_item_text = 2131296407;
 			
 			// aapt resource value: 0x7f090096
-			public const int design_menu_item_action_area_stub = 2131296406;
-			
-			// aapt resource value: 0x7f090095
-			public const int design_menu_item_text = 2131296405;
-			
-			// aapt resource value: 0x7f090094
-			public const int design_navigation_view = 2131296404;
+			public const int design_navigation_view = 2131296406;
 			
 			// aapt resource value: 0x7f090020
 			public const int disableHome = 2131296288;
@@ -6829,8 +7213,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090030
 			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int end_padder = 2131296453;
+			// aapt resource value: 0x7f0900c7
+			public const int end_padder = 2131296455;
 			
 			// aapt resource value: 0x7f09003f
 			public const int enterAlways = 2131296319;
@@ -6874,8 +7258,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090062
 			public const int icon = 2131296354;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int icon_group = 2131296452;
+			// aapt resource value: 0x7f0900c6
+			public const int icon_group = 2131296454;
 			
 			// aapt resource value: 0x7f09003a
 			public const int ifRoom = 2131296314;
@@ -6883,8 +7267,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09005f
 			public const int image = 2131296351;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int info = 2131296448;
+			// aapt resource value: 0x7f0900c2
+			public const int info = 2131296450;
 			
 			// aapt resource value: 0x7f090059
 			public const int italic = 2131296345;
@@ -6892,8 +7276,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f09008c
-			public const int largeLabel = 2131296396;
+			// aapt resource value: 0x7f09008f
+			public const int largeLabel = 2131296399;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;
@@ -6910,14 +7294,14 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090061
 			public const int list_item = 2131296353;
 			
+			// aapt resource value: 0x7f0900cc
+			public const int masked = 2131296460;
+			
+			// aapt resource value: 0x7f0900bb
+			public const int media_actions = 2131296443;
+			
 			// aapt resource value: 0x7f0900ca
-			public const int masked = 2131296458;
-			
-			// aapt resource value: 0x7f0900b9
-			public const int media_actions = 2131296441;
-			
-			// aapt resource value: 0x7f0900c8
-			public const int message = 2131296456;
+			public const int message = 2131296458;
 			
 			// aapt resource value: 0x7f090031
 			public const int middle = 2131296305;
@@ -6925,86 +7309,86 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090053
 			public const int mini = 2131296339;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int mr_art = 2131296421;
-			
-			// aapt resource value: 0x7f09009a
-			public const int mr_chooser_list = 2131296410;
-			
-			// aapt resource value: 0x7f09009d
-			public const int mr_chooser_route_desc = 2131296413;
-			
-			// aapt resource value: 0x7f09009b
-			public const int mr_chooser_route_icon = 2131296411;
+			// aapt resource value: 0x7f0900a7
+			public const int mr_art = 2131296423;
 			
 			// aapt resource value: 0x7f09009c
-			public const int mr_chooser_route_name = 2131296412;
-			
-			// aapt resource value: 0x7f090099
-			public const int mr_chooser_title = 2131296409;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int mr_close = 2131296418;
-			
-			// aapt resource value: 0x7f0900a8
-			public const int mr_control_divider = 2131296424;
-			
-			// aapt resource value: 0x7f0900ae
-			public const int mr_control_playback_ctrl = 2131296430;
-			
-			// aapt resource value: 0x7f0900b1
-			public const int mr_control_subtitle = 2131296433;
-			
-			// aapt resource value: 0x7f0900b0
-			public const int mr_control_title = 2131296432;
-			
-			// aapt resource value: 0x7f0900af
-			public const int mr_control_title_container = 2131296431;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int mr_custom_control = 2131296419;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int mr_default_control = 2131296420;
+			public const int mr_chooser_list = 2131296412;
 			
 			// aapt resource value: 0x7f09009f
-			public const int mr_dialog_area = 2131296415;
+			public const int mr_chooser_route_desc = 2131296415;
+			
+			// aapt resource value: 0x7f09009d
+			public const int mr_chooser_route_icon = 2131296413;
 			
 			// aapt resource value: 0x7f09009e
-			public const int mr_expandable_area = 2131296414;
+			public const int mr_chooser_route_name = 2131296414;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int mr_group_expand_collapse = 2131296434;
+			// aapt resource value: 0x7f09009b
+			public const int mr_chooser_title = 2131296411;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int mr_media_main_control = 2131296422;
-			
-			// aapt resource value: 0x7f0900a1
-			public const int mr_name = 2131296417;
-			
-			// aapt resource value: 0x7f0900a7
-			public const int mr_playback_control = 2131296423;
-			
-			// aapt resource value: 0x7f0900a0
-			public const int mr_title_bar = 2131296416;
-			
-			// aapt resource value: 0x7f0900a9
-			public const int mr_volume_control = 2131296425;
+			// aapt resource value: 0x7f0900a4
+			public const int mr_close = 2131296420;
 			
 			// aapt resource value: 0x7f0900aa
-			public const int mr_volume_group_list = 2131296426;
+			public const int mr_control_divider = 2131296426;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int mr_control_playback_ctrl = 2131296432;
+			
+			// aapt resource value: 0x7f0900b3
+			public const int mr_control_subtitle = 2131296435;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int mr_control_title = 2131296434;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int mr_control_title_container = 2131296433;
+			
+			// aapt resource value: 0x7f0900a5
+			public const int mr_custom_control = 2131296421;
+			
+			// aapt resource value: 0x7f0900a6
+			public const int mr_default_control = 2131296422;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int mr_dialog_area = 2131296417;
+			
+			// aapt resource value: 0x7f0900a0
+			public const int mr_expandable_area = 2131296416;
+			
+			// aapt resource value: 0x7f0900b4
+			public const int mr_group_expand_collapse = 2131296436;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int mr_media_main_control = 2131296424;
+			
+			// aapt resource value: 0x7f0900a3
+			public const int mr_name = 2131296419;
+			
+			// aapt resource value: 0x7f0900a9
+			public const int mr_playback_control = 2131296425;
+			
+			// aapt resource value: 0x7f0900a2
+			public const int mr_title_bar = 2131296418;
+			
+			// aapt resource value: 0x7f0900ab
+			public const int mr_volume_control = 2131296427;
 			
 			// aapt resource value: 0x7f0900ac
-			public const int mr_volume_item_icon = 2131296428;
+			public const int mr_volume_group_list = 2131296428;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int mr_volume_slider = 2131296429;
+			// aapt resource value: 0x7f0900ae
+			public const int mr_volume_item_icon = 2131296430;
+			
+			// aapt resource value: 0x7f0900af
+			public const int mr_volume_slider = 2131296431;
 			
 			// aapt resource value: 0x7f090028
 			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f090093
-			public const int navigation_header_container = 2131296403;
+			// aapt resource value: 0x7f090095
+			public const int navigation_header_container = 2131296405;
 			
 			// aapt resource value: 0x7f09003b
 			public const int never = 2131296315;
@@ -7015,14 +7399,14 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09001e
 			public const int normal = 2131296286;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int notification_background = 2131296450;
+			// aapt resource value: 0x7f0900c4
+			public const int notification_background = 2131296452;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int notification_main_column = 2131296444;
+			// aapt resource value: 0x7f0900be
+			public const int notification_main_column = 2131296446;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int notification_main_column_container = 2131296443;
+			// aapt resource value: 0x7f0900bd
+			public const int notification_main_column_container = 2131296445;
 			
 			// aapt resource value: 0x7f09004c
 			public const int parallax = 2131296332;
@@ -7042,17 +7426,23 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
+			// aapt resource value: 0x7f09008c
+			public const int progress_overlay = 2131296396;
+			
+			// aapt resource value: 0x7f09008d
+			public const int progress_text = 2131296397;
+			
 			// aapt resource value: 0x7f090075
 			public const int radio = 2131296373;
 			
 			// aapt resource value: 0x7f09004a
 			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int right_icon = 2131296449;
+			// aapt resource value: 0x7f0900c3
+			public const int right_icon = 2131296451;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int right_side = 2131296445;
+			// aapt resource value: 0x7f0900bf
+			public const int right_side = 2131296447;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -7126,17 +7516,17 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090025
 			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int sliding_tabs = 2131296454;
+			// aapt resource value: 0x7f0900c8
+			public const int sliding_tabs = 2131296456;
 			
-			// aapt resource value: 0x7f09008b
-			public const int smallLabel = 2131296395;
+			// aapt resource value: 0x7f09008e
+			public const int smallLabel = 2131296398;
 			
-			// aapt resource value: 0x7f090092
-			public const int snackbar_action = 2131296402;
+			// aapt resource value: 0x7f090094
+			public const int snackbar_action = 2131296404;
 			
-			// aapt resource value: 0x7f090091
-			public const int snackbar_text = 2131296401;
+			// aapt resource value: 0x7f090093
+			public const int snackbar_text = 2131296403;
 			
 			// aapt resource value: 0x7f090043
 			public const int snap = 2131296323;
@@ -7159,8 +7549,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09004b
 			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int status_bar_latest_event_content = 2131296440;
+			// aapt resource value: 0x7f0900ba
+			public const int status_bar_latest_event_content = 2131296442;
 			
 			// aapt resource value: 0x7f090076
 			public const int submenuarrow = 2131296374;
@@ -7186,8 +7576,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090069
 			public const int textSpacerNoTitle = 2131296361;
 			
-			// aapt resource value: 0x7f090098
-			public const int text_input_password_toggle = 2131296408;
+			// aapt resource value: 0x7f09009a
+			public const int text_input_password_toggle = 2131296410;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -7195,8 +7585,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900be
-			public const int time = 2131296446;
+			// aapt resource value: 0x7f0900c0
+			public const int time = 2131296448;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
@@ -7207,8 +7597,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09006f
 			public const int title_template = 2131296367;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int toolbar = 2131296455;
+			// aapt resource value: 0x7f0900c9
+			public const int toolbar = 2131296457;
 			
 			// aapt resource value: 0x7f09003e
 			public const int top = 2131296318;
@@ -7216,8 +7606,8 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f09006e
 			public const int topPanel = 2131296366;
 			
-			// aapt resource value: 0x7f09008f
-			public const int touch_outside = 2131296399;
+			// aapt resource value: 0x7f090091
+			public const int touch_outside = 2131296401;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -7246,11 +7636,11 @@ namespace CFT.Promotions.Android
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int visible = 2131296457;
+			// aapt resource value: 0x7f0900cb
+			public const int visible = 2131296459;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int volume_item_container = 2131296427;
+			// aapt resource value: 0x7f0900ad
+			public const int volume_item_container = 2131296429;
 			
 			// aapt resource value: 0x7f09003c
 			public const int withText = 2131296316;
@@ -7421,130 +7811,136 @@ namespace CFT.Promotions.Android
 			public const int abc_select_dialog_material = 2130968601;
 			
 			// aapt resource value: 0x7f04001a
-			public const int design_bottom_navigation_item = 2130968602;
+			public const int AndroidPay = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
-			public const int design_bottom_sheet_dialog = 2130968603;
+			public const int design_bottom_navigation_item = 2130968603;
 			
 			// aapt resource value: 0x7f04001c
-			public const int design_layout_snackbar = 2130968604;
+			public const int design_bottom_sheet_dialog = 2130968604;
 			
 			// aapt resource value: 0x7f04001d
-			public const int design_layout_snackbar_include = 2130968605;
+			public const int design_layout_snackbar = 2130968605;
 			
 			// aapt resource value: 0x7f04001e
-			public const int design_layout_tab_icon = 2130968606;
+			public const int design_layout_snackbar_include = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_layout_tab_text = 2130968607;
+			public const int design_layout_tab_icon = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_menu_item_action_area = 2130968608;
+			public const int design_layout_tab_text = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_navigation_item = 2130968609;
+			public const int design_menu_item_action_area = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_navigation_item_header = 2130968610;
+			public const int design_navigation_item = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_navigation_item_separator = 2130968611;
+			public const int design_navigation_item_header = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_navigation_item_subheader = 2130968612;
+			public const int design_navigation_item_separator = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int design_navigation_menu = 2130968613;
+			public const int design_navigation_item_subheader = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int design_navigation_menu_item = 2130968614;
+			public const int design_navigation_menu = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int design_text_input_password_icon = 2130968615;
+			public const int design_navigation_menu_item = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int mr_chooser_dialog = 2130968616;
+			public const int design_text_input_password_icon = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int mr_chooser_list_item = 2130968617;
+			public const int DropdownItem = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int mr_controller_material_dialog_b = 2130968618;
+			public const int mr_chooser_dialog = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int mr_controller_volume_item = 2130968619;
+			public const int mr_chooser_list_item = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int mr_playback_control = 2130968620;
+			public const int mr_controller_material_dialog_b = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int mr_volume_control = 2130968621;
+			public const int mr_controller_volume_item = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_action = 2130968622;
+			public const int mr_playback_control = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_action_tombstone = 2130968623;
+			public const int mr_volume_control = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_media_action = 2130968624;
+			public const int notification_action = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_media_cancel_action = 2130968625;
+			public const int notification_action_tombstone = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_big_media = 2130968626;
+			public const int notification_media_action = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_big_media_custom = 2130968627;
+			public const int notification_media_cancel_action = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_big_media_narrow = 2130968628;
+			public const int notification_template_big_media = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_big_media_narrow_custom = 2130968629;
+			public const int notification_template_big_media_custom = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_custom_big = 2130968630;
+			public const int notification_template_big_media_narrow = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_icon_group = 2130968631;
+			public const int notification_template_big_media_narrow_custom = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_lines_media = 2130968632;
+			public const int notification_template_custom_big = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int notification_template_media = 2130968633;
+			public const int notification_template_icon_group = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int notification_template_media_custom = 2130968634;
+			public const int notification_template_lines_media = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int notification_template_part_chronometer = 2130968635;
+			public const int notification_template_media = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int notification_template_part_time = 2130968636;
+			public const int notification_template_media_custom = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int select_dialog_item_material = 2130968637;
+			public const int notification_template_part_chronometer = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int select_dialog_multichoice_material = 2130968638;
+			public const int notification_template_part_time = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int select_dialog_singlechoice_material = 2130968639;
+			public const int select_dialog_item_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int support_simple_spinner_dropdown_item = 2130968640;
+			public const int select_dialog_multichoice_material = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int Tabbar = 2130968641;
+			public const int select_dialog_singlechoice_material = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int Toolbar = 2130968642;
+			public const int support_simple_spinner_dropdown_item = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int tooltip = 2130968643;
+			public const int Tabbar = 2130968643;
+			
+			// aapt resource value: 0x7f040044
+			public const int Toolbar = 2130968644;
+			
+			// aapt resource value: 0x7f040045
+			public const int tooltip = 2130968645;
 			
 			static Layout()
 			{
@@ -8306,13 +8702,19 @@ namespace CFT.Promotions.Android
 			public const int CardView_Light = 2131492878;
 			
 			// aapt resource value: 0x7f0c018f
-			public const int MainTheme = 2131493263;
+			public const int JudoTheme = 2131493263;
 			
 			// aapt resource value: 0x7f0c0190
-			public const int MainTheme_Base = 2131493264;
+			public const int JudoTheme_ActionBar = 2131493264;
 			
 			// aapt resource value: 0x7f0c0192
-			public const int MainTheme_Splash = 2131493266;
+			public const int MainTheme = 2131493266;
+			
+			// aapt resource value: 0x7f0c0193
+			public const int MainTheme_Base = 2131493267;
+			
+			// aapt resource value: 0x7f0c0194
+			public const int MainTheme_Splash = 2131493268;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int Platform_AppCompat = 2131492909;

@@ -12,6 +12,7 @@ namespace CFT.Promotions.Core.Utility
             var builder = new ContainerBuilder();
             builder.RegisterModule<CoreModule>();
             Container = builder.Build();
+            Container.Resolve<INavigationService>().InitializeAsync();
         }
     }
 }

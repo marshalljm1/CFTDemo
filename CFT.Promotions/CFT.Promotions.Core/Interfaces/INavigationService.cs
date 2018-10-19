@@ -13,5 +13,6 @@ namespace CFT.Promotions.Core.Interfaces
         Task NavigateToAsync(Type type);
         Task RemoveLastFromBackStackAsync();
         Task RemoveBackStackAsync();
+        Task NavigateBack();
     }
 }

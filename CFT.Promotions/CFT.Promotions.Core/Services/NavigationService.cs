@@ -4,6 +4,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Autofac;
 using CFT.Promotions.Core.Interfaces;
+using CFT.Promotions.Core.Models;
 using CFT.Promotions.Core.ViewModels;
 using CFT.Promotions.Core.Views;
 using CFT.Promotions.Core.Utility;
@@ -21,11 +22,16 @@ namespace CFT.Promotions.Core.Services
         //Public methods
         public Task InitializeAsync()
         {
-#if DEBUG
+#if !DEBUG
             return string.IsNullOrEmpty(Settings.AuthAccessToken) ? NavigateToAsync<LoginViewModel>() : NavigateToAsync<MainViewModel>();
 #else
             return NavigateToAsync<SignUpViewModel>();
 #endif
+        }
+
+        public Task NavigateBack()
+        {
+            return InternalNavigateBack();
         }
 
         public Task NavigateToAsync<TViewModel>() where TViewModel : ViewModelBase
@@ -55,6 +61,15 @@ namespace CFT.Promotions.Core.Services
 
 
         //Private methods
+        private async Task InternalNavigateBack()
+        {
+            if (App.MasterDetailPage.Detail is CustomNavigationView navigationPage)
+            {
+                await navigationPage.PopAsync();
+            }
+        }
+
+
         private async Task InternalNavigateToAsync(Type viewModelType, object parameter)
         {
             var page = CreatePage(viewModelType, parameter);
@@ -123,7 +138,14 @@ namespace CFT.Promotions.Core.Services
 
         private Page ResolvePage(Type type)
         {
-            return BootStrapper.Container.Resolve(type) as Page;
+            try
+            {
+                return BootStrapper.Container.Resolve(type) as Page;
+            }
+            catch(Exception ex)
+            {
+                return new Page();
+            }
         }
 
 

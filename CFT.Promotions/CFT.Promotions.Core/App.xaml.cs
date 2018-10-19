@@ -20,7 +20,7 @@ namespace CFT.Promotions.Core
 
             BootStrapper.Run();
 
-            MainPage = BootStrapper.Container.Resolve<SignUpView>();
+            //MainPage = BootStrapper.Container.Resolve<SignUpView>();
         }
 
         protected override void OnStart()

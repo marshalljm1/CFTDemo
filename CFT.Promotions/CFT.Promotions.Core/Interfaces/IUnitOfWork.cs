@@ -11,5 +11,6 @@ namespace CFT.Promotions.Core.Interfaces
         IDataStore<TripTypes> TripTypes { get; }
         IDataStore<TripManifests> Manifests { get; }
         IDataStore<Messages> Messages { get; }
+        IDataStore<CctransInfo> CCTransInfo { get; }
     }
 }

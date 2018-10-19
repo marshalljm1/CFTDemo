@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviors="clr-namespace:CFT.Promotions.Core.Behaviors;assembly=CFT.Promotions.Core"
+             xmlns:fastEntry="clr-namespace:XamarinFastEntrySample.FastEntry;assembly=XamarinFastEntry.Behaviors"
+             xmlns:converters="clr-namespace:CFT.Promotions.Core.Converters;assembly=CFT.Promotions.Core"
+             x:Class="CFT.Promotions.Core.Views.CreditCardView">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:FirstValidationErrorConverter x:Key="FirstValidationErrorConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout x:Name="MainStack"
+                     Orientation="Vertical">
+
+            <StackLayout Orientation="Horizontal">
+                <Label Style="{StaticResource InfoLabelStyle}" Text="{Binding Data.Description}" />
+                <Label Style="{StaticResource InfoLabelStyle}" Text="{Binding Data.Amount}" />
+            </StackLayout>
+
+            <StackLayout 
+                Orientation="Vertical"
+                Margin="{DynamicResource Left20Top40}"
+                HorizontalOptions="FillAndExpand"
+                BackgroundColor="#55000000">
+
+
+                <StackLayout x:Name="NameStack"
+                             Orientation="Horizontal" 
+                             Margin="{DynamicResource Left20Top40}"
+                             HorizontalOptions="FillAndExpand">
+
+                    <StackLayout Orientation="Vertical"
+                                 HorizontalOptions="FillAndExpand">
+                        <Entry Placeholder="Credit Card Number" 
+                               Text="{Binding CardNumber.Value, Mode=TwoWay}"
+                               TextColor="White"
+                               PlaceholderColor="White"
+                               HorizontalOptions="FillAndExpand"
+                               Style="{StaticResource EntryStyle}"
+                               Keyboard="Numeric">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding ValidateCcNumberCommand}"/>
+                                <fastEntry:XamarinFastEntryBehaviour Mask="#### #### #### ####"/>
+                            </Entry.Behaviors>
+                            <Entry.Triggers>
+                                <DataTrigger 
+                                    TargetType="Entry"
+                                    Binding="{Binding CardNumber.IsValid}"
+                                    Value="false">
+                                    <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                                </DataTrigger>
+                            </Entry.Triggers>
+
+                        </Entry>
+
+                        <Label 
+                            Text="{Binding CardNumber.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                            Style="{StaticResource ValidationErrorLabelStyle}" />
+                    </StackLayout>
+                    
+
+                </StackLayout>
+
+
+
+                <StackLayout Orientation="Horizontal"
+                             HorizontalOptions="FillAndExpand"
+                             Margin="{DynamicResource Left20Top40}">
+                    <StackLayout Orientation="Vertical"
+                                 HorizontalOptions="FillAndExpand">
+                        <Entry Placeholder="Expiration" 
+                               Text="{Binding ExpDate.Value, Mode=TwoWay}"
+                               TextColor="White"
+                               PlaceholderColor="White"
+                               HorizontalOptions="FillAndExpand"
+                               Style="{StaticResource EntryStyle}"
+                               Keyboard="Telephone">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding ValidateExpiryCommand}"/>
+                                <fastEntry:XamarinFastEntryBehaviour Mask="##/##"/>
+                            </Entry.Behaviors>
+                            <Entry.Triggers>
+                                <DataTrigger 
+                                    TargetType="Entry"
+                                    Binding="{Binding ExpDate.IsValid}"
+                                    Value="false">
+                                    <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                                </DataTrigger>
+                            </Entry.Triggers>
+                        </Entry>
+                        <Label 
+                            Text="{Binding ExpDate.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                            Style="{StaticResource ValidationErrorLabelStyle}" />
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical"
+                                 HorizontalOptions="FillAndExpand">
+                        <Entry Placeholder="CVV" 
+                               Text="{Binding CVV.Value, Mode=TwoWay}"
+                               TextColor="White"
+                               PlaceholderColor="White"
+                               HorizontalOptions="FillAndExpand"
+                               Style="{StaticResource EntryStyle}"
+                               Keyboard="Numeric">
+                            <Entry.Behaviors>
+                                <behaviors:EventToCommandBehavior 
+                                    EventName="TextChanged"
+                                    Command="{Binding ValidateCvvCommand}"/>
+                            </Entry.Behaviors>
+                            <Entry.Triggers>
+                                <DataTrigger 
+                                    TargetType="Entry"
+                                    Binding="{Binding CVV.IsValid}"
+                                    Value="false">
+                                    <Setter Property="behaviors:LineColorBehavior.LineColor" Value="{StaticResource ErrorColor}"></Setter>
+                                </DataTrigger>
+                            </Entry.Triggers>
+                        </Entry>
+                        <Label 
+                            Text="{Binding CVV.Errors, Converter={StaticResource FirstValidationErrorConverter}}"
+                            Style="{StaticResource ValidationErrorLabelStyle}" />
+                    </StackLayout>
+                </StackLayout>
+
+            </StackLayout>
+            
+            <Button Text="Pay Now!" 
+                    Command="{Binding PayCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -8,8 +8,6 @@ using CFT.Promotions.Core.Interfaces;
 using CFT.Promotions.Core.Models;
 using CFT.Promotions.Core.Validation;
 using CFT.Promotions.Core.Validation.Rules;
-using PayPal.Forms;
-using PayPal.Forms.Abstractions;
 using Plugin.Toasts;
 using Xamarin.Forms;
 
@@ -17,12 +15,13 @@ namespace CFT.Promotions.Core.ViewModels
 {
     public class SignUpViewModel : ViewModelBase
     {
+        public ICommand ClearFieldsCommand => new Command(ClearEntryFields);
         public ICommand ValidateFirstNameCommand => new Command(() => ValidateFirstName());
         public ICommand ValidateLastNameCommand => new Command(() => ValidateLastName());
         public ICommand ValidateEmailCommand => new Command(() => ValidateEmail());
 
         private Command _payCommand;
-        public ICommand PayCommand => _payCommand ?? (_payCommand = new Command( async (e) => await OnPayAsync(e)));
+        public ICommand PayCommand => _payCommand ?? (_payCommand = new Command( async e => await OnPayAsync(e)));
         
         private Command _refreshCommand;
         public ICommand RefreshCommand => _refreshCommand ?? (_refreshCommand = new Command(async () => await OnRefreshAsync()));
@@ -119,47 +118,27 @@ namespace CFT.Promotions.Core.ViewModels
                              + ": " + trip.DepartureDate .ToString("d")
                              + " - " + trip.ReturnDate.ToString("d");
 
-            var result = await CrossPayPalManager.Current.Buy(
-                new PayPalItem(tripString, GetFinalProductPrice(type), "USD"), 0);
 
-            var options = new NotificationOptions()
+
+            var data = new CCTransData
             {
-                Title = "Payment Successful"
+                Description = tripString,
+                Amount = GetFinalProductPrice(type),
+                CustomerFirstName = _firstName.Value,
+                CustomerLastName = _lastName.Value,
+                CustomerEmail = _email.Value,
+                Trip = trip
             };
 
-            switch (result.Status)
-            {
-                    
-
-                case PayPalStatus.Successful:
-                    CrossPayPalManager.Current.ClearUserData();
-                    await SendPassengerManifest(trip);
-                    ClearEntryFields();
-                    await _toaster.Notify(options);
-                    break;
-
-                case PayPalStatus.Cancelled:
-                    options.Title = "Payment Cancelled";
-                    await _toaster.Notify(options);
-                    break;
-
-                case PayPalStatus.Error:
-                    options.Title = "Payment Error";
-                    await _toaster.Notify(options);
-                    break;
-
-                default:
-
-                    throw new ArgumentOutOfRangeException();
-            }
+            await Navigation.NavigateToAsync<CreditCardViewModel>(data);
         }
 
         private decimal GetFinalProductPrice(TripTypes type)
         {
             if (currentPromo != null)
-                return type.Price * ((decimal)1 - (decimal)currentPromo.DiscountPercentage / (decimal)100);
-            else
-                return type.Price;
+                return type.Price * (1 - currentPromo.DiscountPercentage / (decimal)100);
+
+            return Math.Round(type.Price, 2, MidpointRounding.AwayFromZero);
         }
 
         private void ClearEntryFields()
@@ -173,19 +152,7 @@ namespace CFT.Promotions.Core.ViewModels
             _email.IsValid = true;
         }
 
-        private Task SendPassengerManifest(Trips trip)
-        {
-            var record = new TripManifests
-            {
-                EmailAddress = Email.Value,
-                FirstName = FirstName.Value,
-                LastName = LastName.Value,
-                Paid = true,
-                TripId = trip.Id,
-                DatePaid = DateTime.Now
-            };
-            return _unit.Manifests.AddItemAsync(record);
-        }
+        
 
         private void BuildValidationObjects()
         {
