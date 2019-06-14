@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>CFT.API</AssemblyName>
+    <RootNamespace>CFT.API</RootNamespace>
+    <DockerTargetOS>Windows</DockerTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="Data\**" />
+    <Content Remove="Models\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="Data\**" />
+    <None Remove="Models\**" />
+    <None Remove="wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="web.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Models\BaseItem.cs" />
+    <Compile Include="Models\Buses.cs" />
+    <Compile Include="Models\CFTContext.cs" />
+    <Compile Include="Models\Extensions.cs" />
+    <Compile Include="Models\LoginModel.cs" />
+    <Compile Include="Models\Messages.cs" />
+    <Compile Include="Models\Travelers.cs" />
+    <Compile Include="Models\TravelTypes.cs" />
+    <Compile Include="Models\TripManifests.cs" />
+    <Compile Include="Models\Trips.cs" />
+    <Compile Include="Models\TripTypes.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Models\Users.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.3" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.1916590" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="web.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="logs\stdout\" />
+  </ItemGroup>
+
+</Project>
